@@ -1,0 +1,911 @@
+id,text,label,class3,lang,category,family,noise,source
+kk00000,Сіздің №41302348 тапсырысыңыз беру пунктіне келді. Күтілетін күні: 20.11. Бақылау: https://shop.summitcopper26.test/payment/receipt?id=99557,0,safe,kk,delivery,kk-safe-delivery-0,,synthetic
+kk00001,"Амансың ба, Айнұр! Бүгін 18:00-де кездесейік? Кафе жанында күтемін",0,safe,kk,chat,kk-safe-chat-0,nopunct,synthetic
+kk00002,Биржада сауда: пайда аптасына 30%-дан! Қауіпсіз. Чатқа қосыл @investonline.,1,fraud,kk,investment,kk-fraud-investment-0,,synthetic
+kk00003,Салық комитеті: құжаттарыңыз дайын. Өтінім нөмірі 55764017.,0,safe,kk,gov_edu,kk-safe-gov_edu-1,,synthetic
+kk00004,"Сәлем, Айгүл! Бүгін 16:00-де кездесеміз бе? Жұмыстан кейін хабарласамын.",0,safe,kk,chat,kk-safe-chat-0,typo,synthetic
+kk00005,Назар аударыңыз: Шұғыл: клиент 16:30-ге дейін жауап күтеді. Қатысуыңызды растаңыз.,0,safe,kk,work,kk-safe-work-1,greet,synthetic
+kk00006,Мемлекеттік өтемақы 345 теңге сізге тиесілі. Қаражатты рәсімдеңіз 03.12 дейін: https://chase.example@travel-books.example/account/settings,1,fraud,kk,gov_payment,kk-fraud-gov_payment-0,,synthetic
+kk00007,"Деканат:  емтихан 03.12 күніне, 16:45-ге белгіленді",0,safe,kk,gov_edu,kk-safe-gov_edu-0,nopunct+dblspace,synthetic
+kk00008,"Қайырлы күн! Резюмеңізді көрдік. Төлем ауысымына 36 670 ₸, екрін кесте. Тапсырмалар телефоннан орындалады. WhatsApp-қа +7 783 000 33 61 жазыңыз.",1,fraud,kk,fake_job,kk-fraud-fake_job-0,typo,synthetic
+kk00009,Әкімдік: 597 ₸ берешек өтелді. Рахмет.,0,safe,kk,gov_edu,kk-safe-gov_edu-2,,synthetic
+kk00010,"Береке: Пекарня дүкенінде 865 теңге төлем жасалды, карта *7448. Қалдық: 43 тг",0,safe,kk,bank_notice,kk-safe-bank_notice-0,nopunct,synthetic
+kk00011,Kaspi: карта *1454-ға 35 822 ₸ түсті. Күніңіз жақсы өтсін!,0,safe,kk,bank_notice,kk-safe-bank_notice-1,close,synthetic
+kk00012,"148570 — Magnum жүйесіне кіру коды. Егер сіз сұрамасаңыз, бұл хабарламаны елемеңіз.",0,safe,kk,otp,kk-safe-otp-1,,synthetic
+kk00013,"Маман: телефоныңыздан вирус анықтадық. +7 763 000 27 41 нөміріне қоңырау шалыңыз, біз көмектесеміз.",1,fraud,kk,tech_support,kk-fraud-tech_support-1,,synthetic
+kk00014,Сіздің №85729585 тапсырысыңыз жөнелтілді. Күтілетін күні: 20.11. Бақылау: https://www.hsbc.test/ пожалуйста,0,safe,kk,delivery,kk-safe-delivery-0,mix,synthetic
+kk00015,Назар аударыңыз: Жаңа құрылғыдан кіру анықталды. Қорғау үшін құпия сөзді ауыстырыңыз: http://chase.bank-north.test/verify/VDC87VF3O290XhxoiyhJQ,1,fraud,kk,account_pwd,kk-fraud-account_pwd-1,greet,synthetic
+kk00016,"Сәлем, Гүлнар! Бүгін 20:00-де кездесейік? Кафе жанында күтемін. Жауап қажет емес.",0,safe,kk,chat,kk-safe-chat-0,close,synthetic
+kk00017,"сәлеметсіз бе! қашықтан жұмысқа шақырамыз. төлем ауысымына 668 ₸, еркін кесте. тапсырмалар телефоннан орындалады. whatsapp-қа 8 777 000 86 94 жазыңыз.",1,fraud,kk,fake_job,kk-fraud-fake_job-0,lower,synthetic
+kk00018,"Сәлеметсіз бе! Сізге Береке маманы қоңырау шалды. Оған осы хабарламадағы кодты: 376662 айтыңыз, шотты қорғау үшін.",1,fraud,kk,cvv_code,kk-fraud-cvv_code-1,greet,synthetic
+kk00019,Ақшаңызды қайтарамыз сатып алу үшін. Карта деректерін қалдырыңыз есептеу үшін: http://login-delta-green.test/update,1,fraud,kk,bonus_refund,kk-fraud-bonus_refund-1,,synthetic
+kk00020,нөміріңіз таңдалды! сыйлықты алу үшін комиссия 78 781 теңге төлеңіз. Жауап қажет емес.,1,fraud,kk,prize,kk-fraud-prize-1,lower+close,synthetic
+kk00021,Сәлеметсіз бе! қауіпсіздік қызметінің қызметкері: күдікті операцияны болдырмау үшін пин-кодты айтыңыз.,1,fraud,kk,cvv_code,kk-fraud-cvv_code-0,lower+greet,synthetic
+kk00022,Жедел несие 66 ₸ дейін 5 минутта. Рәсімдеу: https://studio.example/s/O7gcGIJ8DykwwwUO Құрметпен.,,suspicious,kk,loan_ad,kk-suspicious-loan_ad-0,close,synthetic
+kk00023,"Сәлем! Мен сенің ұлыңмын, телефоным бұзылды. 242 ₸ аударып жіберші, кейін қайтарамын.",1,fraud,kk,relative,kk-fraud-relative-1,greet,synthetic
+kk00024,Әкімдік: 53 теңге берешек төленді. Рахмет. Құрметпен.,0,safe,kk,gov_edu,kk-safe-gov_edu-2,close,synthetic
+kk00025,Картаңыз бұғатталды! Бүгін картаны ашыңыз сайтта: https://jusan.test@marketcity.test/prime-tau Жауап қажет емес.,1,fraud,kk,card_block,kk-fraud-card_block-0,close,synthetic
+kk00026,"434455 — Aviata 53 797 ₸ төлемін растау коды. Егер сіз сұрамасаңыз, бұл хабарламаны елемеіңз.",0,safe,kk,otp,kk-safe-otp-1,typo,synthetic
+kk00027,"Таныс брокерім бір схема көрсетті: 5 теңге салып, бір аптада үш есе алдым. Сен де қалайсың ба? @promo.24",1,fraud,kk,investment,kk-fraud-investment-1,,synthetic
+kk00028,Әкем: сенбідегі кездесуді ұмытпа. Сені сағындық.,0,safe,kk,family,kk-safe-family-0,,synthetic
+kk00029,Қайырлы күн. Жедел несие бас татрусыз картаға. Рәсімдеу: https://lnk.example/65353,,suspicious,kk,loan_ad,kk-suspicious-loan_ad-0,typo+greet,synthetic
+kk00030,Қайырлы күн. Курьер 01.12 сағат 10-нан 14-ке дейін келеді. Төлем төленген.,0,safe,kk,delivery,kk-safe-delivery-1,greet,synthetic
+kk00031,"Дәулет, презентация келісуде. 15:30-де кездесу кеңседе.",0,safe,kk,work,kk-safe-work-0,,synthetic
+kk00032,Мемлекеттік салықты қайтару 57 759 тг сізге тиесілі. Қаражатты рәсімдеңіз 12.11 дейін: https://binance-secure.example/login?continue=/home,1,fraud,kk,gov_payment,kk-fraud-gov_payment-0,,synthetic
+kk00033,"Jusan: Кофеханасы кафесінде 60 112 ₸ сомасына сатып алу, карта *9061. Қалдық: 10 469 ₸.",0,safe,kk,bank_notice,kk-safe-bank_notice-0,,synthetic
+kk00034,"Хабарлама: сіздің атыңызда 242 тг қарыз тіркелген салық бойынша. Бүгін төлеңіз, әйтпесе іс сот орындаушыларына жолданады: http://steppevista70.test/?user=Ibexorai&session=p4kQk&cid=y6jeV6eY",1,fraud,kk,debt,kk-fraud-debt-0,,synthetic
+kk00035,Сбербанк: карта *0812-ға 21 ₸ түсті.,0,safe,kk,bank_notice,kk-safe-bank_notice-1,,synthetic
+kk00036,"Сәлеметсіз  бе! Мен Дәріхана бухгалтериясынан Жанар. Байқаусызда 90 теңге жібердік, *5304 картасына қайтарыңызшы.",1,fraud,kk,money_transfer,kk-fraud-money_transfer-0,dblspace,synthetic
+kk00037,Еске саламыз: 20.11 сағат 21:15-де кездесу. Мекенжайы: Magnum.,0,safe,kk,reminder,kk-safe-reminder-0,,synthetic
+kk00038,Сбербанк: сіздің өтінішіңіз бойынша карта *3218 бұғатталды. Қосымшада немесе бөлімшеде ашуға болады.,0,safe,kk,bank_notice,kk-safe-bank_notice-2,,synthetic
+kk00039,Береке: сіздің төінішіңіз бойынша карта *5450 уақытша бұғатталды.,0,safe,kk,bank_notice,kk-safe-bank_notice-2,typo,synthetic
+kk00040,Сіздің сәлемдемеңіз қоймада ұсталды. Жеткізу бойынша қосымша төлемді 18 425 тг 48 сағат ішінде төлеңіз: https://bank-blue-nomad.example/index.php?id=5120,1,fraud,kk,delivery_customs,kk-fraud-delivery_customs-0,,synthetic
+kk00041,"Сәлеметсіз бе! Амансың ба, Бақыт! Ертең 15:45-де кездесейік? Кафе жанында күтемін.",0,safe,kk,chat,kk-safe-chat-0,greet,synthetic
+kk00042,Kaspi-Магазин: жаңа коллекция сайтта 03.12 дейін. Бас тарту үшін СТОП деп жауап беріңіз,0,safe,kk,ads,kk-safe-ads-0,,synthetic
+kk00043,jusan: карта *5766-ға 74 ₸ аударылды.,0,safe,kk,bank_notice,kk-safe-bank_notice-1,lower,synthetic
+kk00044,Еске саламыз: 12.11 сағат 14:30-де дәрігер қабылдауы. Мекенжайы: Базар.,0,safe,kk,reminder,kk-safe-reminder-0,,synthetic
+kk00045,Курьер 15.11.2026 кешкі 18:00-ден кейін келеді. Курьер нөмірі: 8 799 000 29 72,0,safe,kk,delivery,kk-safe-delivery-1,,synthetic
+kk00046,"Университет: сабақ 12.11 күніне, 11:15-ге белгіленді. Аудитория 91404423.",0,safe,kk,gov_edu,kk-safe-gov_edu-0,,synthetic
+kk00047,Жедел несие бас тартусыз картаға. Толығырақ: http://chase.confirm-green.example/s/h3oWgxntXeG6,,suspicious,kk,loan_ad,kk-suspicious-loan_ad-0,,synthetic
+kk00048,Ескертеміз: 03.12 сағат 18:30-де кездесу. Ауыстыру үшін +7 760 000 53 85 нөміріне хабарласыңыз.,0,safe,kk,reminder,kk-safe-reminder-0,,synthetic
+kk00049,Сіз бақытты иегерсіз! Сіз Magnum акциясында 30 ₸ жеңіп алдыңыз. Ұтысты алу үшін өтіңіз: https://confirm-atlascity.example/claim/49784,1,fraud,kk,prize,kk-fraud-prize-0,,synthetic
+kk00050,"Қадірлі клиент, құпия сөзіңіздің мерзімі аяқталды. Мәліметтерді жаңартыңыз тез арада: http://wallet-grandsummit63.example/verify/gAMejkPgElESlekXsVD",1,fraud,kk,bank_phish,kk-fraud-bank_phish-1,,synthetic
+kk00051,Қайырлы күн. Сіздің №80067224 тапсырысыңыз жөнелтілді. Күтілетін күні: 01.12. Жауап қажет емес.,0,safe,kk,delivery,kk-safe-delivery-0,greet+close,synthetic
+kk00052,ХҚКО: қабылдау алдын ала жазылу бойынша. Өтінім нөмірі 429239.,0,safe,kk,gov_edu,kk-safe-gov_edu-1,,synthetic
+kk00053,Кодыңыз: 559543. Оны eTchnodom сайтына енгізіңіз.,,suspicious,kk,otp_nowarn,kk-suspicious-otp_nowarn-0,typo,synthetic
+kk00054,Ескертеміз: 15.11.2026 сағат 21:15-де дәрігер қабылдауы. Мекенжайы: Дәріхана.,0,safe,kk,reminder,kk-safe-reminder-0,,synthetic
+kk00055,"Амансың ба, Айнұр! Ертең 9:45-де жолығамыз ба? Мен кітапхана алдында боламын. 💳",0,safe,kk,chat,kk-safe-chat-0,emoji,synthetic
+kk00056,"Бір реттік код: 641893. Кодты ешкімге бермеңіз, тіпті Береке қызметкеріне де. Құрметпен.",0,safe,kk,otp,kk-safe-otp-0,close,synthetic
+kk00057,"Айнұр, сыйлық үшін рахмет! Демалыста кездесеміз. Күніңіз жақсы өтсін!",0,safe,kk,family,kk-safe-family-1,close,synthetic
+kk00058,Жедел несие 468 ₸ дейін 5 минутта. Рәсімдеу: https://shrt.test/71142 ok,,suspicious,kk,loan_ad,kk-suspicious-loan_ad-0,mix,synthetic
+kk00059,"329201 — Дәріхана жүйесіне кіру коды. Егер сіз сұрамасаңыз, бұл хабарламаны елемеңіз. ✅",0,safe,kk,otp,kk-safe-otp-1,emoji,synthetic
+kk00060,"Әке, мен апатқа ұшырадым. Шұғыл 28 теңге картаға аудар, телефоным сынды, бөтен нөмірден жазып тұрмын.",1,fraud,kk,relative,kk-fraud-relative-0,,synthetic
+kk00061,"Сізге Сбербанк қызметкері қоңырау шалады. Оған осы хабарламадағы кодты: 304031 айтыңыз, шотты қорғау үшін.",1,fraud,kk,cvv_code,kk-fraud-cvv_code-1,,synthetic
+kk00062,halyk: карта *7893-ға 7 216 ₸ аударылды.,0,safe,kk,bank_notice,kk-safe-bank_notice-1,lower,synthetic
+kk00063,"Назар аударыңыз: ForteBank: Пекарня дәріханасында 62 ₸ сомасына сатып алу, карта *0408. Қалдық: 752 ₸",0,safe,kk,bank_notice,kk-safe-bank_notice-0,nopunct+greet,synthetic
+kk00064,Avaita тіркелгіңіз бүгін жойылады. Кіруді қалпына келтіріңіз осы жерде: http://bonus.royal.fedex.swift.invalid//login,1,fraud,kk,account_pwd,kk-fraud-account_pwd-0,typo,synthetic
+kk00065,"Асхат, туған күніңмен! Қонаққа кел.",0,safe,kk,family,kk-safe-family-1,,synthetic
+kk00066,433251 — Small 13 954 ₸ төлемін растау коды. 5 минут жарамды.,0,safe,kk,otp,kk-safe-otp-1,,synthetic
+kk00067,Technodom: сатылым дүкендерде 01.12 дейін. Толығырақ: https://help.copperterra96.example/about срочно,0,safe,kk,ads,kk-safe-ads-0,mix,synthetic
+kk00068,Қауіпсіздік қызметінің қызметкері: 18 тг сомасын тоқтату үшін пин-кодты жіберіңіз.,1,fraud,kk,cvv_code,kk-fraud-cvv_code-0,,synthetic
+kk00069,Halyk: *5827 картасына қолжетімділік шектелді. Картаны қолдануды жалғастыру үшін сілтемеге өтіңіз: https://eegov.example/index.php?id=29240,1,fraud,kk,card_block,kk-fraud-card_block-1,,synthetic
+kk00070,Ақшаңызды қайтарамыз байланыс қызметі үшін. Карта нөмірін көрсетіңіз 39 тг алу үшін: http://jmp.test/2zeRhs 💳,1,fraud,kk,bonus_refund,kk-fraud-bonus_refund-1,emoji,synthetic
+kk00071,Назар аударыңыз: Сіздің №68051026 тапсырысыңыз жеткізуге берілді. Жеткізу күні: 12.11.,0,safe,kk,delivery,kk-safe-delivery-0,greet,synthetic
+kk00072,"Дәулет, презентация келісуде. 8:00-де кездесу Zoom-да. срочно",0,safe,kk,work,kk-safe-work-0,mix,synthetic
+kk00073,Әжем: кешкі асты есіңде болсын. Кешке қоңырау шал.,0,safe,kk,family,kk-safe-family-0,,synthetic
+kk00074,"Мөлдір, мерекең құтты болсын! Демалыста кездесеміз.",0,safe,kk,family,kk-safe-family-1,,synthetic
+kk00075,ҚОЛДАУ ҚЫЗМЕТІ SULPAK: АККАУНТЫҢЫЗ БҰЗЫЛДЫ. ҚОРҒАНЫС ҚОСЫМШАСЫН ОРНАТЫҢЫЗ: HTTPS://CLOUD-GRAND-PAYMENT.TEST/5OJ5ZN/WRDMYJH8FH0U/ILJFRMAMFGM/K5XTKV?A=CFZRNXGBF9NKMIID2I4X,1,fraud,kk,tech_support,kk-fraud-tech_support-0,upper,synthetic
+kk00076,762004  — Дәріхана 7 077 ₸ төлемін растау коды. 5 минут жарамды.,0,safe,kk,otp,kk-safe-otp-1,dblspace,synthetic
+kk00077,"Салтанат, үйге келгенде хабарла. Кешкі асқа үлгер.",0,safe,kk,chat,kk-safe-chat-1,,synthetic
+kk00078,ForteBank: сіздің өтінішіңіз бойынша карта *6829 бұғатталды. Қосымшада немесе бөлімшеде ашуға болады. Жауап қажет емес.,0,safe,kk,bank_notice,kk-safe-bank_notice-2,close,synthetic
+kk00079,Әкімдік: құжаттарыңыз дайын. Толығырақ: https://egov-portal.example/status/30550,0,safe,kk,gov_edu,kk-safe-gov_edu-1,,synthetic
+kk00080,"Әке, полициямен мәселе болды. Тез 30 ₸ картаға аудар, кейін түсіндіремін.",1,fraud,kk,relative,kk-fraud-relative-0,,synthetic
+kk00081,"Сәлеметсіз бе! Төлеген, презентация дайын. 21:00-де онлайн-кездесу кеңседе. Түзетулерді ертеңге дейін жіберіңіз. Құрметпен.",0,safe,kk,work,kk-safe-work-0,greet+close,synthetic
+kk00082,"fortebank: дәріхана дүкенінде 62 754 ₸ сомасына сатып алу, карта *1575. қалдық: 32 ₸. пожалуйста",0,safe,kk,bank_notice,kk-safe-bank_notice-0,lower+mix,synthetic
+kk00083,Картаңыз бұғатталды! Бүгін картаны ашыңыз сайтта: http://kazpost-secure.example/,1,fraud,kk,card_block,kk-fraud-card_block-0,,synthetic
+kk00084,"Растау коды: 355819. Оны ешкімге айтпаңыз, банк қызметкерлеріне де. Күніңіз жақсы өтсін! пожалуйста",0,safe,kk,otp,kk-safe-otp-0,close+mix,synthetic
+kk00085,"Маман: телефоныңыздан вирус анықтадық. @pro.team чатына жазыңыз, құрылғыны өшірмеңіз. 🙏",1,fraud,kk,tech_support,kk-fraud-tech_support-1,emoji,synthetic
+kk00086,"Сәлем, мынаны қарашы: https://shrt.test/67197",,suspicious,kk,unknown_link,kk-suspicious-unknown_link-0,nopunct,synthetic
+kk00087,"753612 — Sulpak жүйесіне кіру коды. Егер сіз сұрамасаңыз, бұл хабарламаны елемеңіз.",0,safe,kk,otp,kk-safe-otp-1,,synthetic
+kk00088,"сәлем, мынаны қарашы: https://update-garden-market.invalid/track/78910",,suspicious,kk,unknown_link,kk-suspicious-unknown_link-0,lower+nopunct,synthetic
+kk00089,Маңызды: жиналыс 9:15-ге ауыстырылды,0,safe,kk,work,kk-safe-work-1,nopunct,synthetic
+kk00090,Ескертеміз: 01.12 сағат 7:15-де жаттығу. Ауыстыру үшін 8 753 000 25 91 нөміріне хабарласыңыз.,0,safe,kk,reminder,kk-safe-reminder-0,,synthetic
+kk00091,"СОҢҒЫ ЕСКЕРТУ. ДЕРЕКТЕРІҢІЗ БЕЛГІЛІ БОЛДЫ. ПОЛИЦИЯҒА ЖҮГІНБЕҢІЗ, САЛДАРЫНАН АУЛАҚ БОЛУ ҮШІН @PRO.24 ЖАЗЫҢЫЗ",1,fraud,kk,fear_secrecy,kk-fraud-fear_secrecy-0,lower+nopunct+upper,synthetic
+kk00092,"Мен сенің ұлыңмын, нөмірімді ауыстырдым. 41 ₸ аударып жіберші, кейін қайтарамын. 🙏",1,fraud,kk,relative,kk-fraud-relative-1,emoji,synthetic
+kk00093,"Назар аударыңыз. Суреттеріңіз желіге түсті. Полицияға жүгінбеңіз, салдарынан аулақ болу үшін @job.online жазыңыз.",1,fraud,kk,fear_secrecy,kk-fraud-fear_secrecy-0,,synthetic
+kk00094,Маңызды: жиналыс 17:15-ге ауыстырылды.,0,safe,kk,work,kk-safe-work-1,,synthetic
+kk00095,Әкімдік: 886 тг берешек өтелді. Рахмет.,0,safe,kk,gov_edu,kk-safe-gov_edu-2,,synthetic
+kk00096,"Мен сенің ұлыңмын, нөмірімді ауыстырдым. 28 944 теңге шұғыл аудар, кейін айтамын.",1,fraud,kk,relative,kk-fraud-relative-1,,synthetic
+kk00097,Сізге жәрдемақы есептелді. Ақшаны алу үшін сауалнаманы толтырыңыз: https://fedex-confirm.example/login,1,fraud,kk,gov_payment,kk-fraud-gov_payment-1,,synthetic
+kk00098,"Төлеген, үйге келгенде қоңырау шал. Кешкі асқа үлгер. 💳",0,safe,kk,chat,kk-safe-chat-1,emoji,synthetic
+kk00099,Сіз бақытты иегерсіз! Сіз Kaspi-Магазин акциясында смартфон ұттыңыз. Ұтысты алу үшін өтіңіз: https://metrocity647662.example/9agO85w4eTrN,1,fraud,kk,prize,kk-fraud-prize-0,nopunct,synthetic
+kk00100,"Сәлем! Растау коды: 548739. Оны ешкімге айтпаңыз, тпіті Kaspi қызметкеріне де. ✅",0,safe,kk,otp,kk-safe-otp-0,typo+greet+emoji,synthetic
+kk00101,Сәлем! Сізден алаяқтық бойынша өтініш түсті. Келу міндетті. Ешкімге айтпаңыз,1,fraud,kk,fear_secrecy,kk-fraud-fear_secrecy-1,nopunct+greet,synthetic
+kk00102,Ескертеміз: 01.12 сағат 22:00-де жаттығу. Ауыстыру үшін +7 787 000 49 59 нөміріне хабарласыңыз.,0,safe,kk,reminder,kk-safe-reminder-0,,synthetic
+kk00103,"Хабарлама: сіздің атыңызда 561 ₸ қарыз тіркелген коммуналдық қызмет бойынша. 01.12 дейін төлеңіз, әйтпесе сотқа беріледі: http://egov-auth.invalid/bank/login.php?session=RFwbPxBAzITUY96qMuB&user=44936",1,fraud,kk,debt,kk-fraud-debt-0,,synthetic
+kk00104,Samll:  сатылым қосымшада 20.11 дейін. Бас тарту үшін СТОП деп жауап беріңіз,0,safe,kk,ads,kk-safe-ads-0,typo+dblspace,synthetic
+kk00105,Сізден алаяқтық бойынша өтініш түсті. Дереу 8 742 000 84 15 нөміріне қоңырау шалыңыз. Ешкімге айтпаңыз.,1,fraud,kk,fear_secrecy,kk-fraud-fear_secrecy-1,,synthetic
+kk00106,"Әке, мен апатқа ұшырадым. Тез 44 ₸ картаға аудар, телефоным сынды, бөтен нөмірден жазып тұрмын.",1,fraud,kk,relative,kk-fraud-relative-0,,synthetic
+kk00107,"Деканат: сабақ 15.11.2026 күніне, 14:00-ге ауыстырылды. Аудитория 64435092.",0,safe,kk,gov_edu,kk-safe-gov_edu-0,,synthetic
+kk00108,"Құрметті клиент, құпия сөзіңіздің мерзімі аяқталды. Деректерді растаңыз тез арада: http://192.0.2.30/docs/silk-alpha-books-metro.html",1,fraud,kk,bank_phish,kk-fraud-bank_phish-1,,synthetic
+kk00109,"Асхат, сыйлық үшін рахмет! Демалыста кездесеміз.",0,safe,kk,family,kk-safe-family-1,,synthetic
+kk00110,"Университет: емтихан 20.11 күніне, 12:00-ге белгіленді. Аудитория 6111022.",0,safe,kk,gov_edu,kk-safe-gov_edu-0,,synthetic
+kk00111,Шұғыл: жиналыс 21:45-ге ауыстырылды. Қатысуыңызды растаңыз. 😊,0,safe,kk,work,kk-safe-work-1,emoji,synthetic
+kk00112,Kaspi: *4021 картасына қолжетімділік шектелді. Картаны қолдануды жалғастыру үшін тексеруден өтіңіз: https://login-steppe-market.test/docs/prime-delta-royal.html,1,fraud,kk,card_block,kk-fraud-card_block-1,,synthetic
+kk00113,"Қайырлы күн! Резюмеңізді көрдік. Төлем күніне 145 тг, еркін кесте. Оқыту тегін. WhatsApp-қа +7 780 000 92 73 жазыңыз.",1,fraud,kk,fake_job,kk-fraud-fake_job-0,,synthetic
+kk00114,"Мен сенің ұлыңмын, нөмірімді ауыстырдым. 513 тг шұғыл аудар, кейін айтамын. срочно",1,fraud,kk,relative,kk-fraud-relative-1,mix,synthetic
+kk00115,"Айгүл, үйге келгенде хабарла. Дүкеннен сүт алып кел.",0,safe,kk,chat,kk-safe-chat-1,,synthetic
+kk00116,380634 — kaspi-магазин жүйесіне кіру коды. 5 минут жарамды.,0,safe,kk,otp,kk-safe-otp-1,lower,synthetic
+kk00117,"Назар аударыңыз: Halyk: Пекарня дәріханасында 489 ₸ сомасына сатып алу, карта *4768. Қолжетімді сома: 36 445 теңге.",0,safe,kk,bank_notice,kk-safe-bank_notice-0,greet,synthetic
+kk00118,Сәлеметсіз бе! Жаңа құрылғыдан кіру анықталды. Қорғау үшін құпия сөзді ауыстырыңзы: https://secure.garden.barclays.craft.test/s/9pU03gBJMyjriT6,1,fraud,kk,account_pwd,kk-fraud-account_pwd-1,typo+greet,synthetic
+kk00119,Әкімдік: 33 805 ₸ айыппұл өтелді. Рахмет. ✅,0,safe,kk,gov_edu,kk-safe-gov_edu-2,emoji,synthetic
+kk00120,"Таныс брокерім бір схема көрсетті: 30 312 ₸ салып, бір аптада үш есе алдым. Жаз? @cash.online",1,fraud,kk,investment,kk-fraud-investment-1,,synthetic
+kk00121,"Айнұр, бос болғанда қоңырау шал. Нан алып келе ме?",0,safe,kk,chat,kk-safe-chat-1,,synthetic
+kk00122,қауіпсіздік қызметінің қызметкері: күдікті операцияны тоқтату үшін sms-тағы кодты айтыңыз.,1,fraud,kk,cvv_code,kk-fraud-cvv_code-0,lower,synthetic
+kk00123,Картаңыз бұғатталды. Дереу деректерді растаңыз сайтта: https://apple.bonus-travel.example/account/settings,1,fraud,kk,card_block,kk-fraud-card_block-0,,synthetic
+kk00124,"Таныс брокерім стратегиямен бөлісті: 74 теңге салып, бір аптада үш есе алдым. Жаз? @promo.24",1,fraud,kk,investment,kk-fraud-investment-1,,synthetic
+kk00125,Сіз жеңімпаз атандыңыз! Ұтысты алу үшін осы хабарламаға жауап беріңіз. Жауап қажет емес.,1,fraud,kk,prize,kk-fraud-prize-1,close,synthetic
+kk00126,"агйүл, сыйлық үшін рахмет! демалыста кездесеміз. Жауап қажет емес.",0,safe,kk,family,kk-safe-family-1,lower+typo+close,synthetic
+kk00127,Салық шегерімі мақұлданды. Ақшаны алу үішн карта деректерін көрсетіңіз: https://gift.orbit.sberbank.filmriver.test/auth/signin?redirect=%2Fhome,1,fraud,kk,gov_payment,kk-fraud-gov_payment-1,typo,synthetic
+kk00128,Сіздің сәлемдемеңіз қоймада тұр. Кеден алымын 714 ₸ 12.11 дейін төлеңіз: https://netfflix1.example/track/95710,1,fraud,kk,delivery_customs,kk-fraud-delivery_customs-0,,synthetic
+kk00129,Сіздің сәлемдемеңіз қоймада тұр. Жеткізу бойынша қосымша төлемді 66 671 тг 48 сағат ішінде төлеңіз: http://harbormetro52.example/?ref=Jvt2UzXxzb&redirect=a7Jb&user=tVc7NUA&session=MqqZR&token=ogNG,1,fraud,kk,delivery_customs,kk-fraud-delivery_customs-0,,synthetic
+kk00130,Сәлеметсіз бе! Техникалық қолдау Technodom: құрылғыңызға вирус түсті. Қашықтан көмек бағдарламасын орнатыңыз: http://royalfresh483029.invalid/ByHpGSJ0 спс,1,fraud,kk,tech_support,kk-fraud-tech_support-0,greet+mix,synthetic
+kk00131,Картаңыз бұғтаталды. Дереу картаны ашыңыз мына сілтеме арқылы: https://harbor-maple2761.test/qHtvhVt1,1,fraud,kk,card_block,kk-fraud-card_block-0,typo,synthetic
+kk00132,"Сәлем, мынаны қарашы: https://www.binance.example/catalog/copper/copper?page=7&sort=price",,suspicious,kk,unknown_link,kk-suspicious-unknown_link-0,,synthetic
+kk00133,Картаңыз бұғатталады. Жедел түрде картаны ашыңыз мына сілтеме арқылы: https://lumenforest.test/reset/eojFdn4YilcsMDNgyHg76Rc8 Жауап қажет емес.,1,fraud,kk,card_block,kk-fraud-card_block-0,nopunct+close,synthetic
+kk00134,"Біздің талдаушы бір схема көрсетті: 804 тг салып, бір аптада үш есе алдым. Жаз? @cashonline Күніңіз жақсы өтсін!",1,fraud,kk,investment,kk-fraud-investment-1,close,synthetic
+kk00135,№53894763 сәлемдемені жеткізу мүмкін болмады. Мекенжадйы нақтылаңыз және сақтау ақысын 69 ₸ төлеңіз: https://gooogle.test/s/cZLjOfJ3D1Sahum,1,fraud,kk,delivery_customs,kk-fraud-delivery_customs-1,typo,synthetic
+kk00136,Жаңа құрылғыдан кіру анықталды. Бұл сіз болмасаңыз құпия сөзді ауыстырыңыз: https://telegram.verify-tau.invalid//login,1,fraud,kk,account_pwd,kk-fraud-account_pwd-1,,synthetic
+kk00137,Сіздің №72138069 тапсырысыңыз жеткізуге берілді. Жеткізу күні: 20.11. Бақылау: http://login.citymaple98.example/verify?continue=/home Жауап қажет емес.,0,safe,kk,delivery,kk-safe-delivery-0,close,synthetic
+kk00138,Сәлеметсіз бе! Сіздің №9608241 тапсырысыңыз жеткізуге берілді. Күтілетін күні: 12.11. Бақылау: https://www.wellsfargo.example/payment/receipt?id=15702,0,safe,kk,delivery,kk-safe-delivery-0,greet,synthetic
+kk00139,Криптовалюта: табыс аптасына 30%-дан! Қайтарым кепілдігі. Чатқа кіріңіз @pro.team. спс,1,fraud,kk,investment,kk-fraud-investment-0,mix,synthetic
+kk00140,Kaspi қауіпсіздік қызметі: жеке кабинетіңізде күдікті әрекет анықталды. Қаражатты қорғау үшін сілтеме бойынша кіріңіз: https://payment-urbanmedia12.test/ Жауап қажет емес.,1,fraud,kk,bank_phish,kk-fraud-bank_phish-0,close,synthetic
+kk00141,"Операторлар қабылданады үйден: тапсырыс, табыс 50 088 ₸. Бүгін баста @help24",1,fraud,kk,fake_job,kk-fraud-fake_job-1,,synthetic
+kk00142,"Ерлан, туған күніңмен! Демалыста кездесеміз.",0,safe,kk,family,kk-safe-family-1,,synthetic
+kk00143,мемлекеттік әлеуметтік төлем 13 ₸ сізге тиесілі. қаражатты рәсімдеңіз 01.12 дейін: http://kazpost-auth.example/account/confirm,1,fraud,kk,gov_payment,kk-fraud-gov_payment-0,lower,synthetic
+kk00144,Сізге 367 ₸ қайтарым есептелді. Бонусты алыңыз 12.11 дейін: https://market-green2632.example/uoIeuOtO,1,fraud,kk,bonus_refund,kk-fraud-bonus_refund-0,,synthetic
+kk00145,kaspi: сіздің өтінішіңіз бойынша карта *5219 бұғатталды. қосымшада немесе бөлімшеде ашуға болады.,0,safe,kk,bank_notice,kk-safe-bank_notice-2,lower,synthetic
+kk00146,береке: *8724 картасына қолжетімділік шектелді. шектеуді алу үшін тексеруден өтіңіз: http://update.blue.wellsfargo.cafe.test/account/settings,1,fraud,kk,card_block,kk-fraud-card_block-1,lower+nopunct,synthetic
+kk00147,"jusan: карта *6048-ға 50 теңге аударылды. егер бұл сіз болмасаңыз, картаның артындағы нөмірге қоңырау шалыңыз.",0,safe,kk,bank_notice,kk-safe-bank_notice-1,lower,synthetic
+kk00148,Картаңыз бұғатталады. Дереу деректерді растаңыз мына сілтеме арқылы: https://city-verify.test/cqgaaGhykS/z6PKzUT0F6d/O00S4jo/3e9jxVm/DzizFSUER/PmexEhwOBZ82?q=a2la60DXzGq7Etb09jfY3k7HAeyDimVVBHXT,1,fraud,kk,card_block,kk-fraud-card_block-0,,synthetic
+kk00149,ДӘРІХАНА-ДАН САТЫП АЛҒАНЫҢЫЗ ҮШІН РАХМЕТ. ЖАЛПЫ СОМА 17 ТЕҢГЕ.,0,safe,kk,purchase,kk-safe-purchase-0,upper,synthetic
+kk00150,сізден  алаяқтық бойынша өтініш түсті. дереу +7 773 000 25 77 нөміріне қоңырау шалыңыз. ешкімге айтпаңыз.,1,fraud,kk,fear_secrecy,kk-fraud-fear_secrecy-1,lower+dblspace,synthetic
+kk00151,"Сәлеметсіз бе! Хабарлама: сізде 33 823 теңге берешек бар коммуналдық қызмет бойынша. Бүгін төлеңіз, әйтпесе іс сот орындаушыларына жолданады: https://secure.health.google.garden-grand.example/claim/57757 📦",1,fraud,kk,debt,kk-fraud-debt-0,greet+emoji,synthetic
+kk00152,Еске саламыз: 12.11 сағат 20:45-де жаттығу. Ауыстыру үшін 8 784 000 79 45 нөміріне хабарласыңыз.,0,safe,kk,reminder,kk-safe-reminder-0,,synthetic
+kk00153,"Операторлар керек үйден: пікір, төлем бірден. Бүгін баста @supportteam",1,fraud,kk,fake_job,kk-fraud-fake_job-1,,synthetic
+kk00154,"Сәлеметсіз бе! Сіздің кодыңыз: 647252. Оны ешкімге айтпаңыз, банк қызметкерлеріне де.",0,safe,kk,otp,kk-safe-otp-0,greet,synthetic
+kk00155,Әкем:  туған күнді ұмытпа. Кешке қоңырау шал. Жауап қажет емес.,0,safe,kk,family,kk-safe-family-0,close+dblspace,synthetic
+kk00156,737359 — Small жүйесіне кіру коды. 5 минут жарамды.,0,safe,kk,otp,kk-safe-otp-1,,synthetic
+kk00157,Сіздің  сәлемдемеңіз қоймада ұсталды. Кеден алымын 21 408 тг 12.11 дейін төлеңіз: https://lnk.example/v73Q6Q,1,fraud,kk,delivery_customs,kk-fraud-delivery_customs-0,dblspace,synthetic
+kk00158,"Хабарлама: сіздің атыңызда 91 ₸ қарыз тіркелген несие бойынша. 12.11 дейін өтеңіз, әйтпесе сотқа беріледі: http://auth.grand.whatsapp.studio-fresh.example/login срочно",1,fraud,kk,debt,kk-fraud-debt-0,mix,synthetic
+kk00159,Салық комитеті: 86 808 ₸ берешек өтелді. Рахмет.,0,safe,kk,gov_edu,kk-safe-gov_edu-2,,synthetic
+kk00160,Еске саламыз: 20.11 сағат 12:30-де дәрігер қабылдауы. Ауыстыру үшін +7 729 000 93 42 нөміріне хабарласыңыз.,0,safe,kk,reminder,kk-safe-reminder-0,,synthetic
+kk00161,ForteBank: сіздің өтінішіңіз бойынша карта *6363 уақытша бұғатталды. Жауап қажет емес.,0,safe,kk,bank_notice,kk-safe-bank_notice-2,close,synthetic
+kk00162,"Сәлеметсіз бе! Таныс брокерім стратегиямен бөлісті: 22 ₸ салып, бір аптада үш есе алдым. Сен де қалайсың ба? @cash_online 💳",1,fraud,kk,investment,kk-fraud-investment-1,greet+emoji,synthetic
+kk00163,Картаңыз шектелді! Жедел түдре деректерді растаңыз мына сілтеме арқылы: http://192.0.2.213/index.php?id=63287 Рахмет. ok,1,fraud,kk,card_block,kk-fraud-card_block-0,typo+close+mix,synthetic
+kk00164,"Қолдау қызметі: компьютеріңіз зақымданған. @job298 чатына жазңыыз, біз көмектесеміз.",1,fraud,kk,tech_support,kk-fraud-tech_support-1,typo,synthetic
+kk00165,"Соңғы ескерту. Суреттеріңіз белгілі болды. Ешкімге айтпаңыз, әйтпесе @invest.team жазыңыз.",1,fraud,kk,fear_secrecy,kk-fraud-fear_secrecy-0,,synthetic
+kk00166,Салық комитеті: 897 ₸ берешек төленді. Рахмет.,0,safe,kk,gov_edu,kk-safe-gov_edu-2,,synthetic
+kk00167,№80575644 сәлемдемені курьер жеткізе алмады. Мекенжайды нақтылаңыз: https://bright-verify.example/s5mT8bfHb/S2xoeuuhVk/XXRqHkA/0A1aYf?q=CkG3K4kBUiT1TZYQ7jNE,1,fraud,kk,delivery_customs,kk-fraud-delivery_customs-1,nopunct,synthetic
+kk00168,"Сәлеметсіз бе! Әке, мен апатқа ұшырадым. Шұғыл 676 ₸ осы нөмірге +7 798 000 53 57 аудар, телефоным сынды, бөтен нөмірден жазып тұрмын.",1,fraud,kk,relative,kk-fraud-relative-0,greet,synthetic
+kk00169,"Jusan: Дүкен дәріханасында 58 ₸ төлем жасалды, карта *7279. Қолжетімді сома: 21 тг.",0,safe,kk,bank_notice,kk-safe-bank_notice-0,,synthetic
+kk00170,"Қолдау қызметі: телефоныңыздан вирус анықтадық. @prokz чатына ажзыңыз, біз көмектесеміз Құрметпен.",1,fraud,kk,tech_support,kk-fraud-tech_support-1,nopunct+typo+close,synthetic
+kk00171,Құттықтаймыз! Сіз Aviata акциясында смартфон ұттыңыз. Жүлдені алыңыз: https://jmp.test/jcbmXa срочно,1,fraud,kk,prize,kk-fraud-prize-0,mix,synthetic
+kk00172,БИРЖАДА САУДА: ПАЙДА КҮНІНЕ 51 ТЕҢГЕ-ГЕ ДЕЙІН! ҚАЙТАРЫМ КЕПІЛДІГІ. TELEGRAM-ҒА КІРІҢІЗ @CASHTEAM.,1,fraud,kk,investment,kk-fraud-investment-0,lower+upper,synthetic
+kk00173,Жедел несие 913 теңге дейін 5 минутта. Рәсімдеу: http://secure.copper.test/secure/payment?continue=/home Жауап қажет емес.,,suspicious,kk,loan_ad,kk-suspicious-loan_ad-0,close,synthetic
+kk00174,Jusan маманы: күдікті операцияны тоқтату үшін SMS-тағы кодты жіберіңіз. Құрметпен.,1,fraud,kk,cvv_code,kk-fraud-cvv_code-0,close,synthetic
+kk00175,"Сізге Jusan маманы қоңырау шалды. Оған осы хабарламадағы кодты: 694014 жіберіңіз, шотты қорғау үшін.",1,fraud,kk,cvv_code,kk-fraud-cvv_code-1,,synthetic
+kk00176,Қауіпсіздік қызметінің қызметкері: күдікті операцияны тоқтату үшін пин-кодты жіберіңіз.,1,fraud,kk,cvv_code,kk-fraud-cvv_code-0,,synthetic
+kk00177,"гүлнар, мерекең құтты облсын! демалыста кездесеміз",0,safe,kk,family,kk-safe-family-1,lower+nopunct+typo,synthetic
+kk00178,"Сәлеметсіз бе! Хабарлама: сіздің атыңызда 52 999 ₸ қарыз тіркелген салық бойынша. 03.12 дейін төлеңіз, әйтпесе іс сот орындаушыларына жолданады: https://novaaqua95.example/?ref=sQIq8c2iP8&session=Howk1XRRj&id=02H0JWP&cid=65caR8e&token=sAQaQz7wrj ok",1,fraud,kk,debt,kk-fraud-debt-0,greet+mix,synthetic
+kk00179,Мемлекеттік салықты қайтару 43 теңге сізге мақұлданды. Қаражатты рәсімдеңіз 3 күн ішінде: https://grand.example/?cid=f3ct&ref=ojb9&token=L33taD&user=J7ldnMWTy,1,fraud,kk,gov_payment,kk-fraud-gov_payment-0,,synthetic
+kk00180,Салық комитеті: 657 ₸ айыппұл өтелді. Рахмет.,0,safe,kk,gov_edu,kk-safe-gov_edu-2,,synthetic
+kk00181,Әкімдік: өтінішіңіз қабылданды. Өтінім нөмірі 46019851. пожалуйста,0,safe,kk,gov_edu,kk-safe-gov_edu-1,mix,synthetic
+kk00182,"ҚҰРМЕТТІ КЛИЕНТ, ҚҰПИЯ СӨЗІҢІЗДІҢ ЕМРЗІМІ АЯҚТАЛДЫ. МӘЛІМЕТТЕРДІ ЖАҢАРТЫҢЫЗ ТЕЗ АРАДА: HTTP://MICROSOFT.TEST@PRIME.TEST/SECURE/UPDATE?ID=MKHR1FHWMH16K",1,fraud,kk,bank_phish,kk-fraud-bank_phish-1,typo+upper,synthetic
+kk00183,Сіздің №35008992 тапсырысыңыз жеткізуге берілді. Жеткізу күні: 12.11. пожалуйста,0,safe,kk,delivery,kk-safe-delivery-0,mix,synthetic
+kk00184,Сәлеметсіз бе! Сіз бақытты иегерсіз! Сіз Small ұтыс ойынында смартфон ұттыңыз. Ұтысты алу үшін өтіңіз: https://fresh-lumen3651.example/Ef7jzxMyrxl,1,fraud,kk,prize,kk-fraud-prize-0,greet,synthetic
+kk00185,Техникалық қолдау Magnum: аккаунтыңыз бұзылды. Қашықтан көмек бағдарламасын мына сілтемеден жүктеңіз: https://short.invalid/szDe56E,1,fraud,kk,tech_support,kk-fraud-tech_support-0,,synthetic
+kk00186,Ақшаңызды қайтарамыз сатып алу үшін. Карта нөмірін көрсетіңіз 80 027 теңге алу үшін: http://billing.bright.facebook.maple-sun.example/login/13O6xLVF0W?next=/cabinet,1,fraud,kk,bonus_refund,kk-fraud-bonus_refund-1,,synthetic
+kk00187,"Бір реттік код: 950798. Оны ешкімге айтпаңыз, банк қызметкерлеріне де.",0,safe,kk,otp,kk-safe-otp-0,,synthetic
+kk00188,"Қайырлы күн! Резюмеңізді көрдік. Табыс күніне 234 ₸, еркін кесте. Оқыту тегін. WhatsApp-қа +7 764 000 71 18 жазыңыз",1,fraud,kk,fake_job,kk-fraud-fake_job-0,nopunct,synthetic
+kk00189,Картаңыз бұғатталды. Бүгін деректерді растаңыз сайтта: http://confirm-aqua-iron.test/pay/12005,1,fraud,kk,card_block,kk-fraud-card_block-0,,synthetic
+kk00190,"ForteBank: Дәріхана кафесінде 31 тг төлем жасалды, карта *1072. Қолжетімді сома: 55 839 ₸.",0,safe,kk,bank_notice,kk-safe-bank_notice-0,,synthetic
+kk00191,"Сәлем, мен Жанар, нөмірімді ауыстырдмы. 135 теңге шұғыл аудар, кейін айтамын.",1,fraud,kk,relative,kk-fraud-relative-1,typo,synthetic
+kk00192,Криптовалюта: пайда аптасына 30%-дан! Қауіпсіз. Чатқа кіріңіз @invest24.,1,fraud,kk,investment,kk-fraud-investment-0,,synthetic
+kk00193,technodom-дан сатып алғаныңыз үшін рахмет. сомасы 603 теңге.,0,safe,kk,purchase,kk-safe-purchase-0,lower,synthetic
+kk00194,береке қауіпсіздік қызметі: жеке кабинетіңізде жаңа құрылғыдан кіру тіркелді. бұғаттаудан сақтану үшін сілтеме бойынша кіріңіз: https://xn--enmw8mw5g4620b.example/pay/61523,1,fraud,kk,bank_phish,kk-fraud-bank_phish-0,lower,synthetic
+kk00195,magnum тіркелгіңіз бүгін жойылады. құпия сөзді растаңыз осы жерде: http://gardeniron35.invalid:2083/update,1,fraud,kk,account_pwd,kk-fraud-account_pwd-0,lower,synthetic
+kk00196,жаңа  құрылғыдан кіру анықталды. бұл сіз болмасаңыз құпия сөзді ауыстырыңыз: https://short.invalid/upcqd,1,fraud,kk,account_pwd,kk-fraud-account_pwd-1,lower+dblspace,synthetic
+kk00197,Анам: сенбідегі кездесуді ұмытпа. Аман бол!,0,safe,kk,family,kk-safe-family-0,,synthetic
+kk00198,"Сәлем, мынаны қарашы: https://u.example/95376 Рахмет.",,suspicious,kk,unknown_link,kk-suspicious-unknown_link-0,close,synthetic
+kk00199,"564189 — Дәріхана жүйесіне кіру коды. Егер сіз сұрамасаңыз, бұл хабарламаны елемеңіз. Жауап қажет емес.",0,safe,kk,otp,kk-safe-otp-1,close,synthetic
+kk00200,сіз бақытты иегерсіз! сіз дәріхана акциясында көлік жеңіп алдыңыз. ұтысты алу үшін өтіңіз: http://198.51.100.105/login?continue=/home,1,fraud,kk,prize,kk-fraud-prize-0,lower,synthetic
+kk00201,кодыңыз: 99148. оны magnum сайтына енгізіңіз.,,suspicious,kk,otp_nowarn,kk-suspicious-otp_nowarn-0,lower,synthetic
+kk00202,Сізге 999 ₸ бонус қолжетімді. Бонусты алыңыз апта соңына дейін: https://instagram.support-harbor.example/verify/EfHrWqHmx8i3bvUsmeIwHK,1,fraud,kk,bonus_refund,kk-fraud-bonus_refund-0,,synthetic
+kk00203,"Мектеп №72636936: жиналыс 15.11.2026 күніне, 9:00-ге ауыстырылды.",0,safe,kk,gov_edu,kk-safe-gov_edu-0,,synthetic
+kk00204,Technodom-дан чек. Жалпы сома 77 700 ₸,0,safe,kk,purchase,kk-safe-purchase-0,nopunct,synthetic
+kk00205,"жанар, бос болғанда хабарла. нан алып келе ме?",0,safe,kk,chat,kk-safe-chat-1,lower,synthetic
+kk00206,біреу аккаунтыңызға кріуге тырысты. бұл сіз болмасаңыз логин мен құпия сөзді енгізіңіз: https://hsbc.verify-aqua.test/claim/26605,1,fraud,kk,account_pwd,kk-fraud-account_pwd-1,lower+typo,synthetic
+kk00207,Маңызды: жиналыс 18:15-ге ауыстырылды.,0,safe,kk,work,kk-safe-work-1,,synthetic
+kk00208,"МЕН СЕНІҢ ҰЛЫҢМЫН, ТЕЛЕФОНЫМ БҰЗЫЛДЫ. 10 ТГ АУДАРЫП ЖІБЕРШІ, КЕЙІН ҚАЙТАРАМЫН.",1,fraud,kk,relative,kk-fraud-relative-1,upper,synthetic
+kk00209,"Сәлеметсіз бе! Сізге Jusan қызметкері қоңырау шалады. Оған картаның артындағы үш таңбалы кодты айтыңыз, деректерді салыстыру үшін. Рахмет. 💳",1,fraud,kk,cvv_code,kk-fraud-cvv_code-1,greet+close+emoji,synthetic
+kk00210,"Құрметті клиент, құпия сөзіңзідің мерзімі аяқталды. Деректерді растаңыз тез арада: http://tiny-link.test/WvOB11",1,fraud,kk,bank_phish,kk-fraud-bank_phish-1,typo,synthetic
+kk00211,Әжем: сенбідегі кездесуді есіңде болсын. Аман бол!,0,safe,kk,family,kk-safe-family-0,,synthetic
+kk00212,"Университет: сабақ 12.11 күніне, 20:00-ге ауыстырылды. Аудитория 50346945. Жауап қажет емес.",0,safe,kk,gov_edu,kk-safe-gov_edu-0,close,synthetic
+kk00213,Сізге жәрдемақы есептелді. Картаға түсу үшін сауалнаманы толтырыңыз: http://googl36.example//login,1,fraud,kk,gov_payment,kk-fraud-gov_payment-1,,synthetic
+kk00214,сбербанк: сіздің өтінішіңіз бойынша карта *3864 бұғатталды. қосымшада немесе бөлімшеде ашуға болады. Жауап қажет емес.,0,safe,kk,bank_notice,kk-safe-bank_notice-2,lower+close,synthetic
+kk00215,"сәлеметсіз бе! сізге мөлдір жазып тұр. байқаусызда 60 514 теңге аударылып кетті, +7 785 000 72 39 нөміріне қайтарып жіберіңізші.",1,fraud,kk,money_transfer,kk-fraud-money_transfer-0,lower,synthetic
+kk00216,маңызды:  жиналыс 11:15-ге ауыстырылды. қатысуыңызды растаңыз.,0,safe,kk,work,kk-safe-work-1,lower+dblspace,synthetic
+kk00217,"Сәлем, мен Ерлан, телефоным бұзылды. 81 теңге аударып жіберші, кейін қайтарамын.",1,fraud,kk,relative,kk-fraud-relative-1,,synthetic
+kk00218,Сәлеметсіз бе! Курьер 15.11.2026 сағат 10-нан 14-ке дейін келеді. Курьер нөмірі: +7 725 000 75 93,0,safe,kk,delivery,kk-safe-delivery-1,greet,synthetic
+kk00219,"Сізге Сбербанк маманы қоңырау шалды. Оған осы хабарламадағы кодты: 904706 айтыңыз, шотты қорғау үшін.",1,fraud,kk,cvv_code,kk-fraud-cvv_code-1,,synthetic
+kk00220,Картаңыз  бұғатталды! Дереу деректерді растаңыз сайтта: https://www.swiftprime.invalid/contact,1,fraud,kk,card_block,kk-fraud-card_block-0,dblspace,synthetic
+kk00221,"Қайырлы күн! Сізге Төлеген жазып тұр. Байқаусызда 328 тг аударылып кетті, 8 762 000 80 79 нөміріне қайтарып жіберіңізші.",1,fraud,kk,money_transfer,kk-fraud-money_transfer-0,,synthetic
+kk00222,"Қадірлі клиент, деректеріңіз ескірді. Мәліметтерді жаңартыңыз тез арада: https://metro-tau-bank.test/7ULEUTX/aLqz2J/E4f6A7jbHefh/wVJET5?id=Wh7c1poKM1ckODzdn4pfCUrTfoYxd6xERhee",1,fraud,kk,bank_phish,kk-fraud-bank_phish-1,,synthetic
+kk00223,"Әке, ауруханадамын. Тез 48 708 ₸ картаға аудар, кейін түсіндіремін.",1,fraud,kk,relative,kk-fraud-relative-0,,synthetic
+kk00224,"ForteBank: Magnum дәріханасында 12 тг сомасына сатып алу, карта *8591. Қолжетімді сома: 6 тг.",0,safe,kk,bank_notice,kk-safe-bank_notice-0,,synthetic
+kk00225,Сәлеметсіз бе! ForteBank: карта *1801-ға 98 376 ₸ аударылды.,0,safe,kk,bank_notice,kk-safe-bank_notice-1,greet,synthetic
+kk00226,Sulpak-дан сатып алғаныңыз үшін рахмет. Сомасы 780 теңге. Рахмет.,0,safe,kk,purchase,kk-safe-purchase-0,close,synthetic
+kk00227,"Дәулет, презентация дайын. 18:15-де онлайн-кездесу кеңседе. Түзетулерді ертеңге дейін жіберіңіз.",0,safe,kk,work,kk-safe-work-0,,synthetic
+kk00228,Ескертеміз: 03.12 сағат 20:45-де сабақ. Ауыстыру үшін 8 766 000 17 82 нөміріне хабарласыңыз. Күніңіз жақсы өтсін!,0,safe,kk,reminder,kk-safe-reminder-0,close,synthetic
+kk00229,Сізге жәрдемақы есептелді. Ақшаны алу үшін карта деректерін көрсетіңіз: https://copper-blue.example:8080/login Жауап қажет емес.,1,fraud,kk,gov_payment,kk-fraud-gov_payment-1,close,synthetic
+kk00230,"Сәлем, мынаны қарашы: https://go-link.test/Ep7VtH",,suspicious,kk,unknown_link,kk-suspicious-unknown_link-0,,synthetic
+kk00231,"Қайырлы күн! Сізге Ахсат жазып тұр. Қателесіп 91 575 тг аударылып кетті, *0371 картасына қайтарыңызшы.",1,fraud,kk,money_transfer,kk-fraud-money_transfer-0,typo,synthetic
+kk00232,Сәлеметсіз бе! нөміріңіз таңдалды! ұтысты алу үшін комиссия 93 447 теңге төлеңіз.,1,fraud,kk,prize,kk-fraud-prize-1,lower+greet,synthetic
+kk00233,"Сәлем, мынаны қарашы: https://shrt.test/53962",,suspicious,kk,unknown_link,kk-suspicious-unknown_link-0,,synthetic
+kk00234,Small-дан чек. Жалпы сома 24 тг.,0,safe,kk,purchase,kk-safe-purchase-0,,synthetic
+kk00235,"Операторлар қабылданады онлайн: пікір, табыс 51 294 ₸. Бүгін баста @helponline",1,fraud,kk,fake_job,kk-fraud-fake_job-1,,synthetic
+kk00236,"Соңғы ескерту. Суреттеріңіз желіге түсті. Полицияға жүгінбеңіз, салдарынан аулақ болу үшін 64 тг аударыңыз.",1,fraud,kk,fear_secrecy,kk-fraud-fear_secrecy-0,,synthetic
+kk00237,Small-дан чек. Сомасы 90 863 ₸.,0,safe,kk,purchase,kk-safe-purchase-0,,synthetic
+kk00238,Kaspi қауіпсіздік қызметі: профиліңізде күдікті әрекет анықталды. Қаражатты қорғау үшін сілтеме бойынша кіріңіз: http://tech-verify.test/vBRRqAO4ZqW/f9tKmM1/nH2qNj/UTZnQpim2/noWmurVpmEYS/rmbJw0vKvB?a=qXs67Laydckwv2qz2jCaQNr,1,fraud,kk,bank_phish,kk-fraud-bank_phish-0,,synthetic
+kk00239,"Сәлеметсіз бе! Сәлем, мынаны қарашы: https://river-terra.example/?user=JcWpPPnNN&redirect=uEmz&id=3xtaUj9Sr",,suspicious,kk,unknown_link,kk-suspicious-unknown_link-0,greet,synthetic
+kk00240,"Қайырлы күн! Қашықтан жұмысқа шақырамыз. Табыс ауысымына 63 ₸, еркін кесте. Оқыту тегін. WhatsApp-қа +7 718 000 62 70 жазыңыз.",1,fraud,kk,fake_job,kk-fraud-fake_job-0,,synthetic
+kk00241,Біреу аккаунтыңызға кіруге тырысты. Бұл сіз болмасаңыз құпия сөзді ауыстырыңыз: http://alphamarket.invalid,1,fraud,kk,account_pwd,kk-fraud-account_pwd-1,,synthetic
+kk00242,Сбербанк:  *8850 картасына қолжетімділік шектелді. Картаны қолдануды жалғастыру үшін тексеруден өтіңіз: http://halyk-wallet.example/account/confirm,1,fraud,kk,card_block,kk-fraud-card_block-1,dblspace,synthetic
+kk00243,Сбербанк: профиліңізде күдікті әрекет анықталды. Қаражатты қорғау үшін сілтеме бойынша кіріңіз: http://192.0.2.47/verify/PbMDlcyGUd8C1FWZglysYI,1,fraud,kk,bank_phish,kk-fraud-bank_phish-0,,synthetic
+kk00244,Кодыңыз: 561082. Оны Magnum сайтына енгізіңіз.,,suspicious,kk,otp_nowarn,kk-suspicious-otp_nowarn-0,,synthetic
+kk00245,"Қайырлы күн! Қашықтан жұмысқа шақырамыз. Төлем күніне 67 ₸, тәжірибесіз. Тапсырмалар телефоннан орындалады. WhatsApp-қа 8 769 000 62 89 жазыңыз",1,fraud,kk,fake_job,kk-fraud-fake_job-0,nopunct,synthetic
+kk00246,ИНВЕСТИЦИЯ: ПАЙДА КҮНІНЕ 97 ₸-ГЕ ДЕЙІН! ҚАУІПСІЗ. TELEGRAM-ҒА КІРІҢІЗ @HELP_KZ.,1,fraud,kk,investment,kk-fraud-investment-0,upper,synthetic
+kk00247,Сәлем! Береке: сіздің өтінішіңіз бойынша карта *1866 бұғатталды. Қосымшада немесе бөлімшеде ашуға болады.,0,safe,kk,bank_notice,kk-safe-bank_notice-2,greet,synthetic
+kk00248,"Сәлем, мен Гүлнар, нөмірімді ауыстырдым. 38 920 тг аударып жіберші, кейін қайтарамын.",1,fraud,kk,relative,kk-fraud-relative-1,,synthetic
+kk00249,Қауіпсіздік қызметінің қызметкері: 749 ₸ сомасын тоқтату үшін CVV кодты айтыңыз спс,1,fraud,kk,cvv_code,kk-fraud-cvv_code-0,nopunct+mix,synthetic
+kk00250,салық шегерімі мақұлданды. ақшаны алу үшін карта деректерін көрсетіңіз: https://fedex-verify.example/secure/update?id=lvdy6uhwucw,1,fraud,kk,gov_payment,kk-fraud-gov_payment-1,lower,synthetic
+kk00251,"Береке: Magnum дүкенінде 29 тг сомасына сатып алу, карта *9518. Қолжетімді сома: 910 теңге. Құрметпен.",0,safe,kk,bank_notice,kk-safe-bank_notice-0,close,synthetic
+kk00252,Сізге жәрдемақы есептелді. Ақшаны алу үшін карта деректерін көрсетіңіз: https://chase-confirm.example/verify/ZTIplcrevFoMSmcW7BqE9D9p,1,fraud,kk,gov_payment,kk-fraud-gov_payment-1,,synthetic
+kk00253,Сіздің №65113060 тапсырысыңыз беру пунктіне келді. Жеткізу күні: 20.11.,0,safe,kk,delivery,kk-safe-delivery-0,,synthetic
+kk00254,Қаржы министрлігінің әлеуметтік төлем 32 093 ₸ сізге мақұлданыд. Төлемді алыңыз 20.11 дейін: https://xn--clndeu7e0y60k.test/account/confirm,1,fraud,kk,gov_payment,kk-fraud-gov_payment-0,typo,synthetic
+kk00255,"Айгүл, презентация келісуде. 11:45-де кездесу кеңседе.",0,safe,kk,work,kk-safe-work-0,,synthetic
+kk00256,Инвестиция: табыс күніен 34 109 ₸-ге дейін! Қауіпсіз. Чатқа кіріңіз @help_675.,1,fraud,kk,investment,kk-fraud-investment-0,typo,synthetic
+kk00257,Сізге қатысты алаяқтық бойынша өтініш түсті. Дереу +7 773 000 12 80 нөміріне қоңырау шалыңыз. Ешкімге айтпаңыз.,1,fraud,kk,fear_secrecy,kk-fraud-fear_secrecy-1,,synthetic
+kk00258,Жаңа құрылғыдан кіру анықталды. Қорғау үшін логин мен құпия сзөді енгізіңіз: http://steppefilm.example:2083//login,1,fraud,kk,account_pwd,kk-fraud-account_pwd-1,typo,synthetic
+kk00259,"Сәлеметсіз бе! Университет: жиналыс 01.12 күніне, 14:30-ге ауыстырылды. Құрметпен.",0,safe,kk,gov_edu,kk-safe-gov_edu-0,greet+close,synthetic
+kk00260,Криптовалюта: табыс аптасына 30%-дан! Қауіпсіз. Telegram-ға кіріңіз @jobkz.,1,fraud,kk,investment,kk-fraud-investment-0,,synthetic
+kk00261,"Қайырлы күн! Қашықтан жұмысқа шақырамыз. аТбыс күніне 21 теңге, тәжірибесіз. Тапсырмалар телефоннан орындалады. WhatsApp-қа 8 767 000 56 91 жазыңыз.",1,fraud,kk,fake_job,kk-fraud-fake_job-0,typo,synthetic
+kk00262,Салық шегерімі мақұлданды. Картаға түсу үшін карта деректерін көрсетіңіз: https://vista-tech.test/?redirect=UkSTZxUb&ref=Wa0HlRkyA&user=rAP90IU,1,fraud,kk,gov_payment,kk-fraud-gov_payment-1,,synthetic
+kk00263,Нөміріңіз таңдалды! Сыйлықты алу үшін https://secure.quartz.barclays.lotus-media.example/login/J6wPey?next=/cabinet сілтемесіне өтіңіз ❗,1,fraud,kk,prize,kk-fraud-prize-1,nopunct+emoji,synthetic
+kk00264,"Қайырлы күн! Мен Sulpak бухгалтериясынан Гүлнар. Байқаусызда 99 324 теңге аударылып кетті, *0103 картасына қайтарыңызшы.",1,fraud,kk,money_transfer,kk-fraud-money_transfer-0,,synthetic
+kk00265,"111506 — дәріхана жүйесіне кіру коды. егер сіз сұрамасаңыз, бұл хабарламаны елемеңіз.",0,safe,kk,otp,kk-safe-otp-1,lower,synthetic
+kk00266,Сіздің №33970165 тапсырысыңыз жөнелтілді. Жеткізу күні: 01.12. Бақылау: http://www.telegram.test/contact,0,safe,kk,delivery,kk-safe-delivery-0,,synthetic
+kk00267,Жедел несие бас тартусыз картаға. Рәсімдеу: https://primecedar90.test/support/verify-email,,suspicious,kk,loan_ad,kk-suspicious-loan_ad-0,,synthetic
+kk00268,"Қадірлі клиент, құпия сөзіңіздің мерзімі аяқталды. Деректерді растаңыз 24 сағат ішінде: https://novagrand40-login.example/bui7covn/2qLiKAWQs/pl4cbIj1yv?a=WE6EuznMeDi0fK54zoRCQRxa ok",1,fraud,kk,bank_phish,kk-fraud-bank_phish-1,nopunct+mix,synthetic
+kk00269,Сізден заң бұзу бойынша өтініш түсті. Дереу 8 781 000 42 60 нөміріне қоңырау шалыңыз. Әңгіме құпия. Рахмет.,1,fraud,kk,fear_secrecy,kk-fraud-fear_secrecy-1,close,synthetic
+kk00270,"СІЗГЕ KASPI МАМАНЫ ҚОҢЫРАУ ШАЛДЫ. ОҒАН ОСЫ ХАБАРЛАМАДАҒЫ КОДТЫ: 362606 ЖІБЕРІҢІЗ, ШОТТЫ ҚОРҒАУ ҮШІН",1,fraud,kk,cvv_code,kk-fraud-cvv_code-1,nopunct+upper,synthetic
+kk00271,"Сәлеметсіз бе! Сізге Дәулет жазып тұр. Қателесіп 516 ₸ аударылып кетті, *9820 картасына қайтарыңызшы.",1,fraud,kk,money_transfer,kk-fraud-money_transfer-0,,synthetic
+kk00272,633405 — Aviata 30 тг төлемін растау коды. 5 минут жарамды.,0,safe,kk,otp,kk-safe-otp-1,,synthetic
+kk00273,ForteBank маманы: 91 107 ₸ сомасын болдырмау үшін SMS-тағы котды айтыңыз.,1,fraud,kk,cvv_code,kk-fraud-cvv_code-0,typo,synthetic
+kk00274,Маңызды: клиент 9:30-ге дейін жауап күтеді. Қатысуыңызды растаыңз.,0,safe,kk,work,kk-safe-work-1,typo,synthetic
+kk00275,Halyk: профиліңізде күдікті әрекет анықталды. Қаражатты қорғау үшін сілтеме бойынша кіріңіз: http://booksquartz34.test/invite/pBzMmflxSVfzRGia,1,fraud,kk,bank_phish,kk-fraud-bank_phish-0,,synthetic
+kk00276,"915809 — Kaspi-Магазин жүйесіне кіру коды. Егер сіз сұрамасаңыз, бұл хабарламаны елемеңіз.",0,safe,kk,otp,kk-safe-otp-1,,synthetic
+kk00277,Ескертеміз: 20.11 сағат 9:15-де дәрігер қабылдауы. Ауыстыру үшін 8 741 000 19 61 нөміріне хабарласыңыз.,0,safe,kk,reminder,kk-safe-reminder-0,,synthetic
+kk00278,Курьер 01.12 кешкі 18:00-ден кейін жетеді. Төлем төленген.,0,safe,kk,delivery,kk-safe-delivery-1,,synthetic
+kk00279,"Сіздің кодыңы:з 241355. Оны ешкімге айтпаңыз, тіпті ForteBank қызметкеріне де. 📦",0,safe,kk,otp,kk-safe-otp-0,typo+emoji,synthetic
+kk00280,"Сбербанк: Пекарня дәріханасында 76 984 ₸ төлем жасалды, карта *1930. Қолжетімді сома: 91 590 ₸. ok",0,safe,kk,bank_notice,kk-safe-bank_notice-0,mix,synthetic
+kk00281,"Көмекшілер керек үйден: пікір, төлем бірден. Бүгін баста @proonline",1,fraud,kk,fake_job,kk-fraud-fake_job-1,,synthetic
+kk00282,"Гүлнар, сыйлық үшін рахмет! Демалыста кездесеміз.",0,safe,kk,family,kk-safe-family-1,,synthetic
+kk00283,"Қайырлы күн. Айнұр, үйге келгенде хабарла. Дүкеннен сүт алып кел.",0,safe,kk,chat,kk-safe-chat-1,greet,synthetic
+kk00284,картаңыз бұғатталды! дереу картаны ашыңыз сайтта: http://google.refund-prime.example/login?continue=/home,1,fraud,kk,card_block,kk-fraud-card_block-0,lower+nopunct,synthetic
+kk00285,"Сізге ForteBank маманы қоңырау шалады. Оған осы хабарламадағы кодты: 124344 айтыңыз, деректерді салыстыру үшін.",1,fraud,kk,cvv_code,kk-fraud-cvv_code-1,,synthetic
+kk00286,"Қадірлі клиент, деректеріңіз ескірді. Деректерді растаңыз тез арада: https://film-alpha.example/?id=XtYMpfd&cid=gl5LYnsuPh&ref=uGfTU5I&user=cLZz9SnmT",1,fraud,kk,bank_phish,kk-fraud-bank_phish-1,,synthetic
+kk00287,кодыңыз: 314388. оны дәріхана сайтына енгізіңіз.,,suspicious,kk,otp_nowarn,kk-suspicious-otp_nowarn-0,lower,synthetic
+kk00288,Сізге жәрдемақы есептелді. Ақшаны алу үшін сауалнаманы толтырыңыз: http://billing-terrastone57.invalid/reset/RIFRMDhcuuqmENDohtpfvKJihZ,1,fraud,kk,gov_payment,kk-fraud-gov_payment-1,,synthetic
+kk00289,76824 — tehcnodom жүйесіне кіру коды. 5 минут жарамды. Күніңіз жақсы өтсін!,0,safe,kk,otp,kk-safe-otp-1,lower+typo+close,synthetic
+kk00290,Сізге 19 ₸ бонус есептелді. Бонусты алыңыз апта соңына дейін: https://login-brightbooks.test/login/pTKxlA?next=/cabinet,1,fraud,kk,bonus_refund,kk-fraud-bonus_refund-0,,synthetic
+kk00291,Сіздің сәлемдемеңіз кеденде ұсталды. Жеткізу бойынша қосымша төлемді 29 753 ₸ 48 сағат ішінде төлеңіз: https://secure.vista.wellsfargo.steppeswift.test/login Күніңіз жақсы өтсін! пожалуйста,1,fraud,kk,delivery_customs,kk-fraud-delivery_customs-0,close+mix,synthetic
+kk00292,52981 — Kaspi-Магазин жүйесіне кіру коды. 5 минут жарамды. 🙏,0,safe,kk,otp,kk-safe-otp-1,emoji,synthetic
+kk00293,АҚШАҢЫЗДЫ ҚАЙТАРАМЫЗ БАЙЛАНЫС ҚЫЗМЕТІ ҮШІН. КАРТА НӨМІРІН КӨРСЕТІҢІЗ 539 ТЕҢГЕ АЛУ ҮШІН: HTTPS://CAFE-BRIGHT139.EXAMPLE/PTRDBSCG5GS,1,fraud,kk,bonus_refund,kk-fraud-bonus_refund-1,upper,synthetic
+kk00294,сіздің №85965420 тапсырысыңыз беру пунктіне келді. күтілетін күні: 01.12.,0,safe,kk,delivery,kk-safe-delivery-0,lower,synthetic
+kk00295,Нөміріңіз таңдалды! Сыйлықты алу үшін осы хабарламаға жауап беріңіз. Күніңіз жақсы өтсін!,1,fraud,kk,prize,kk-fraud-prize-1,close,synthetic
+kk00296,Мемлекеттік өтемақы 219 тг сізге мақұлданды. Төлемді алыңыз 3 күн ішінде: https://kapost71.invalid/a//b/K7JkMqNQ,1,fraud,kk,gov_payment,kk-fraud-gov_payment-0,,synthetic
+kk00297,Сәлем! Аккаунтыңыз бүгін жойылады. Құпия сөзді растаңыз сілтеме бойынша: http://facebook-verify.example/p/s8O2bS0WIfXGmJB,1,fraud,kk,account_pwd,kk-fraud-account_pwd-0,greet,synthetic
+kk00298,"Қалайсың, Бақыт! Ертең 8:15-де жолығамыз ба? Жұмыстан кейін хабарласамын.",0,safe,kk,chat,kk-safe-chat-0,,synthetic
+kk00299,"сәлем,  мынаны қарашы: http://metro-login.test/c7elu/josza/opsgdif/ujgbgxdk/tmk1gfwmfxx?id=ovo1cjr9ybmsrx4ixirhowtvucd9qlptf3qvl",,suspicious,kk,unknown_link,kk-suspicious-unknown_link-0,lower+dblspace,synthetic
+kk00300,"Біздің талдаушы бір схема көрсетті: 751 ₸ салып, бір аптада үш есе алдым. Сен де қалайсың ба? @supportkz ❗",1,fraud,kk,investment,kk-fraud-investment-1,emoji,synthetic
+kk00301,"809564 — Sulpak 995 теңге төлемін растау коды. Егер сіз сұрамасаңыз, бұл хабарламаны елемеңіз.",0,safe,kk,otp,kk-safe-otp-1,,synthetic
+kk00302,297720 — Technodom 51 839 теңге төлемін растау коды. 5 минут жарамды.,0,safe,kk,otp,kk-safe-otp-1,,synthetic
+kk00303,сізге 88 ₸ бонус қолжетімді. оны белсендіріңіз 15.11.2026 дейін: https://sberbank.bank-sport.test/pay/71381 спс,1,fraud,kk,bonus_refund,kk-fraud-bonus_refund-0,lower+mix,synthetic
+kk00304,Шұғыл: клиент 21:00-ге дейін жауап күтеді. Қатысуыңызды растаңыз.,0,safe,kk,work,kk-safe-work-1,,synthetic
+kk00305,Сізге  91 ₸ қайтарым есептелді. Оны белсендіріңіз 03.12 дейін: http://198.51.100.240/a//b/Emf49CPWKt,1,fraud,kk,bonus_refund,kk-fraud-bonus_refund-0,dblspace,synthetic
+kk00306,Magnum: жеңілдік 30%-ға дейін дүкендерде 15.11.2026 дейін. Толығырақ: https://www.fresh-tech.example/travel-studio-grand/forest-lumen-nomad/cafe-maple-urban/aqua-orbit-quartz-royal/orbit-swift-sun/bright-grand?id=67645&lang=kk&utm_campaign=prime-stone-tau-books,0,safe,kk,ads,kk-safe-ads-0,,synthetic
+kk00307,"Сәлем, мынаны қарашы: https://www.ambervista.example/invite/bkGweZ3hR3W2UTQQCN Құрметпен.",,suspicious,kk,unknown_link,kk-suspicious-unknown_link-0,close,synthetic
+kk00308,Small: жеңілдік 30%-ға дейін қосымшада 15.11.2026 дейін. Бас тарту үшін СТОП деп жауап беріңіз,0,safe,kk,ads,kk-safe-ads-0,,synthetic
+kk00309,Сәлеметсіз бе! Еске саламыз: 20.11 сағат 19:30-де жаттығу. Мекенжайы: Дәріхана. 📦,0,safe,kk,reminder,kk-safe-reminder-0,greet+emoji,synthetic
+kk00310,"Хабарлама: сіздің атыңызда 736 ₸ қарыз тіркелген несие бойынша. 03.12 дейін өтеңіз, әйтпесе сотқа беріледі: https://wellsfargo-refund.example/account/confirm",1,fraud,kk,debt,kk-fraud-debt-0,,synthetic
+kk00311,КОДЫҢЫЗ: 461225. ОНЫ MAGNUM САЙТЫНА ЕНГІЗІҢІЗ. РАХМЕТ. OK,,suspicious,kk,otp_nowarn,kk-suspicious-otp_nowarn-0,close+mix+upper,synthetic
+kk00312,Technodom-дан чек. Жалпы сома 31 645 теңге. ok,0,safe,kk,purchase,kk-safe-purchase-0,mix,synthetic
+kk00313,"Қайырлы күн! Қашықтан жұмысқа шақырамыз. Табыс күніне 9 342 теңге, тәжірибесіз. Тапсырмалар телефоннан орындалады. WhatsApp-қа 8 797 000 86 53 жазыңыз.",1,fraud,kk,fake_job,kk-fraud-fake_job-0,,synthetic
+kk00314,"Сәлем, Дәулет! Ертең 21:15-де кездесеміз бе? Жұмыстан кейін хабарласамын. пожалуйста ✅",0,safe,kk,chat,kk-safe-chat-0,mix+emoji,synthetic
+kk00315,Ескертеміз: 15.11.2026 сағат 22:45-де сабақ. Мекенжайы: Magnum,0,safe,kk,reminder,kk-safe-reminder-0,nopunct,synthetic
+kk00316,"Айнұр, бос болғанда хабарла. Кешкі асқа үлгер.",0,safe,kk,chat,kk-safe-chat-1,,synthetic
+kk00317,"Айнұр, шарт дайын. 9:15-де кездесу Zoom-да.",0,safe,kk,work,kk-safe-work-0,,synthetic
+kk00318,Курьер 20.11 сағат 10-нан 14-ке дейін келеді. Курьер нөмірі: 8 716 000 57 61 пожалуйста,0,safe,kk,delivery,kk-safe-delivery-1,mix,synthetic
+kk00319,"Деканат: жиналыс 01.12 күніне, 17:00-ге ауыстырылды. Аудитория 32041505 Жауап қажет емес.",0,safe,kk,gov_edu,kk-safe-gov_edu-0,nopunct+close,synthetic
+kk00320,Жедел несие бас тартусыз картаға. Рәсімдеу: https://www.novamarket76.invalid/payment/receipt?id=86022,,suspicious,kk,loan_ad,kk-suspicious-loan_ad-0,,synthetic
+kk00321,Сәлем! Қаржы министрлігінің салықты қайтару 84 122 теңге сізге тиесілі. Қаражатты рәсімдеңіз 3 күн ішінде: https://sberbank.auth-cafe.example/secure/update?id=3wBTDJOh,1,fraud,kk,gov_payment,kk-fraud-gov_payment-0,greet,synthetic
+kk00322,"Асхат, бос болғанда хабарла. Дүкеннен сүт алып кел.",0,safe,kk,chat,kk-safe-chat-1,,synthetic
+kk00323,"Қайырлы күн! Резюмеңізді көрдік. Төлем ауысымына 346 ₸, еркін кесте. Тапсырмалар телефоннан орындалады. WhatsApp-қа +7 717 000 38 50 жазыңыз.",1,fraud,kk,fake_job,kk-fraud-fake_job-0,,synthetic
+kk00324,Криптовалюта: пайда күніне 412 теңге-ге дейін! Қайтарым кепілдігі. Telegram-ға кіріңіз @help24.,1,fraud,kk,investment,kk-fraud-investment-0,,synthetic
+kk00325,Сәлем! Halyk: сіздің өтінішіңіз бойынша карта *4918 бұғатталды. Қосымшада немесе бөлімшеде ашуға болады.,0,safe,kk,bank_notice,kk-safe-bank_notice-2,greet,synthetic
+kk00326,Береке: карта *8508-ға 620 ₸ аударылды.,0,safe,kk,bank_notice,kk-safe-bank_notice-1,,synthetic
+kk00327,kaspi-магазин: сатылым дүкендерде 01.12 дейін. бас тарту үшін стоп деп жауап беріңіз,0,safe,kk,ads,kk-safe-ads-0,lower,synthetic
+kk00328,Курьер 01.12 кешкі 18:00-ден кейін келеді. Төлем төленген.,0,safe,kk,delivery,kk-safe-delivery-1,,synthetic
+kk00329,"Kaspi: карта *2322-ға 61 тг аударылды. Егер бұл сіз болмасаңыз, картаның артындағы нөмірге қоңырау шалыңыз.",0,safe,kk,bank_notice,kk-safe-bank_notice-1,,synthetic
+kk00330,"Қайырлы күн! Қашықтан жұмысқа шақырамыз. Табыс күніне 71 тг, тәжірибесіз. Тапсырмалар телефоннан орындалады. WhatsApp-қа +7 769 000 31 94 жазыңыз 📦",1,fraud,kk,fake_job,kk-fraud-fake_job-0,nopunct+emoji,synthetic
+kk00331,Сәлем! Сізге 913 тг қайтарым есептелді. Бонусты алыңыз 03.12 дейін: https://bonus.media.binance.iron-silk.example/index.php?id=26181,1,fraud,kk,bonus_refund,kk-fraud-bonus_refund-0,greet,synthetic
+kk00332,"Нұрлан, есеп дайын. 15:45-де кездесу Zoom-да. Түзетулерді ертеңге дейін жіберіңіз. спс",0,safe,kk,work,kk-safe-work-0,mix,synthetic
+kk00333,"Қайырлы күн! Мен Small бухгалтериясынан Гүлнар. Байқаусызда 5 тг аударылып кетті, *1765 картасына қайтарыңызшы. Құрметпен.",1,fraud,kk,money_transfer,kk-fraud-money_transfer-0,close,synthetic
+kk00334,"Әке, мен апатқа ұшырадым. Тез 80 213 ₸ картаға аудар, кеійн түсіндіремін",1,fraud,kk,relative,kk-fraud-relative-0,nopunct+typo,synthetic
+kk00335,"Мектеп №88516571: жиналыс 15.11.2026 күніне, 19:30-ге белгіленді.",0,safe,kk,gov_edu,kk-safe-gov_edu-0,,synthetic
+kk00336,Курьер 03.12 сағат 10-нан 14-ке дейін жетеді. Курьер нөмірі: 8 724 000 97 24,0,safe,kk,delivery,kk-safe-delivery-1,,synthetic
+kk00337,Сізге жәрдемақы есептелді. Ақшаны алу үшін сауалнаманы толтырыңыз: http://metromarket382588.invalid/yzwTZOtni,1,fraud,kk,gov_payment,kk-fraud-gov_payment-1,,synthetic
+kk00338,"Гүлнар, шарт дайын. 17:00-де онлайн-кездесу Zoom-да.",0,safe,kk,work,kk-safe-work-0,,synthetic
+kk00339,Ақшаңызды  қайтарамыз байланыс қызметі үшін. Карта нөмірін көрсетіңіз есептеу үшін: https://binancі-login.example/index.php?id=52987,1,fraud,kk,bonus_refund,kk-fraud-bonus_refund-1,dblspace,synthetic
+kk00340,Қолдау қызметі Дәріхана: құрылғыңызға вирус түсті. Қашықтан көмек бағдарламасын мына сілтемеден жүктеңіз: https://apple-confirm.test/fxmgqIrl,1,fraud,kk,tech_support,kk-fraud-tech_support-0,,synthetic
+kk00341,Нөміріңіз таңдалды! Сыйлықты алу үшін http://hsrc-wallet.test/account/confirm сілтемесіне өтіңіз.,1,fraud,kk,prize,kk-fraud-prize-1,,synthetic
+kk00342,"Сәлем! Мөлдір, сыйлық үшін рахмет! Қонаққа кел. ok",0,safe,kk,family,kk-safe-family-1,greet+mix,synthetic
+kk00343,"Сіздің кодыңыз: 106432. Оны ешкімге айтпаңыз, тіпті Kaspi қызметкеріне де.",0,safe,kk,otp,kk-safe-otp-0,,synthetic
+kk00344,Жедел несие бас тартусыз 5 минутта. Толығырақ: http://cafe.example/invite/v23rIJpSP3Hmal Құрметпен.,,suspicious,kk,loan_ad,kk-suspicious-loan_ad-0,close,synthetic
+kk00345,Әкмідік: 519 ₸ айыппұл төленді. Рахмет.,0,safe,kk,gov_edu,kk-safe-gov_edu-2,typo,synthetic
+kk00346,ӘКЕМ: КЕШКІ АСТЫ ЕСІҢДЕ БОЛСЫН. СЕНІ САҒЫНДЫҚ.,0,safe,kk,family,kk-safe-family-0,upper,synthetic
+kk00347,Technodom-дан сатып алғаныңыз үшін рахмет. Сомасы 201 тг.,0,safe,kk,purchase,kk-safe-purchase-0,,synthetic
+kk00348,"Гүлнар, презентация келісуде. 21:30-де онлайн-кездесу Zoom-да. Түзетулерді ертеңге дейін жіберіңіз.",0,safe,kk,work,kk-safe-work-0,,synthetic
+kk00349,"Дәулет, есеп дайын. 15:45-де онлайн-кездесу кеңседе. Түзетулерді ертеңге дейін жіберіңіз.",0,safe,kk,work,kk-safe-work-0,,synthetic
+kk00350,№10418943 сәлемдемені жеткізу мүмкін болмады. Мекенжайды нақтылаңыз: http://health2953.example/dO3dr61UCejc1o,1,fraud,kk,delivery_customs,kk-fraud-delivery_customs-1,,synthetic
+kk00351,"қайырлы күн! қашықтан жұмысқа шақырамыз. табыс ауысымына 95 650 ₸, тәжірибесіз. оқыту тегін. whatsapp-қа 8 786 000 42 80 жазыңыз. 🙏",1,fraud,kk,fake_job,kk-fraud-fake_job-0,lower+emoji,synthetic
+kk00352,kaspi: сіздің өтінішіңіз бойынша карта *7936 бұғатталды. қосымшада немесе бөлімшеде ашуға болады.,0,safe,kk,bank_notice,kk-safe-bank_notice-2,lower,synthetic
+kk00353,Сіз жеңімпаз атандыңыз! Сыйлықты алу үшін https://www.deltahealth.test/user/profile/68772 сілтемесіне өтіңіз.,1,fraud,kk,prize,kk-fraud-prize-1,,synthetic
+kk00354,Сізге жәрдемақы есептелді. Картаға түсу үшін карта деректерін көрсетіңіз: http://josan70.invalid/track/65037 😊,1,fraud,kk,gov_payment,kk-fraud-gov_payment-1,emoji,synthetic
+kk00355,Қолдау қызметі Kaspi-Магазин: аккаунтыңыз бұзылды. Қорғаныс қосымшасын мына сілтемеден жүктеңіз: http://[2001:db8::ecde]/login,1,fraud,kk,tech_support,kk-fraud-tech_support-0,,synthetic
+kk00356,"Сәлем! Нұрлан, шарт келісуде. 8:30-де кездесу кеңседе",0,safe,kk,work,kk-safe-work-0,nopunct+greet,synthetic
+kk00357,Сізге қатысты алаяқтық бойынша өтініш түсті. Дереу +7 749 000 16 33 нөміріне қоңырау шалыңыз. Әңгіме құпия,1,fraud,kk,fear_secrecy,kk-fraud-fear_secrecy-1,nopunct,synthetic
+kk00358,Қаржы министрлігінің өтемақы 36 тг сізге тиесілі. Төлемді алыңыз 20.11 дейін: http://go-link.test/AwH0ky,1,fraud,kk,gov_payment,kk-fraud-gov_payment-0,,synthetic
+kk00359,65124 — Sulpak жүйесіне кіру коды. 5 минут жарамды.,0,safe,kk,otp,kk-safe-otp-1,,synthetic
+kk00360,Картаңыз бұғаттаалды. Бүгін картаны ашыңыз сайтта: http://198.51.100.21/reset/DuIeTVk0UoDTlbcXeOAsT2Qa0QY Күніңіз жақсы өтсін!,1,fraud,kk,card_block,kk-fraud-card_block-0,typo+close,synthetic
+kk00361,Жедел несие бас тартусыз картаға. Рәсімдеу: https://lnk.example/65065,,suspicious,kk,loan_ad,kk-suspicious-loan_ad-0,,synthetic
+kk00362,Әкімдік: өтінішіңіз қабылданды. Өтінім нөмірі 54590626.,0,safe,kk,gov_edu,kk-safe-gov_edu-1,,synthetic
+kk00363,Нөміріңіз таңдалды! Ұтысты алу үшін осы хабарламаға жауап беріңіз.,1,fraud,kk,prize,kk-fraud-prize-1,,synthetic
+kk00364,Small:  жаңа коллекция дүкендерде 15.11.2026 дейін. Бас тарту үшін СТОП деп жауап беріңіз пожалуйста,0,safe,kk,ads,kk-safe-ads-0,mix+dblspace,synthetic
+kk00365,Курьер 12.11 кешкі 18:00-ден кейін келеді. Курьер нөмірі: 8 764 000 74 79,0,safe,kk,delivery,kk-safe-delivery-1,nopunct,synthetic
+kk00366,"Қайырлы күн. Сәлем, мынаны ақрашы: https://www.studioriver.example/altyn-delta/harbor-nomad-nova/blue-alpha-steppe-aqua/metro-delta-cloud/pearl-nova-blue?id=51650&lang=kk&utm_campaign=fresh-royal-sun-market",,suspicious,kk,unknown_link,kk-suspicious-unknown_link-0,typo+greet,synthetic
+kk00367,Сізге 59 ₸ кэшбэк қолжетімді. Бонусты алыңыз 03.12 дейін: https://barcl4ys-refund.test/s/4BG0XixwP7J9PV4,1,fraud,kk,bonus_refund,kk-fraud-bonus_refund-0,,synthetic
+kk00368,Қолдау қызметі Sulpak: құрылығңызға вирус түсті. Қорғаныс қосымшасын орнатыңыз: http://198.51.100.159/claim/86742,1,fraud,kk,tech_support,kk-fraud-tech_support-0,typo,synthetic
+kk00369,Салық шегерімі мақұлданды. Картаға түсу үшін карта деректерін көрсетіңіз: https://whatsapp-account.test/track/78079,1,fraud,kk,gov_payment,kk-fraud-gov_payment-1,,synthetic
+kk00370,"Маман: телефоныңыздан вирус анықтадық. +7 748 000 32 76 нөміріне қоңырау шалыңыз, құрылғыны өшірмеңіз. 🙏",1,fraud,kk,tech_support,kk-fraud-tech_support-1,emoji,synthetic
+kk00371,"Сәлеметсіз бе! Маман: телефоныңыздан вирус анықтадық. @cash.online чатына жазыңыз, құрылғыны өшрімеңіз.",1,fraud,kk,tech_support,kk-fraud-tech_support-1,typo+greet,synthetic
+kk00372,"Төлеген, шарт дайын. 19:15-де онлайн-кездесу кеңседе.",0,safe,kk,work,kk-safe-work-0,,synthetic
+kk00373,Шұғыл: жиналыс 22:00-ге ауыстырылды. Қатысуыңызды растаңыз.,0,safe,kk,work,kk-safe-work-1,,synthetic
+kk00374,Сіздің сәлемдемеңіз кеденде тұр. Жеткізу бойынша қосымша төлемді 561 теңге 48 сағат ішінде төлеңіз: https://support-deltariver6.invalid/reset/YbTauQX8Qn7Pdy91ZREpfmHL7,1,fraud,kk,delivery_customs,kk-fraud-delivery_customs-0,,synthetic
+kk00375,"Назар аударыңыз: Halyk: профиліңізде күдікті әрекет анықталды. Бұғаттаудан сақтану үшін сайтқа кіріп, растаңыз: https://shrt.test/hefgsFM",1,fraud,kk,bank_phish,kk-fraud-bank_phish-0,greet,synthetic
+kk00376,"Салтанат, мерекең құтты бослын! Демалыста кездесеміз.",0,safe,kk,family,kk-safe-family-1,typo,synthetic
+kk00377,"Бір реттік код: 548274. Кодты ешкімге бермеңіз, банк қызметкерлеріне де.",0,safe,kk,otp,kk-safe-otp-0,,synthetic
+kk00378,Қайырлы күн. Әкімдік: 534 ₸ айыппұл төленді. Рахмет.,0,safe,kk,gov_edu,kk-safe-gov_edu-2,greet,synthetic
+kk00379,"Сіздің кодыңыз: 896724. Кодты ешкімге бермеңіз, банк қызметкерлеріне де Құрметпен.",0,safe,kk,otp,kk-safe-otp-0,nopunct+close,synthetic
+kk00380,"Айнұр, үйге келгенде қоңырау шал. Дүкеннен сүт алып кел.",0,safe,kk,chat,kk-safe-chat-1,,synthetic
+kk00381,Сіздің №21132369 тапсырысыңыз беру пунктіне келді. Күтілетін күні: 12.11. Бақылау: https://u.example/eXM6GYHS,0,safe,kk,delivery,kk-safe-delivery-0,,synthetic
+kk00382,"Мектеп №15630385: сабқа 12.11 күніне, 16:00-ге белгіленді. Аудитория 60687959.",0,safe,kk,gov_edu,kk-safe-gov_edu-0,typo,synthetic
+kk00383,"Сәлем, мынаны қарашы: https://lnk.example/17385 пожалуйста",,suspicious,kk,unknown_link,kk-suspicious-unknown_link-0,mix,synthetic
+kk00384,Картаңыз шектелді. Бүгін деректерді растаңыз сайтта: https://techbright268232.example/v3blJF9Luucke 📦,1,fraud,kk,card_block,kk-fraud-card_block-0,emoji,synthetic
+kk00385,"бақыт, туған күніңмен! демалыста кездесеміз. 😊",0,safe,kk,family,kk-safe-family-1,lower+emoji,synthetic
+kk00386,"РАСТАУ  КОДЫ: 775294. КОДТЫ ЕШКІМГЕ БЕРМЕҢІЗ, ТІПТІ HALYK ҚЫЗМЕТКЕРІНЕ ДЕ СПС",0,safe,kk,otp,kk-safe-otp-0,nopunct+mix+upper+dblspace,synthetic
+kk00387,"Қалайсың, Жанар! Ертең 19:15-де кездесеміз бе? Жұмыстан кейін хабарласамын.",0,safe,kk,chat,kk-safe-chat-0,,synthetic
+kk00388,Сіздің №553577 тапсырысыңыз беру пунктіне келді. Жеткізу күні: 03.12. Бақылау: https://garden-market.invalid/products/13638,0,safe,kk,delivery,kk-safe-delivery-0,,synthetic
+kk00389,Сіздің сәлемдемеңіз қоймада ұсталды. Жеткізу бойынша қосымша төлемді 47 808 ₸ 48 сағат ішінде төлеңіз: https://binance.payment-metro.test/login/kM7zMu?next=/cabinet,1,fraud,kk,delivery_customs,kk-fraud-delivery_customs-0,,synthetic
+kk00390,Кодыңыз: 516121. Оны Technodom сайтына енгізіңіз.,,suspicious,kk,otp_nowarn,kk-suspicious-otp_nowarn-0,,synthetic
+kk00391,"Маман: телефоныңыздан вирус анықтадық. 8 735 000 88 76 нөміріне қоңырау шалыңыз, біз көмектесеміз.",1,fraud,kk,tech_support,kk-fraud-tech_support-1,,synthetic
+kk00392,kaspi: сіздің өтінішіңіз бойынша карта *1227 уақытша бұғатталды. қосымшада немесе бөлімшеде ашуға болады.,0,safe,kk,bank_notice,kk-safe-bank_notice-2,lower,synthetic
+kk00393,"Соңғы ескерту. Суреттеріңіз желіге түсті. Полицияға жүгінбеңіз, салдарынан аулақ болу үшін 78 394 ₸ аударыңыз.",1,fraud,kk,fear_secrecy,kk-fraud-fear_secrecy-0,,synthetic
+kk00394,"Мөлдір, бос болғанда хабарла. Кешкі асқа үлгер. Жауап қажет емес.",0,safe,kk,chat,kk-safe-chat-1,close,synthetic
+kk00395,Қауіпсіздік қызметінің қызметкері: күдікті операцияны болдырмау үшін пин-кодты айтыңыз.,1,fraud,kk,cvv_code,kk-fraud-cvv_code-0,,synthetic
+kk00396,"Сәлем, мынаны қарашы: https://shrt.test/68841",,suspicious,kk,unknown_link,kk-suspicious-unknown_link-0,,synthetic
+kk00397,Назар аударыңыз: сіз бақытты иегерсіз! сіз magnum акциясында жүлде ұттыңыз. ұтысты алу үшін өтіңіз: http://198.51.100.151/amber-sun,1,fraud,kk,prize,kk-fraud-prize-0,lower+greet,synthetic
+kk00398,"Ана, ауруханадамын. Шұғыл 44 847 ₸ картаға аудар, кейін түсіндіремін",1,fraud,kk,relative,kk-fraud-relative-0,nopunct,synthetic
+kk00399,"Сәлеметсіз бе! Мен Дәріхана бухгалтериясынан Мөлдір. Қателесіп 265 тг жібердік, *4493 картасына қайтарыңызшы",1,fraud,kk,money_transfer,kk-fraud-money_transfer-0,nopunct,synthetic
+kk00400,Салық шегерімі мақұлданды. Ақшаны алу үшін сауалнаманы толтырыңыз: https://tiny-link.test/4o5Ch,1,fraud,kk,gov_payment,kk-fraud-gov_payment-1,,synthetic
+kk00401,біреу аккаунтыңызға кіруге тырысты. бұл сіз болмасаңыз құпия сөзді ауыстырыңыз: https://sunfresh.example/?token=ozivl&redirect=bdw39tr&cid=y4ehy6s&user=fapnyy1o,1,fraud,kk,account_pwd,kk-fraud-account_pwd-1,lower,synthetic
+kk00402,"Береке: Пекарня кафесінде 238 тг төлем жасалды, карта *0559. Қолжетімді сома: 514 тг.",0,safe,kk,bank_notice,kk-safe-bank_notice-0,,synthetic
+kk00403,"Әке, ауруханадамын. Шұғыл 99 ₸ осы нөмірге 8 700 000 72 97 аудар, телефоным сынды, бөтен нөмірден жазып тұрмын.",1,fraud,kk,relative,kk-fraud-relative-0,,synthetic
+kk00404,"Назар аударыңыз. Деректеріңіз белгілі болды. Полицияға жүгінбеңіз, салдарынан аулақ болу үшін @cash.kz жазыңыз. 🙏",1,fraud,kk,fear_secrecy,kk-fraud-fear_secrecy-0,emoji,synthetic
+kk00405,"Сәлем! Kaspi: Пекарня дүкенінде 918 ₸ сомасына сатып алу, карта *3173. Қолжетімді сома: 79 475 ₸.",0,safe,kk,bank_notice,kk-safe-bank_notice-0,greet,synthetic
+kk00406,№51836237 сәлемдемені курьер жеткізе алмады. Мекенжайды нақтылаңыз: https://wellsfarggo-bank.invalid/reset/PhJj6TLSIOddn0dbk8PiGB9,1,fraud,kk,delivery_customs,kk-fraud-delivery_customs-1,,synthetic
+kk00407,kaspi-магазин: жаңа коллекция дүкендерде 01.12 дейін. бас тарту үшін стоп деп жауап беріңіз Жауап қажет емес.,0,safe,kk,ads,kk-safe-ads-0,lower+close,synthetic
+kk00408,"біздің талдаушы бір схема көрсетті: 415 теңге салып, бір аптада үш есе алдым. сен де қалайсың ба? @cashkz",1,fraud,kk,investment,kk-fraud-investment-1,lower,synthetic
+kk00409,"Дәулет, сыйлық үшін рахмет! Қонаққа кел.",0,safe,kk,family,kk-safe-family-1,,synthetic
+kk00410,Ескертеміз: 15.11.2026 сағат 20:30-де сабақ. Ауыстыру үшін +7 765 000 56 11 нөміріне хабарласыңыз.,0,safe,kk,reminder,kk-safe-reminder-0,,synthetic
+kk00411,Аккаунтыңыз 24 сағаттан кейін бұғатталады. Құпия сөзді растаңыз сілтеме бойынша: http://kasp.example/login/VYpGPQqLQ?next=/cabinet,1,fraud,kk,account_pwd,kk-fraud-account_pwd-0,nopunct,synthetic
+kk00412,jusan қауіпсіздік қызметі: профиліңізде жаңа құрылғыдан кіру тіркелді. қаражатты қорғау үшін сілтеме бойынша кіріңіз: https://auth-maple-pixel.example/ 💳,1,fraud,kk,bank_phish,kk-fraud-bank_phish-0,lower+emoji,synthetic
+kk00413,Сәлем! Halyk: сіздің өтінішіңіз бойынша карта *6536 уақытша бұғатталды.,0,safe,kk,bank_notice,kk-safe-bank_notice-2,greet,synthetic
+kk00414,"Назар аударыңыз: ерлан, мерекең құтты болсын! демалыста кездесеміз.",0,safe,kk,family,kk-safe-family-1,lower+greet,synthetic
+kk00415,Әкімдік: 32 234 ₸ айыппұл төленді. Рахмет.,0,safe,kk,gov_edu,kk-safe-gov_edu-2,,synthetic
+kk00416,Halyk: *1343 картасына қолжетімділік шектелді. Шектеуді алу үшін сілтемеге өтіңіз: https://apple-account.invalid/reset/VwhayeoJrQJYtpak04Ci7VgNSGkWn,1,fraud,kk,card_block,kk-fraud-card_block-1,,synthetic
+kk00417,"Береке: Дүкен кафесінде 18 322 ₸ төлем жасалды, карта *8218. Қолжетімді сома: 68 210 ₸.",0,safe,kk,bank_notice,kk-safe-bank_notice-0,,synthetic
+kk00418,Сәлем! Құттықтаймыз! Сіз Дәріхана акциясында смартфон жеңіп алдыңыз. Ұтысты алу үшін өтіңіз: https://refund-techstudio.example/docs/city-amber.html,1,fraud,kk,prize,kk-fraud-prize-0,greet,synthetic
+kk00419,Назар аударыңыз: Сізге 559 теңге қайтарым есептелді. Бонусты алыңыз апта соңына дейін: http://etflix82.invalid/account/settings,1,fraud,kk,bonus_refund,kk-fraud-bonus_refund-0,greet,synthetic
+kk00420,"Сізге ForteBank қызметкері қоңырау шалды. Оған картаның артындағы үш таңбалы кодты жіберіңіз, деректерді салыстыру үшін. Құрметпен.",1,fraud,kk,cvv_code,kk-fraud-cvv_code-1,close,synthetic
+kk00421,"сәлеметсзі бе! мен kaspi-магазин бухгалтериясынан айгүл. байқаусызда 52 ₸ жібердік, *7247 картасына қайтарыңызшы. пожалуйста",1,fraud,kk,money_transfer,kk-fraud-money_transfer-0,lower+typo+mix,synthetic
+kk00422,"Сіздің кодыңыз: 795496. Оны ешкімге айтпаңыз, банк қызметкерлеріне де.",0,safe,kk,otp,kk-safe-otp-0,,synthetic
+kk00423,"Көмекшілер керек үйден: лайк, төлем бірден. Бүгін баста @cash997",1,fraud,kk,fake_job,kk-fraud-fake_job-1,,synthetic
+kk00424,"Университет: сабақ 03.12 күніне, 10:15-ге ауыстырылды. спс",0,safe,kk,gov_edu,kk-safe-gov_edu-0,mix,synthetic
+kk00425,Ескертеміз: 20.11 сағат 8:00-де жаттығу. Ауыстыру үшін 8 798 000 74 55 нөміріне хабарласыңыз.,0,safe,kk,reminder,kk-safe-reminder-0,,synthetic
+kk00426,"Операторлар қабылданады онлайн: лайк, табыс 45 ₸. Жаз @promo991",1,fraud,kk,fake_job,kk-fraud-fake_job-1,,synthetic
+kk00427,Биржада сауда: пайда күніне 70 тг-ге дейін! Қауіпсіз. Telegram-ға кіріңіз @investteam. Құрметпен.,1,fraud,kk,investment,kk-fraud-investment-0,close,synthetic
+kk00428,жаңа құрылғыдан кіру анықталды. қорғау үшін логин мен құпия сөзді енгізіңіз: https://paypal.invalid@prime.invalid/docs/terra-vista.html,1,fraud,kk,account_pwd,kk-fraud-account_pwd-1,lower,synthetic
+kk00429,№78722818 сәлемдемені курьер жеткізе алмады. Жеткізу мекенжайын жаңартыңыз және сақтау ақысын 44 172 ₸ төлеңіз: https://gift-altyn-craft.invalid/track/58896,1,fraud,kk,delivery_customs,kk-fraud-delivery_customs-1,,synthetic
+kk00430,техникалық қолдау aviata: құрылғыңызға вирус түсті. қорғаныс қоысмшасын мына сілтемеден жүктеңіз: https://lnk.example/h3zr0k5j,1,fraud,kk,tech_support,kk-fraud-tech_support-0,lower+nopunct+typo,synthetic
+kk00431,Сәлем! ескертеміз: 01.12 сағат 14:45-де кездесу. ауыстыру үшін 8 761 000 92 90 нөміріне хабарласыңыз. пожалуйста,0,safe,kk,reminder,kk-safe-reminder-0,lower+greet+mix,synthetic
+kk00432,Сәлем!  Kaspi-Магазин-дан чек. Жалпы сома 7 ₸,0,safe,kk,purchase,kk-safe-purchase-0,nopunct+greet+dblspace,synthetic
+kk00433,"Назар аударыңыз. Деректеріңіз желіге түсті. Ешкімге айтпаңыз, салдарынан аулақ болу үшін 57 ₸ аударыңыз.",1,fraud,kk,fear_secrecy,kk-fraud-fear_secrecy-0,,synthetic
+kk00434,"Сізге Jusan қызметкері қоңырау шалады. Оған осы хабарламадағы кодты: 182981 айтыңыз, деректерді салыстыру үшін.",1,fraud,kk,cvv_code,kk-fraud-cvv_code-1,,synthetic
+kk00435,Kaspi: *0976 картасына қолжетімділік шектелді. Шектеуді алу үшін тексеруден өтіңіз: http://cedarprime.example/?session=mJLIOaQp9&user=hnu4OB&cid=o5e9MIE&id=ie8TnfmbL&ref=TFmTRK,1,fraud,kk,card_block,kk-fraud-card_block-1,,synthetic
+kk00436,"Құрметті клиент, құпия сөзіңіздің мерзімі аяқталды. Мәліметтерді жаңартыңыз 24 сағат ішінде: http://cafemaple15.test/shop/books?utm_source=sms&utm_medium=notice&ref=QGARsVw",1,fraud,kk,bank_phish,kk-fraud-bank_phish-1,,synthetic
+kk00437,"қайырлы күн! мен sulpak бухгалтериясынан нұрлан. байқаусызда 894 теңге аударылып кетті, *3772 картасына қайтарыңызшы.",1,fraud,kk,money_transfer,kk-fraud-money_transfer-0,lower,synthetic
+kk00438,"Сбербанк: Пекарня дәріханасында 80 ₸ сомасына сатып алу, карта *9454. Қалдық: 329 тг",0,safe,kk,bank_notice,kk-safe-bank_notice-0,nopunct,synthetic
+kk00439,"ForteBank: карта *4560-ға 482 ₸ аударылды. Егер бұл сіз болмасаңыз, картаның артындағы нөмірге қоңырау шалыңыз.",0,safe,kk,bank_notice,kk-safe-bank_notice-1,,synthetic
+kk00440,kaspi-магазин: сатылым сайтта 03.12 дейін. толығырақ: https://ironnorth49.invalid/orders/98589/track,0,safe,kk,ads,kk-safe-ads-0,lower,synthetic
+kk00441,Сізге өтемақы тиесілі сатып алу үшін. Карта деректерін қалдырыңыз есептеу үшін: https://billing.sport.jusan.sportcedar.test/docs/market-lotus-quartz-summit.html,1,fraud,kk,bonus_refund,kk-fraud-bonus_refund-1,nopunct,synthetic
+kk00442,Сізге қатысты алаяқтық бойынша өтініш түсті. Дереу 8 755 000 56 82 нөміріне қоңырау шалыңыз. Ешкімге айтпаңыз.,1,fraud,kk,fear_secrecy,kk-fraud-fear_secrecy-1,,synthetic
+kk00443,"Қайырлы күн. Операторлар қабылданады үйден: лайк, төлем бірден. Жаз @promo.team",1,fraud,kk,fake_job,kk-fraud-fake_job-1,greet,synthetic
+kk00444,Сбербанк  маманы: күдікті операцияны болдырмау үшін SMS-тағы кодты жіберіңіз.,1,fraud,kk,cvv_code,kk-fraud-cvv_code-0,dblspace,synthetic
+kk00445,Сізге 457 ₸ қайтарым қолжетімді. Оны белсендіріңіз апта соңына дейін: http://auth.blue.paypal.amber-prime.test/,1,fraud,kk,bonus_refund,kk-fraud-bonus_refund-0,,synthetic
+kk00446,Қайырлы күн. Сбербанк маманы: күдікті операцияны тоқтату үшін CVV кодты жіберіңіз. Рахмет.,1,fraud,kk,cvv_code,kk-fraud-cvv_code-0,greet+close,synthetic
+kk00447,Назар аударыңыз: Картаңыз бұғатталды. Дереу деректерді растаңыз мына сілтеме арқылы: http://netflix.update-orbit.test/index.php?id=37671,1,fraud,kk,card_block,kk-fraud-card_block-0,greet,synthetic
+kk00448,№45840726 сәлемдемені курьер жеткізе алмады. Мекенжайды нақтылаңыз: https://craft3294.example/6ZTfSaLGsIv,1,fraud,kk,delivery_customs,kk-fraud-delivery_customs-1,,synthetic
+kk00449,Сіздің сәлемдемеңіз кеденде ұсталды. Кеден алымын 83 теңге 12.11 дейін төлеңіз: http://go-link.test/GU4Nu,1,fraud,kk,delivery_customs,kk-fraud-delivery_customs-0,,synthetic
+kk00450,Қайырлы күн. Kaspi: *0083 картасына қолжетімділік шектелді. Картаны қолдануды жалғастыру үшін тексеруден өтіңіз: https://xn--8oc70ypifolm.invalid/uVvrIQWt4,1,fraud,kk,card_block,kk-fraud-card_block-1,greet,synthetic
+kk00451,№75246170 сәлемдемені курьер жеткізе алмады. Мекенжайды нақтылаңыз: https://fresh8300.example/Cxt8Q25rCK ❗,1,fraud,kk,delivery_customs,kk-fraud-delivery_customs-1,emoji,synthetic
+kk00452,halyk: акрта *0873-ға 743 теңге түсті.,0,safe,kk,bank_notice,kk-safe-bank_notice-1,lower+typo,synthetic
+kk00453,Сізге өтемақы тиесілі байланыс қызметі үшін. Карта деректерін қалдырыңыз 12 тг алу үшін: https://xn--u9d56tsyi5dar.invalid/bank/login.php?session=07LvVIhY5&user=30105,1,fraud,kk,bonus_refund,kk-fraud-bonus_refund-1,,synthetic
+kk00454,Аккаунтыңыз 24 сағаттан кейін бұғатталады. Кіруді қалпына келтіріңіз сілтеме бойынша: http://media-books.example/login?continue=/home,1,fraud,kk,account_pwd,kk-fraud-account_pwd-0,,synthetic
+kk00455,"соңғы ескерту. деректеріңіз желіге түсті. ешкімге айтпаңыз, садларынан аулақ болу үшін @job_313 жазыңыз.",1,fraud,kk,fear_secrecy,kk-fraud-fear_secrecy-0,lower+typo,synthetic
+kk00456,Қайырлы күн. Қауіпсіздік қызметінің қызметкері: күдікті операцияны тоқтату үшін CVV кодты айтыңыз.,1,fraud,kk,cvv_code,kk-fraud-cvv_code-0,greet,synthetic
+kk00457,"Қалайсың, Мөлдір! Бүгін 13:45-де жолығамыз ба? Кафе жанында күтемін. Рахмет.",0,safe,kk,chat,kk-safe-chat-0,close,synthetic
+kk00458,еске  саламыз: 15.11.2026 сағат 8:15-де дәрігер қабылдауы. мекенжайы: дүкен.,0,safe,kk,reminder,kk-safe-reminder-0,lower+dblspace,synthetic
+kk00459,"Біздің талдаушы стратегиямен бөлісті: 381 ₸ салып, бір аптада үш есе алдым. Жаз? @promo_kz",1,fraud,kk,investment,kk-fraud-investment-1,,synthetic
+kk00460,Курьер 20.11 кешкі 18:00-ден кейін жетеді. Курьер нөмірі: +7 749 000 72 69 🙏,0,safe,kk,delivery,kk-safe-delivery-1,emoji,synthetic
+kk00461,Береке: карта *2525-ға 60 497 тг аударылды.,0,safe,kk,bank_notice,kk-safe-bank_notice-1,,synthetic
+kk00462,"қадірлі клиент, деректеріңіз ескірді. деректерді растаңыз тез арада: https://silk3863.test/hqvihzpwcki",1,fraud,kk,bank_phish,kk-fraud-bank_phish-1,lower+nopunct,synthetic
+kk00463,Анам:  сенбідегі кездесуді ұмытпа. Сені сағындық.,0,safe,kk,family,kk-safe-family-0,dblspace,synthetic
+kk00464,КУРЬЕР 03.12 САҒАТ 10-НАН 14-КЕ ДЕЙІН ЖЕТЕДІ. КУРЬЕР НӨМІРІ: +7 704 000 62 20 КҮНІҢІЗ ЖАҚСЫ ӨТСІН!,0,safe,kk,delivery,kk-safe-delivery-1,close+upper,synthetic
+kk00465,Назар аударыңыз: сізге өтемақы тиесілі байланыс қызметі үшін. карта нөмірін көрсетіңіз 15 теңге алу үшін: https://dhl-bonus.example/secure/update?id=oillytqgha,1,fraud,kk,bonus_refund,kk-fraud-bonus_refund-1,lower+greet,synthetic
+kk00466,"Асхат, туған күніңмен! Демалыста кездесеміз.",0,safe,kk,family,kk-safe-family-1,,synthetic
+kk00467,Курьер 01.12 кешкі 18:00-ден кейін жетеді. Төлем төленген. Жауап қажет емес.,0,safe,kk,delivery,kk-safe-delivery-1,close,synthetic
+kk00468,"Қадірлі клиент, құпия сөзіңіздің мерзімі аяқталды. Деректерді растаңыз тез арада: https://wellsfargo-login.test/bank/login.php?session=hFI3sdwa3MGfAxtVJupb3nWd&user=68713 Құрметпен.",1,fraud,kk,bank_phish,kk-fraud-bank_phish-1,nopunct+close,synthetic
+kk00469,"бір реттік код: 398000. кодты ешкімге бермеңіз, банк қызметкерлеріне де.",0,safe,kk,otp,kk-safe-otp-0,lower,synthetic
+kk00470,"сбербанк: пекарня дүкенінде 74 591 теңге сомасына сатып алу, карта *8159. қалдық: 61 ₸.",0,safe,kk,bank_notice,kk-safe-bank_notice-0,lower,synthetic
+kk00471,Сәлем! Әкімдік: қабылдау алдын ала жазылу бойынша. Өтінім нөмірі 32025425.,0,safe,kk,gov_edu,kk-safe-gov_edu-1,greet,synthetic
+kk00472,Анам: кешкі асты есіңде болсын. Кешке қоңырау шал.,0,safe,kk,family,kk-safe-family-0,,synthetic
+kk00473,Сіздің №75956489 тапсырысыңыз жөнелтілді. Күтілетін күні: 12.11. пожалуйста,0,safe,kk,delivery,kk-safe-delivery-0,mix,synthetic
+kk00474,Шұғыл: клиент 13:45-ге дейін жауап күтеді. Құрметпен.,0,safe,kk,work,kk-safe-work-1,close,synthetic
+kk00475,"Бір  реттік код: 937294. Кодты ешкімге бермеңіз, ітпті Jusan қызметкеріне де.",0,safe,kk,otp,kk-safe-otp-0,typo+dblspace,synthetic
+kk00476,Салық комитеті: қабылдау алдын ала жазылу бойынша. Өтінім нөмірі 1120513 Күніңіз жақсы өтсін!,0,safe,kk,gov_edu,kk-safe-gov_edu-1,nopunct+close,synthetic
+kk00477,Құттықтаймыз!  Сіз Magnum акциясында 350 ₸ жеңіп алдыңыз. Ұтысты алу үшін өтіңіз: https://bank.grand.jusan.deltapixel.example/sport-swift-studio,1,fraud,kk,prize,kk-fraud-prize-0,nopunct+dblspace,synthetic
+kk00478,Сәлем! ХҚКО: құжаттарыңыз дайын. Толығырақ: https://egov-docs.example/request/90361,0,safe,kk,gov_edu,kk-safe-gov_edu-1,greet,synthetic
+kk00479,Сәлем! ForteBank: сіздің өтінішіңіз бойынша карта *8657 уақытша бұғатталды. Қосымшада немесе бөлімшеде ашуға болады.,0,safe,kk,bank_notice,kk-safe-bank_notice-2,greet,synthetic
+kk00480,"Сәлеметсіз бе! Резюмеңізді көрдік. Табыс ауысымына 56 828 ₸, тәжірибесіз. Оқыту тегін. WhatsApp-қа +7 790 000 94 42 жазыңыз.",1,fraud,kk,fake_job,kk-fraud-fake_job-0,,synthetic
+kk00481,әкімдік: қабылдау алдын ала жазылу бойынша. өтінім нөмірі 23857211.,0,safe,kk,gov_edu,kk-safe-gov_edu-1,lower,synthetic
+kk00482,Сәлем! Әкем: кешкі асты ұмытпа. Аман бол!,0,safe,kk,family,kk-safe-family-0,greet,synthetic
+kk00483,"Мектеп №61014275: жиналыс 20.11 күніне, 19:45-ге ауыстырылды. Аудитория 78347414",0,safe,kk,gov_edu,kk-safe-gov_edu-0,nopunct+typo,synthetic
+kk00484,"көмекшілер керек үйден: тапсырыс, төлем бірден. бүгін баста @pro_online пожалуйста",1,fraud,kk,fake_job,kk-fraud-fake_job-1,lower+mix,synthetic
+kk00485,"Нұрлан, бос болғанда қоңырау шал. Кешкі асқа үлгер. Күніңіз жақсы өтсін!",0,safe,kk,chat,kk-safe-chat-1,close,synthetic
+kk00486,Сіздің №40559556 тапсырысыңыз жеткізуге берілді. Жеткізу күні: 01.12. Бақылау: https://support.northsilk.example/verify?continue=/home,0,safe,kk,delivery,kk-safe-delivery-0,,synthetic
+kk00487,Сәлем! Әкімдік: қабылдау алдын ала жазылу бойынша. Өтінім нөмірі 72260275.,0,safe,kk,gov_edu,kk-safe-gov_edu-1,greet,synthetic
+kk00488,"Құрметті клиент, деректеріңіз ескірді. Мәліметтерді жаңартыңыз 24 сағат ішінде: http://instagham-wallet.example/secure/update?id=TJpLBOhY",1,fraud,kk,bank_phish,kk-fraud-bank_phish-1,,synthetic
+kk00489,Қолдау  қызметі Technodom: аккаунтыңыз бұзылды. Қашықтан көмек бағдарламасын мына сілтемеден жүктеңіз: https://binancee.test/secure/update?id=y3hl4qFgT,1,fraud,kk,tech_support,kk-fraud-tech_support-0,nopunct+dblspace,synthetic
+kk00490,Қаржы министрлігінің әлеуметтік төлем 748 ₸ сізге тиесілі. Төлемді алыңыз 3 күн ішінде: https://secure.studio.kazpost.learn-tech.example/s/fosl6Eg2fS,1,fraud,kk,gov_payment,kk-fraud-gov_payment-0,,synthetic
+kk00491,"Сізге Береке маманы қоңырау шалды. Оған осы хабарламадағы кодты: 943276 жіберіңіз, шотты қорғау үшін.",1,fraud,kk,cvv_code,kk-fraud-cvv_code-1,,synthetic
+kk00492,ХҚКО: өтінішіңіз қабылданды. Өтінім нөмірі 85267095.,0,safe,kk,gov_edu,kk-safe-gov_edu-1,,synthetic
+kk00493,Анам: кешкі асты есіңде болсын. Сені сағындық.,0,safe,kk,family,kk-safe-family-0,,synthetic
+kk00494,Halyk: *5704 картасына қолжетімділік шектелді. Картаны қолдануды жалғастыру үшін тексеруден өтіңіз: https://auth-cafe-city.invalid/about,1,fraud,kk,card_block,kk-fraud-card_block-1,,synthetic
+kk00495,Аккаунтыңыз 24 сағаттан кейін жойылады. Кіруді қалпына келтіріңіз осы жерде: https://forte-wallet.invalid/claim/57150 Күніңіз жақсы өтсін!,1,fraud,kk,account_pwd,kk-fraud-account_pwd-0,close,synthetic
+kk00496,Аккаунтыңыз бүгін жойылады. Кіруді қалпына келтіріңіз сілтеме бойынша: https://studio.test:8443/claim/95340 Күніңіз жақсы өтсін!,1,fraud,kk,account_pwd,kk-fraud-account_pwd-0,nopunct+close,synthetic
+kk00497,228855 — Kaspi-Магазин жүйесіне кіру коды. 5 минут жарамды,0,safe,kk,otp,kk-safe-otp-1,nopunct,synthetic
+kk00498,"Біздің талдаушы стратегиямен бөлісті: 57 202 ₸ салып, бір аптада үш есе алдым. Сен де қалайсың ба? @proteam",1,fraud,kk,investment,kk-fraud-investment-1,nopunct,synthetic
+kk00499,"Сәлем, мынаны қарашы: http://auth-lotusmetro6.example//login Күніңіз жақсы өтсін!",,suspicious,kk,unknown_link,kk-suspicious-unknown_link-0,close,synthetic
+kk00500,"Сіздің кодыңыз: 67074. Оны ешкімге айтпаңыз, банк қызметкерлеріне де",0,safe,kk,otp,kk-safe-otp-0,nopunct,synthetic
+kk00501,"ДӘУЛЕТ, БОС БОЛҒАНДА ХАБАРЛА. НАН АЛЫП КЕЛЕ МЕ?",0,safe,kk,chat,kk-safe-chat-1,upper,synthetic
+kk00502,"Береке: Кофеханасы дәріханасында 77 911 тг сомасына сатып алу, карта *2867. Қалдық: 74 086 тг.",0,safe,kk,bank_notice,kk-safe-bank_notice-0,,synthetic
+kk00503,Jusan: сіздің өтінішіңіз бойынша карта *5821 бұғатталды. Қосымшада нмеесе бөлімшеде ашуға болады.,0,safe,kk,bank_notice,kk-safe-bank_notice-2,typo,synthetic
+kk00504,"Сәлеметсіз бе! Береке қауіпсіздік қызметі: жеке кабинетіңізде жаңа құрылғыдан кіру тіркелді. Қаражатты қорғау үшін сайтқа кіріп, растаңыз: http://terrairon448281.test/zLGWFuRR0xLs",1,fraud,kk,bank_phish,kk-fraud-bank_phish-0,greet,synthetic
+kk00505,"Амансың ба, Жанар! Ертең 9:30-де жолығамыз ба? Мен кітапхана алдында боламын.",0,safe,kk,chat,kk-safe-chat-0,,synthetic
+kk00506,сізге 793 ₸ бонус қолжетімді. бонусты алыңыз 15.11.2026 дейін: http://cafecity.example/?session=xcygav8nqf&redirect=o1wnjhnjqd&user=bho5&cid=a7fpz1lz3,1,fraud,kk,bonus_refund,kk-fraud-bonus_refund-0,lower,synthetic
+kk00507,сіздің сәлемдемеңіз қоймада ұсталды. жеткізу бойынша қосымша төлемді 631 ₸ 01.12 дейін төлеңіз: https://iinstagram66.test/reset/zckzpky6ujo5vmfbjsey,1,fraud,kk,delivery_customs,kk-fraud-delivery_customs-0,lower,synthetic
+kk00508,сізге өтемақы тиесілі байланыс қызметі үшін. карта нөмірін көрсетіңіз 156 ₸ алу үшін: http://203.0.113.156/i6epqkdit1f,1,fraud,kk,bonus_refund,kk-fraud-bonus_refund-1,lower,synthetic
+kk00509,"Сәлеметсіз бе! Амансың ба, Айнұр! Ертең 14:00-де кездесейік? Кафе жанында күтемін. Құрметпен.",0,safe,kk,chat,kk-safe-chat-0,greet+close,synthetic
+kk00510,"Назар  аударыңыз: Қадірлі клиент, құпия сөзіңіздің мерзімі аяқталды. Мәліметтерді жаңартыңыз тез арада: https://paypal-bonus.example/update",1,fraud,kk,bank_phish,kk-fraud-bank_phish-1,greet+dblspace,synthetic
+kk00511,Әкімдік: қабылдау алдын ала жазылу бойынша. Толығырақ: https://egov-docs.example/request/20813,0,safe,kk,gov_edu,kk-safe-gov_edu-1,,synthetic
+kk00512,"Гүлнар, есеп келісуде. 19:15-де кездесу Zoom-да. Түзетулерді ертеңге дейін жіберіңіз.",0,safe,kk,work,kk-safe-work-0,,synthetic
+kk00513,"Гүлнар, туған күніңмен! Қонаққа кел.",0,safe,kk,family,kk-safe-family-1,,synthetic
+kk00514,Әкімдкі: 377 теңге берешек өтелді. Рахмет.,0,safe,kk,gov_edu,kk-safe-gov_edu-2,typo,synthetic
+kk00515,"Сәлем, Айгүл! Ертең 20:00-де жолығамыз ба? Кафе жанында күтемін.",0,safe,kk,chat,kk-safe-chat-0,,synthetic
+kk00516,Small: жеңілдік 30%-ға дейін дүкендерде 01.12 дейін. Бас тарту үшін СТОП деп жауап беріңіз Күніңіз жақсы өтсін!,0,safe,kk,ads,kk-safe-ads-0,close,synthetic
+kk00517,"Назар аударыңыз: Сәлем, Ерлан! Бүгін 21:45-де кездесеміз бе? Кафе жанында күтемін",0,safe,kk,chat,kk-safe-chat-0,nopunct+greet,synthetic
+kk00518,"Бір реттік код: 505832. Оны ешкімге айтпаңыз, тіпті ForteBank қызметкеріне де.",0,safe,kk,otp,kk-safe-otp-0,,synthetic
+kk00519,"әке, мен апатқа ұшырадым. тез 43 тг картаға аудар, кейін түсіндіремін.",1,fraud,kk,relative,kk-fraud-relative-0,lower,synthetic
+kk00520,"Әже, полициямен мәселе болды. Шұғыл 77 теңге осы нөмірге +7 778 000 56 49 аудар, кейін түсіндіремін",1,fraud,kk,relative,kk-fraud-relative-0,nopunct,synthetic
+kk00521,Курьер 03.12 сағат 10-нан 14-ке дейін жетеді. Курьер нөмірі: +7 785 000 63 71,0,safe,kk,delivery,kk-safe-delivery-1,,synthetic
+kk00522,"Қалайсың, Айнұр! Бүгін 13:00-де кездесейік? Жұмыстан кейін хабарласамын. 😊",0,safe,kk,chat,kk-safe-chat-0,emoji,synthetic
+kk00523,"Назар аударыңыз: сәлем, мынаны қарашы: https://cedar-metro2480.test/bqvvu4briaj Рахмет.",,suspicious,kk,unknown_link,kk-suspicious-unknown_link-0,lower+greet+close,synthetic
+kk00524,Сізге өтемақы тиесілі байланыс қызметі үшін. Карта нөмірін көрсетіңіз есептеу үшін: https://quartzfresh.example/docs/nova-swift.html,1,fraud,kk,bonus_refund,kk-fraud-bonus_refund-1,,synthetic
+kk00525,"Сізге Сбербанк қызметкері қоңырау шалады. Оған картаның артындағы үш таңбалы кодты айтыңыз, шотты қорғау үшін.",1,fraud,kk,cvv_code,kk-fraud-cvv_code-1,,synthetic
+kk00526,Jusan: сіздің өтінішіңіз бойынша карта *9626 уақытша бұғатталды. Қосымшада немесе бөлімшеде ашуға болады.,0,safe,kk,bank_notice,kk-safe-bank_notice-2,,synthetic
+kk00527,"Қолдау қызметі: телефоныңыздан вирус анықтадық. 8 741 000 84 66 нөміріне қоңырау шалыңыз, құрылғыны өшірмеңіз. Құрметпен.",1,fraud,kk,tech_support,kk-fraud-tech_support-1,close,synthetic
+kk00528,инвестиция: табыс аптасына 30%-дан! қауіпсіз. чатқа қосыл @promo_team.,1,fraud,kk,investment,kk-fraud-investment-0,lower,synthetic
+kk00529,Еске саламыз: 01.12 асғат 16:15-де кездесу. Мекенжайы: Дүкен.,0,safe,kk,reminder,kk-safe-reminder-0,typo,synthetic
+kk00530,"Сәлеметсіз бе! Мектеп №76811773: емтихан 03.12 күніне, 18:45-ге белгіленді.",0,safe,kk,gov_edu,kk-safe-gov_edu-0,greet,synthetic
+kk00531,Нөміріңіз таңдалды! Сыйлықты алу үішн комиссия 931 тг төлеңіз,1,fraud,kk,prize,kk-fraud-prize-1,nopunct+typo,synthetic
+kk00532,Биржада сауда: пайда аптасына 30%-дан! Қауіпсіз. Чатқа кіріңіз @support.24. Күніңіз жақсы өтсін! срочно 😊,1,fraud,kk,investment,kk-fraud-investment-0,close+mix+emoji,synthetic
+kk00533,236814 — Дәріхана 72 656 етңге төлемін растау коды. 5 минут жарамды.,0,safe,kk,otp,kk-safe-otp-1,typo,synthetic
+kk00534,"хабарлама: сіздің атыңызда 12 327 тг қарыз тіркелген коммуналдық қызмет бойынша. бүгін өтеңіз, әйтпесе сотқа беріледі: https://tellegram.invalid//login",1,fraud,kk,debt,kk-fraud-debt-0,lower,synthetic
+kk00535,ForteBank: сіздің өтінішіңіз бойынша карта *2883 уақытша бұғатталды. Қосымшада немесе бөлімшеде ашуға болады.,0,safe,kk,bank_notice,kk-safe-bank_notice-2,,synthetic
+kk00536,Әкімдік: 21 208 тг айыппұл өтелді. Рахмет.,0,safe,kk,gov_edu,kk-safe-gov_edu-2,,synthetic
+kk00537,Кодыңыз: 435476. Оны Small сайтына енгізіңіз. Күніңіз жақсы өтсін!,,suspicious,kk,otp_nowarn,kk-suspicious-otp_nowarn-0,close,synthetic
+kk00538,Small: жаңа коллекция дүкендерде 20.11 дейін. Толығырақ: https://secure.instagram.test/account/login,0,safe,kk,ads,kk-safe-ads-0,,synthetic
+kk00539,Сбербанк: карта *9781-ға 79 ₸ аударылды.,0,safe,kk,bank_notice,kk-safe-bank_notice-1,,synthetic
+kk00540,Halyk қауіпсіздік қызметі: жеке кабинетіңізде күдікті әрекет анықталды. Қаражатты қорғау үшін сілтеме бойынша кіріңіз: http://altyn-summit6699.example/tsntWkin Күніңіз жақсы өтсін!,1,fraud,kk,bank_phish,kk-fraud-bank_phish-0,close,synthetic
+kk00541,"Сәлем, Дәулет! Бүгін 17:15-де кездесейік? Мен кітапхана алдында боламын.",0,safe,kk,chat,kk-safe-chat-0,,synthetic
+kk00542,Картаңыз бұғатталады. Жедел түрде картаны ашыңыз сайтта: http://www.caferiver69.example,1,fraud,kk,card_block,kk-fraud-card_block-0,,synthetic
+kk00543,Сәлеметсіз бе! Салық комитеті: 871 ₸ айыппұл өтелді. Рахмет. ✅,0,safe,kk,gov_edu,kk-safe-gov_edu-2,greet+emoji,synthetic
+kk00544,Сізге қатысты алаяқтық бойынша өтініш түсті. Дереу 8 791 000 43 82 нөміріне қоңырау шалыңыз. Әңгіме құпия.,1,fraud,kk,fear_secrecy,kk-fraud-fear_secrecy-1,,synthetic
+kk00545,"Kaspi: Пекарня дүкенінде 822 ₸ төлем жасалды, карта *9267. Қолжетімді осма: 975 тг.",0,safe,kk,bank_notice,kk-safe-bank_notice-0,typo,synthetic
+kk00546,ХҚКО: құжаттарыңыз дайын. Өтінім нөмірі 97761583. Күніңіз жақсы өтсін!,0,safe,kk,gov_edu,kk-safe-gov_edu-1,close,synthetic
+kk00547,Жаңа құрылғыдан кіру анықталды. Бұл сіз болмасаңыз логин мен құпия сөзді енгізіңіз: http://fedex.gift-altyn.example/login?continue=/home,1,fraud,kk,account_pwd,kk-fraud-account_pwd-1,,synthetic
+kk00548,Нөміріңіз таңдалды! Ұтысты алу үшін http://halyk-bonus.example/p/SS8hP92E сілтемесіне өтіңіз.,1,fraud,kk,prize,kk-fraud-prize-1,,synthetic
+kk00549,Jusan: сіздің өтінішіңіз бойынша карта *5056 уақытша бұғатталды. Қосымшада немесе бөлімшеде ашуға болады.,0,safe,kk,bank_notice,kk-safe-bank_notice-2,,synthetic
+kk00550,"Қайырлы күн. Қайырлы күн! Резюмеңізді көрдік. Төлем ауысымына 71 713 ₸, тәжірибесіз. Оқыту тегін. WhatsApp-қа 8 705 000 50 36 жазыңыз. пожалуйста 💳",1,fraud,kk,fake_job,kk-fraud-fake_job-0,greet+mix+emoji,synthetic
+kk00551,Сәлем! ForteBank: сіздің өтінішіңіз бойынша карта *8807 бұғатталды.,0,safe,kk,bank_notice,kk-safe-bank_notice-2,greet,synthetic
+kk00552,"Мектеп №33401270: жиналыс 15.11.2026 күніне, 10:30-ге ауыстырылды.",0,safe,kk,gov_edu,kk-safe-gov_edu-0,,synthetic
+kk00553,№44620506 сәлемдемені жеткізу мүмкін болмады. Мекенжайды нақтылаңыз және сақтау ақысын 782 ₸ төлеңіз: https://jusan.refund-sun.example/track/38005,1,fraud,kk,delivery_customs,kk-fraud-delivery_customs-1,,synthetic
+kk00554,"Университет: емтихан 03.12 күніне, 12:15-ге белгіленді. Аудитория 93179304.",0,safe,kk,gov_edu,kk-safe-gov_edu-0,,synthetic
+kk00555,техникалық қолдау small: құрылғыңызға вирус түсті. қашықтан көмек бағдарламасын орнатыңыз: https://short.invalid/kddpg87,1,fraud,kk,tech_support,kk-fraud-tech_support-0,lower+nopunct,synthetic
+kk00556,"Университет: сабақ 12.11 күніне, 17:00-ге ауыстырылды. Аудитория 69650094.",0,safe,kk,gov_edu,kk-safe-gov_edu-0,,synthetic
+kk00557,"Қолдау қызметі: компьютеріңіз зақымданған. 8 780 000 86 87 нөміріне қоңырау шалыңыз, құрылғыны өшірмеңіз.",1,fraud,kk,tech_support,kk-fraud-tech_support-1,,synthetic
+kk00558,ӘКМЕ: ТУҒАН КҮНДІ ҰМЫТПА. СЕНІ САҒЫНДЫҚ. ҚҰРМЕТПЕН.,0,safe,kk,family,kk-safe-family-0,typo+close+upper,synthetic
+kk00559,"Баықт, туған күніңмен! Қонаққа кел.",0,safe,kk,family,kk-safe-family-1,typo,synthetic
+kk00560,"Төлеген, үйге келгенде қоңырау шал. Кешкі асқа үлгер.",0,safe,kk,chat,kk-safe-chat-1,,synthetic
+kk00561,Kaspi: *7086 картасына қолжетімділік шектелді. Шектеуді алу үшін тексеруден өтіңіз: https://auth-cafe-nomad.test/p/YiYH6vEPKZ9,1,fraud,kk,card_block,kk-fraud-card_block-1,,synthetic
+kk00562,"Мектеп №12258818: сабақ 12.11 күніне, 13:00-ге белгіленді. Аудитория 1500265. Құрметпен.",0,safe,kk,gov_edu,kk-safe-gov_edu-0,close,synthetic
+kk00563,"Сәлем, мен Айнұр, телефоным бұзылды. 62 ₸ аударып жіберші, кейін қайтарамын. ❗",1,fraud,kk,relative,kk-fraud-relative-1,emoji,synthetic
+kk00564,"Бақыт, бос болғанда хабарла. Дүкеннен сүт алып кел.",0,safe,kk,chat,kk-safe-chat-1,,synthetic
+kk00565,Дәріхана: сатылым дүкендерде 12.11 дейін. Толығырақ: http://cedar-terra.example:8080/docs/grand-forest-steppe-atlas.html,0,safe,kk,ads,kk-safe-ads-0,,synthetic
+kk00566,курьер 20.11 сағат 10-нан 14-ке дейін жетеді. курьер нөмірі: +7 753 000 92 59,0,safe,kk,delivery,kk-safe-delivery-1,lower,synthetic
+kk00567,Сіздің №37009615 тапсырысыңыз жөнелтілді. Күтілетін күні: 01.12. Бақылау: https://www.learnatlas68.example/docs/market-lumen.html,0,safe,kk,delivery,kk-safe-delivery-0,,synthetic
+kk00568,қолдау қызметі small: аккаунтыңыз бұзылды. қорғаныс қосымшасын орнатыңыз: https://google-bank.invalid/secure/update?id=1oxgmneiewf,1,fraud,kk,tech_support,kk-fraud-tech_support-0,lower,synthetic
+kk00569,Әкімдік: 479 тг берешек төленді. Рахмет.,0,safe,kk,gov_edu,kk-safe-gov_edu-2,,synthetic
+kk00570,"Қайырлы күн! Мен Sulpak бухгалтериясынан Ерлан. Байқаусызда 11 тг аударылып кетті, *5856 картасына қайтарыңызшы.",1,fraud,kk,money_transfer,kk-fraud-money_transfer-0,,synthetic
+kk00571,Жаңа құрылғыдан кіру анықталды. Қорғау үшін құпия сөзді ауыстырыңыз: http://lnk.example/uiyoXy Жауап қажет емес.,1,fraud,kk,account_pwd,kk-fraud-account_pwd-1,close,synthetic
+kk00572,Дәріхана-дан чек. Жалпы сома 66 378 ₸. Электрондық ечк: https://secure.instagram.test/blog/learn-lumen-sun,0,safe,kk,purchase,kk-safe-purchase-0,typo,synthetic
+kk00573,әжем: кешкі асты ұмытпа. сені сағындық. Күніңіз жақсы өтсін!,0,safe,kk,family,kk-safe-family-0,lower+close,synthetic
+kk00574,"Қайырлы күн! Сізге Жанар жазып тұр. Байқаусызда 903 ₸ жібердік, *2171 картасына қайтарыңызшы. Күніңіз жақсы өтсін!",1,fraud,kk,money_transfer,kk-fraud-money_transfer-0,close,synthetic
+kk00575,Анам: туған күнді ұмытпа. Аман бол!,0,safe,kk,family,kk-safe-family-0,,synthetic
+kk00576,Әкімдік: құжаттарыңыз дайын. Толығырақ: https://egov-docs.example/cabinet/45990 пожалуйста,0,safe,kk,gov_edu,kk-safe-gov_edu-1,mix,synthetic
+kk00577,салық шегерімі мақұлданды. картаға түсу үшін сауалнаманы толтырыңыз: https://facebook.login-forest.invalid/secure/update?id=81cf4p9nxoz,1,fraud,kk,gov_payment,kk-fraud-gov_payment-1,lower,synthetic
+kk00578,Жедел несие бас тартусыз 5 минутта. Толығырақ: https://www.cloud-metro.example/travel-tau-green/pixel-books/vista-silk/alpha-green/forest-grand-tau?id=38856&lang=kk&utm_campaign=urban-pixel-lumen,,suspicious,kk,loan_ad,kk-suspicious-loan_ad-0,,synthetic
+kk00579,magnum-дан чек. сомасы 949 ₸. электрондық чек: https://www.orbit.invalid/craft-media-pixel/forest-amber-green/books-pixel-river-iron/pearl-cafe-aqua/forest-garden-pixel/bright-travel-studio?id=68485&lang=en&utm_campaign=pixel-city-silk-media,0,safe,kk,purchase,kk-safe-purchase-0,lower,synthetic
+kk00580,"Мөлдір, мерекең құтты болсын! Қонаққа кел.",0,safe,kk,family,kk-safe-family-1,,synthetic
+kk00581,Құттықтаймыз! Сіз Small ұтыс ойынында 62 567 ₸ жеңіп алдыңыз. Жүлдені алыңыз: http://royalcopper633273.example/UbG3Q6,1,fraud,kk,prize,kk-fraud-prize-0,,synthetic
+kk00582,"ШАҚЫРУ ҚАҒАЗЫ: СІЗДЕ 630 ТЕҢГЕ БЕРЕШЕК БАР САЛЫҚ БОЙЫНША. 15.11.2026 ДЕЙІН ТӨЛЕҢІЗ, ӘЙТПЕСЕ ІС СОТ ОРЫНДАУШЫЛАРЫНА ЖОЛДАНАДЫ: HTTP://XN--L7CHVPPA9ROYMM.INVALID/CLAIM/8608",1,fraud,kk,debt,kk-fraud-debt-0,lower+upper,synthetic
+kk00583,Small тіркелгіңіз бүгін жойылады. Кіруді қалпына келтіріңіз сілтеме бойынша: https://apple.bonus-summit.example/amber-garden-craft,1,fraud,kk,account_pwd,kk-fraud-account_pwd-0,,synthetic
+kk00584,Сізге 73 ₸ кэшбэк есептелді. Оны белсендіріңіз 01.12 дейін: https://freshamber.test/?id=7fUGD&ref=mZHil&session=Yqtx&user=97rWW8hx&token=CQR1a9XB,1,fraud,kk,bonus_refund,kk-fraud-bonus_refund-0,,synthetic
+kk00585,Кодыңыз: 848287. Оны Sulpak сайтына енгізіңіз.,,suspicious,kk,otp_nowarn,kk-suspicious-otp_nowarn-0,,synthetic
+kk00586,"Айнұр, туған күніңмен! Қонаққа кел.",0,safe,kk,family,kk-safe-family-1,,synthetic
+kk00587,"Ерлан, туған күніңмен! Қноаққа кел. ok",0,safe,kk,family,kk-safe-family-1,typo+mix,synthetic
+kk00588,Мемлекеттік салықты қайтару 842 теңге сізге тиесілі. Қаражатты рәсімдеңіз 3 күн ішінде: http://payment.learn.paypal.cloudbooks.test/account/confirm,1,fraud,kk,gov_payment,kk-fraud-gov_payment-0,,synthetic
+kk00589,"Сәлем, мен Айнұр, телефоным бұзылды. 26 ₸ аударып жіберші, кейін қайтарамын.",1,fraud,kk,relative,kk-fraud-relative-1,,synthetic
+kk00590,Береке: карта *4994-ға 30 803 тг түсті.,0,safe,kk,bank_notice,kk-safe-bank_notice-1,,synthetic
+kk00591,әкем: туған күнді есіңде болсын. аман бол!,0,safe,kk,family,kk-safe-family-0,lower,synthetic
+kk00592,Жедел несие 154 ₸ дейін картаға. Рәсімдеу: https://shrt.test/92146 Күніңіз жақсы өтсін!,,suspicious,kk,loan_ad,kk-suspicious-loan_ad-0,nopunct+close,synthetic
+kk00593,"Бақыт,  бос болғанда хабарла. Нан алып келе ме?",0,safe,kk,chat,kk-safe-chat-1,dblspace,synthetic
+kk00594,Сізден алаяқтық бойынша өтініш түсті. Дереу 8 702 000 86 45 нөміріне қоңырау шалыңыз. Әңгіме құпия.,1,fraud,kk,fear_secrecy,kk-fraud-fear_secrecy-1,,synthetic
+kk00595,СІЗДІҢ №35235572 ТАПСЫРЫСЫҢЫЗ БЕРУ ПУНКТІНЕ КЕЛДІ. ЖЕТКІЗУ КҮНІ: 15.11.2026. БАҚЫЛАУ: HTTPS://WWW.LEARN-SILK.EXAMPLE/HARBOR-FILM/ROYAL-CRAFT/STONE-IRON-GRAND-PEARL/NOMAD-FOREST-ATLAS/TECH-PRIME-TAU-MARKET?ID=10755&LANG=EN&UTM_CAMPAIGN=METRO-ALPHA-BRIGHT,0,safe,kk,delivery,kk-safe-delivery-0,upper,synthetic
+kk00596,Қаржы министрлігінің әлеуметтік төлем 15 826 ₸ сізге мақұлданды. Қаражатты рәсімдеңіз 01.12 дейін: https://fed3x.example/index.php?id=25539,1,fraud,kk,gov_payment,kk-fraud-gov_payment-0,nopunct,synthetic
+kk00597,"Сәлеметсіз бе! Операторлар қабылданады онлайн: лайк, табыс 21 177 теңге. Жаз @pro.team",1,fraud,kk,fake_job,kk-fraud-fake_job-1,nopunct+greet,synthetic
+kk00598,"Сбербанк: Базар кафесінде 65 ₸ сомасына сатып алу, карта *6357. Қалдық: 32 тг.",0,safe,kk,bank_notice,kk-safe-bank_notice-0,,synthetic
+kk00599,"Амансың ба, Жанар! Ертең 14:30-де кездесеміз бе? Мен кітапхана алдында боламын.",0,safe,kk,chat,kk-safe-chat-0,,synthetic
+kk00600,"Қайырлы күн. Декана:т емтихан 15.11.2026 күніне, 12:00-ге ауыстырылды.",0,safe,kk,gov_edu,kk-safe-gov_edu-0,typo+greet,synthetic
+kk00601,"Қайырлы күн. сәлеметсіз бе! мен kaspi-магазин бухгалтериясынан айнұр. байқаусызда 41 ₸ аударылып кетті, *2916 картасына қайтарыңызшы.",1,fraud,kk,money_transfer,kk-fraud-money_transfer-0,lower+greet,synthetic
+kk00602,"Назар аударыңыз: Jusan: Дүкен дүкенінде 28 029 ₸ төлем жасалды, карта *2685. Қалдық: 27 теңге. Жауап қажет емес.",0,safe,kk,bank_notice,kk-safe-bank_notice-0,greet+close,synthetic
+kk00603,"Әже, полициямен мәселе болды. Шұғыл 9 тг осы нөмірге 8 740 000 44 72 аудар, телефоным сынды, бөтен нөмірден жазып тұрмын. Құрметпен.",1,fraud,kk,relative,kk-fraud-relative-0,close,synthetic
+kk00604,"Сәлеметсіз бе! Амансың ба, Айгүл! Бүгін 8:00-де жолығамыз ба? Кафе жанында күтемін",0,safe,kk,chat,kk-safe-chat-0,nopunct+greet,synthetic
+kk00605,Кодыңыз:  647418. Оны Small сайтына енгізіңіз. 💳,,suspicious,kk,otp_nowarn,kk-suspicious-otp_nowarn-0,emoji+dblspace,synthetic
+kk00606,Сіз бақытты иегерсіз! Сіз Technodom ұтыс ойынында 73 037 ₸ жеңіп алдыңыз. Ұтысты алу үшін өтіңіз: https://tiny-link.test/nw7JN3,1,fraud,kk,prize,kk-fraud-prize-0,,synthetic
+kk00607,Маңызды:  клиент 7:00-ге дейін жауап күтеді. Қатысуыңызды растаңыз. ❗,0,safe,kk,work,kk-safe-work-1,emoji+dblspace,synthetic
+kk00608,Назар аударыңыз: Салық комитеті: 38 751 теңге берешек өтелді. Рахмет.,0,safe,kk,gov_edu,kk-safe-gov_edu-2,greet,synthetic
+kk00609,"мектеп №70881444: сабақ 01.12 күніне, 22:45-ге белгіленді.",0,safe,kk,gov_edu,kk-safe-gov_edu-0,lower,synthetic
+kk00610,"Асхат, бос болғанда хабарла. Дүкеннен сүт алып кел. срочно",0,safe,kk,chat,kk-safe-chat-1,mix,synthetic
+kk00611,"Растау коды: 856763. Кодты ешкімге бермеңіз, банк қызметкерлеріне де.",0,safe,kk,otp,kk-safe-otp-0,,synthetic
+kk00612,Әкімдік: 813 теңге берешек төленді. Рахмет. Күніңіз жақсы өтсін!,0,safe,kk,gov_edu,kk-safe-gov_edu-2,close,synthetic
+kk00613,"Сәлем!  Назар аударыңыз. Деректеріңіз жеілге түсті. Ешкімге айтпаңыз, салдарынан аулақ болу үшін 21 178 тг аударыңыз. Рахмет.",1,fraud,kk,fear_secrecy,kk-fraud-fear_secrecy-0,typo+greet+close+dblspace,synthetic
+kk00614,кодыңыз: 104376. оны small сайтына енгізіңіз.,,suspicious,kk,otp_nowarn,kk-suspicious-otp_nowarn-0,lower,synthetic
+kk00615,әкімдік: 58 689 ₸ берешек өтелді. рахмет.,0,safe,kk,gov_edu,kk-safe-gov_edu-2,lower,synthetic
+kk00616,Шұғыл: жиналыс 11:00-ге ауыстырылды.,0,safe,kk,work,kk-safe-work-1,,synthetic
+kk00617,"мөлдір, туған күніңмен! қонаққа кел.",0,safe,kk,family,kk-safe-family-1,lower,synthetic
+kk00618,Жедел несие бас тартусыз картаға. Рәсімдеу: https://my.kaspi.example/,,suspicious,kk,loan_ad,kk-suspicious-loan_ad-0,,synthetic
+kk00619,Сізге өтемақы тиесілі сатып алу үшін. Крата нөмірін көрсетіңіз есептеу үшін: http://copper.example/,1,fraud,kk,bonus_refund,kk-fraud-bonus_refund-1,typo,synthetic
+kk00620,"Асхат, есеп дйаын. 15:00-де онлайн-кездесу Zoom-да. Түзетулерді ертеңге дейін жіберіңіз. 🙏",0,safe,kk,work,kk-safe-work-0,typo+emoji,synthetic
+kk00621,Сізге қатысты заң бұзу бойынша өтініш түсті. Келу міндетті. Әңгіме құпия.,1,fraud,kk,fear_secrecy,kk-fraud-fear_secrecy-1,,synthetic
+kk00622,№95529980 сәлемдемені курьер жеткізе алмады. Жеткізу мекенжайын жаңартыңыз: http://www.silk-iron.example/support/verify-email,1,fraud,kk,delivery_customs,kk-fraud-delivery_customs-1,,synthetic
+kk00623,Small тіркелгіңіз бүгін бұғатталады. Кіруді қалпына келтіріңіз сілтеме бойынша: http://sberbank-bank.invalid/account/confirm,1,fraud,kk,account_pwd,kk-fraud-account_pwd-0,nopunct,synthetic
+kk00624,Сізге жәрдемақы есептелді. Ақшаны алу үшін сауалнаманы толтырыңыз: http://198.51.100.252/index.php?id=7400,1,fraud,kk,gov_payment,kk-fraud-gov_payment-1,,synthetic
+kk00625,"Қайырлы күн. Мен сенің ұлыңмын, нөмірімді ауыстырдым. 23 284 ₸ аударып жіберші, кейін қайтарамын. 🙏",1,fraud,kk,relative,kk-fraud-relative-1,greet+emoji,synthetic
+kk00626,"сіздің кодыңыз: 228994. кодты ешкімге бермеңіз, тіпті fortebank қызметкеріне де. ok",0,safe,kk,otp,kk-safe-otp-0,lower+mix,synthetic
+kk00627,Қаржы министрлігінің салықты қайтару 93 173 ₸ сізге тиесілі. Төлемді алыңыз 12.11 дейін: https://confirm-stonesteppe44.test/s/8Pqdmp2cxR6Ee2t,1,fraud,kk,gov_payment,kk-fraud-gov_payment-0,,synthetic
+kk00628,"Жанар, мерекең құтты болсын! Қонаққа кел",0,safe,kk,family,kk-safe-family-1,nopunct,synthetic
+kk00629,"Қайырлы күн. Хабарлама: сіздің атыңызда 65 ₸ қарыз тіркелген коммуналдық қызмет бойынша. Бүгін төлеңіз, әйтпесе сотқа беріледі: http://health-swift.example/login?continue=/home срочно",1,fraud,kk,debt,kk-fraud-debt-0,greet+mix,synthetic
+kk00630,"Маман: телефоныңыздан вирус анықтадық. +7 704 000 25 52 нөміріне қоңырау шалыңыз, біз көмектесеміз",1,fraud,kk,tech_support,kk-fraud-tech_support-1,nopunct,synthetic
+kk00631,Jusan: *8072 картасына қолжетімділік шектелді. Шектеуді алу үшін сілтемеге өтіңіз: https://learnstone866475.example/mFHJiwrVHdlYep,1,fraud,kk,card_block,kk-fraud-card_block-1,,synthetic
+kk00632,Дәріхана тіркелгіңіз 24 сағаттан кейін жойылады. Құпия сөзді растаңыз сілтеме бойынша: http://support-lumen-quartz.example/docs/river-lumen-fresh-city.html,1,fraud,kk,account_pwd,kk-fraud-account_pwd-0,,synthetic
+kk00633,"Сәлем, Дәулет! Ертең 10:30-де жолығамыз ба? Жұмыстан кейін хабарласаымн. пожалуйста",0,safe,kk,chat,kk-safe-chat-0,typo+mix,synthetic
+kk00634,"Назар аударыңыз. Деректеріңіз белгілі болды. Полицияға жүгінбеңіз, әйтпесе 39 тг аударыңыз. Күніңіз жақсы өтсін!",1,fraud,kk,fear_secrecy,kk-fraud-fear_secrecy-0,close,synthetic
+kk00635,Сізге 193 ₸ бонус есептелді. Оны белсендіріңіз апта соңына дейін: http://swiftcraft44.example/?session=PXYjX&cid=hOaLpI8D&ref=k6ITYiSX,1,fraud,kk,bonus_refund,kk-fraud-bonus_refund-0,nopunct,synthetic
+kk00636,Жедел несие 89 700 теңге дейін картаға. Рәсімдеу: https://shrt.test/40666,,suspicious,kk,loan_ad,kk-suspicious-loan_ad-0,,synthetic
+kk00637,Сәлем! Курьер 03.12 кешкі 18:00-ден кейін жетеді. Курьер нөмірі: 8 734 000 53 78,0,safe,kk,delivery,kk-safe-delivery-1,greet,synthetic
+kk00638,"Құрметті клиент, құпия сөзіңіздің мерзімі аяқталды. Мәліметтерді жаңартыңыз 24 сағат ішінде: http://[2001:db8::dcc5]/p/9UACYe0DW",1,fraud,kk,bank_phish,kk-fraud-bank_phish-1,,synthetic
+kk00639,№29747340 СӘЛЕМДЕМЕНІ КУРЬЕР ЖЕТКІЗЕ АЛМАДЫ. ЖЕТКІЗУ МЕКЕНЖАЙЫН ЖАҢАРТЫҢЫЗ: HTTPS://GOOGLE.PAYMENT-TAU.TEST/NOVA-URBAN,1,fraud,kk,delivery_customs,kk-fraud-delivery_customs-1,upper,synthetic
+kk00640,Сәлем! Сіздің №7998291 тапсырысыңыз беру пунктіне келді. Күтілетін күні: 20.11. Бақылау: https://www.grandlotus50.example/catalog/vista/market?page=22&sort=price,0,safe,kk,delivery,kk-safe-delivery-0,typo+greet,synthetic
+kk00641,"Нұрлан, шарт келісуде. 13:15-де онлайн-кездесу Zoom-да.",0,safe,kk,work,kk-safe-work-0,,synthetic
+kk00642,"Төлеген, шарт дайын. 13:00-де онлайн-кездесу Zoom-да. Түзетулерді ертеңге дейін жіберіңзі. Жауап қажет емес.",0,safe,kk,work,kk-safe-work-0,typo+close,synthetic
+kk00643,Small: жеңілдік 30%-ға дейін қосымшада 03.12 дейін. Толығырақ: https://www.river-lumen.test/payment/receipt?id=72975,0,safe,kk,ads,kk-safe-ads-0,,synthetic
+kk00644,ХҚКО: құжаттарыңыз дайын. Өтінім нөмірі 82667700. 💳,0,safe,kk,gov_edu,kk-safe-gov_edu-1,emoji,synthetic
+kk00645,"Jusan: Кофеханасы дүкенінде 51 035 теңге сомасына сатып алу, карта *9339. Қалдық: 356 тг",0,safe,kk,bank_notice,kk-safe-bank_notice-0,nopunct,synthetic
+kk00646,"Сәлем! Сізге Halyk маманы қоңырау шалды. Оған картаның артындағы үш таңбалы кодты жіберіңіз, деректерді салыстыру үшін",1,fraud,kk,cvv_code,kk-fraud-cvv_code-1,nopunct+greet,synthetic
+kk00647,Маңызды: клиент 19:30-ге дейін жауап күтеді.,0,safe,kk,work,kk-safe-work-1,,synthetic
+kk00648,Салық комитеті: өтінішіңіз қабылданды. Толығырақ: https://egov-status.example/cabinet/69758,0,safe,kk,gov_edu,kk-safe-gov_edu-1,nopunct,synthetic
+kk00649,"Бақыт, туған күніңмен! Қонаққа кел. Құрметпен.",0,safe,kk,family,kk-safe-family-1,close,synthetic
+kk00650,"Әже, полициямен мәселе болды. Тез 97 104 ₸ осы нөмірге 8 752 000 20 71 аудар, телефоным сынды, бөтен нөмірден жазып тұрмын.",1,fraud,kk,relative,kk-fraud-relative-0,,synthetic
+kk00651,Halyk: сіздің өтінішіңіз бойынша карта *2501 уақытша бұғатталды. Қосымшада немесе бөлімшеде ашуға болады. Рахмет.,0,safe,kk,bank_notice,kk-safe-bank_notice-2,close,synthetic
+kk00652,Small-дан сатып алғаныңыз үшін рахмет. Жалпы сома 47 ₸.,0,safe,kk,purchase,kk-safe-purchase-0,,synthetic
+kk00653,Еске саламыз: 01.12 сағат 20:15-де дәрігер қабылдауы. Мекенжайы: Magnu.m,0,safe,kk,reminder,kk-safe-reminder-0,typo,synthetic
+kk00654,Kaspi: профиліңізде жаңа құрылғыдан кіру тіркелді. Қаражатты қорғау үшін сілтеме бойынша кіріңіз: http://192.0.2.247/auth/signin?redirect=%2Fhome,1,fraud,kk,bank_phish,kk-fraud-bank_phish-0,,synthetic
+kk00655,"Назар аударыңыз: Жанар, презентация дайын. 15:00-де кездесу кеңседе. Түзетулерді ертеңге дейін жіберіңіз.",0,safe,kk,work,kk-safe-work-0,greet,synthetic
+kk00656,Кодыңыз: 992719. Оны Kaspi-Магазин сайтына енгізіңіз.,,suspicious,kk,otp_nowarn,kk-suspicious-otp_nowarn-0,,synthetic
+kk00657,Әкімдік: 21 824 ₸ берешек төленді. Рахмет,0,safe,kk,gov_edu,kk-safe-gov_edu-2,nopunct,synthetic
+kk00658,Жедел несие 70 тг дйеін 5 минутта. Толығырақ: https://shrt.test/54718 ok,,suspicious,kk,loan_ad,kk-suspicious-loan_ad-0,typo+mix,synthetic
+kk00659,Қайырлы күн. №45385442 сәлемдемені курьер жеткізе алмады. жеткізу мекенжайын жаңартыңыз және сақтау ақысын 820 тг төлеңіз: https://wallet.summit.apple.copperlearn.example/p/wcdtvagbrgbey,1,fraud,kk,delivery_customs,kk-fraud-delivery_customs-1,lower+greet,synthetic
+kk00660,Сізге 822 тг кэшбэк есептелді. Бонусты алыңыз 15.11.2026 дейін: http://jmp.test/0QzeFVnY,1,fraud,kk,bonus_refund,kk-fraud-bonus_refund-0,,synthetic
+kk00661,"Асхат,  бос болғанда қоңырау шал. Кешкі асқа үлгер. Жауап қажет емес.",0,safe,kk,chat,kk-safe-chat-1,close+dblspace,synthetic
+kk00662,Сіздің сәлемдемеңіз қоймада ұсталды. Кеден алымын 58 253 ₸ 03.12 дейін төлеңіз: http://bright-royal.example:8081/p/ZNF0xjL3f23ok,1,fraud,kk,delivery_customs,kk-fraud-delivery_customs-0,,synthetic
+kk00663,Береке: *2714 картасына қолжетімділік шектелді. Шектеуді алу үшін тексеруден өтіңіз: http://amazon-payment.invalid/pay/38863 Жауап қажет емес. срочно,1,fraud,kk,card_block,kk-fraud-card_block-1,close+mix,synthetic
+kk00664,"растау коды: 401704. оны ешкімге айтпаңыз, банк қызметкерлеріне де.",0,safe,kk,otp,kk-safe-otp-0,lower,synthetic
+kk00665,"Назар аударыңыз: Таныс брокерім бір схема көрсетті: 594 теңге салып, бір аптада үш есе алдым. Жаз? @invest.online",1,fraud,kk,investment,kk-fraud-investment-1,greet,synthetic
+kk00666,Маңызды: жиналыс 20:15-ге ауыстырылды.,0,safe,kk,work,kk-safe-work-1,,synthetic
+kk00667,Сәлем! жедел несие 64 тг дейін картаға. рәсімдеу: https://xn--ncgrfm6uxyvy.invalid Жауап қажет емес.,,suspicious,kk,loan_ad,kk-suspicious-loan_ad-0,lower+greet+close,synthetic
+kk00668,"Береке қауіпсіздік қызметі: жеке кабинетіңізде жаңа құрылғыдан кріу тіркелді. Қаражатты қорғау үшін сайтқа кіріп, растаңыз: https://quartzbright.test/?ref=rajWgTW&user=Q4IVkzSwjw&id=pjv46bzcp5&cid=25OGKtnwiu",1,fraud,kk,bank_phish,kk-fraud-bank_phish-0,typo,synthetic
+kk00669,"Береке: карта *9804-ға 83 885 теңге түсті. Егер бұл сіз болмасаңыз, картаның артындағы нөмірге қоңырау шалыңыз",0,safe,kk,bank_notice,kk-safe-bank_notice-1,nopunct,synthetic
+kk00670,Береке: карта *6523ғ-а 84 669 теңге аударылды.,0,safe,kk,bank_notice,kk-safe-bank_notice-1,typo,synthetic
+kk00671,Technodom-дан сатып алғаныңыз үшін рахмет. Жалпы сома 27 теңге. срочно,0,safe,kk,purchase,kk-safe-purchase-0,mix,synthetic
+kk00672,Magnum: сатылым дүкендерде 20.11 дейін. Бас тарту үшін СТОП деп жауап беріңіз 🙏,0,safe,kk,ads,kk-safe-ads-0,emoji,synthetic
+kk00673,"БАҚЫТ, ПРЕЗЕНТАЦИЯ КЕЛІСУДЕ. 13:00-ДЕ КЕЗЕДСУ ZOOM-ДА.",0,safe,kk,work,kk-safe-work-0,typo+upper,synthetic
+kk00674,"Соңғы ескерту. Деректеріңіз желіге түсті. Ешкімге айтпаңыз, салдарынан аулақ болу үшін @invest.kz жазыңыз.",1,fraud,kk,fear_secrecy,kk-fraud-fear_secrecy-0,,synthetic
+kk00675,Jusan: жеке кабинетіңізде жаңа құрылғыдан кіру тіркелді. Қаражатты қорғау үшін сілтеме бойынша кіріңіз: http://binanae-gift.example/pay/88080,1,fraud,kk,bank_phish,kk-fraud-bank_phish-0,,synthetic
+kk00676,Салық шегерімі мақұлданды. Картаға түсу үшін карта деректерін көрсетіңіз: http://marketlearn82-login.example/3HjqxHm/M4P6Joq/WD8PKav/sflJJCi2/KrZIr63LgblT/V4zy00Hp?id=YTMrXSrt6rKJqxn04Duk0OlYZ,1,fraud,kk,gov_payment,kk-fraud-gov_payment-1,,synthetic
+kk00677,Биржада сауда: пайда күніне 94 ₸-ге дейін! Қауіпсіз. Telegram-ға қосыл @jobteam.,1,fraud,kk,investment,kk-fraud-investment-0,,synthetic
+kk00678,"қайырлы күн! мен дәріхана бухгалтериясынан салтанат. байқаусызда 851 ₸ жібердік, +7 764 000 42 87 нөміріне қайтарып жіберіңізші.",1,fraud,kk,money_transfer,kk-fraud-money_transfer-0,lower,synthetic
+kk00679,Әкімдік: қабыдлау алдын ала жазылу бойынша. Өтінім нөмірі 36320194.,0,safe,kk,gov_edu,kk-safe-gov_edu-1,typo,synthetic
+kk00680,"Операторлар керек үйден: пікір, төлем бірден. Жаз @promo.team",1,fraud,kk,fake_job,kk-fraud-fake_job-1,,synthetic
+kk00681,№59225618 сәлемдемені жеткізу мүмкін болмады. Жеткізу мекенжайын жаңартыңыз және сақтау ақысын 9 188 ₸ төлеңіз: https://go-link.test/tmRNy,1,fraud,kk,delivery_customs,kk-fraud-delivery_customs-1,nopunct,synthetic
+kk00682,Ақшаңызды қайтарамыз бйаланыс қызметі үшін. Карта деректерін қалдырыңыз есептеу үшін: https://kspi-billing.test/claim/62900,1,fraud,kk,bonus_refund,kk-fraud-bonus_refund-1,typo,synthetic
+kk00683,163967 — Magnum жүйесіне кіру коды. 5 минут жарамды.,0,safe,kk,otp,kk-safe-otp-1,,synthetic
+kk00684,Курьер 12.11 сағат 10-нан 14-ке дейін келеді. Курьер нөмірі: +7 764 000 93 59,0,safe,kk,delivery,kk-safe-delivery-1,,synthetic
+kk00685,"Қайырлы күн. сәлем, мынаны қарашы: https://shrt.test/56416 😊",,suspicious,kk,unknown_link,kk-suspicious-unknown_link-0,lower+greet+emoji,synthetic
+kk00686,Halyk қауіпсіздік қызметі: профиліңізде жаңа құрылғыдан кіру тіркелді. Қаражатты қорғау үшін сілтеме бойынша кіріңіз: https://tau.test:8081/login?continue=/home,1,fraud,kk,bank_phish,kk-fraud-bank_phish-0,,synthetic
+kk00687,Кодыңыз: 649428. Оны Дәріхана сайтына енгізіңіз. Жауап қажет емес.,,suspicious,kk,otp_nowarn,kk-suspicious-otp_nowarn-0,close,synthetic
+kk00688,Курьер 03.12 кешкі 18:00-ден кейін жетеді. Курьер нөмірі: +7 716 000 33 57 Күніңіз жақсы өтсін!,0,safe,kk,delivery,kk-safe-delivery-1,close,synthetic
+kk00689,Маңызды: жиналыс 9:00-ге ауыстырылды.,0,safe,kk,work,kk-safe-work-1,,synthetic
+kk00690,Кодыңыз: 258392. Оны Дәріхана сайтына енгізіңіз,,suspicious,kk,otp_nowarn,kk-suspicious-otp_nowarn-0,nopunct,synthetic
+kk00691,"Сәлем, мынаны қарашы: https://www.instagram.test/download/report-57392.pdf",,suspicious,kk,unknown_link,kk-suspicious-unknown_link-0,nopunct,synthetic
+kk00692,сізге өтемақы тиесілі сатып алу үшін. карта деректерін қалдырыңыз есептеу үшін: https://cloudbooks254216.test/4srsr8,1,fraud,kk,bonus_refund,kk-fraud-bonus_refund-1,lower,synthetic
+kk00693,Курьер 12.11 кешкі 18:00-ден кейін жетеді. Курьер нөміір: +7 754 000 27 56,0,safe,kk,delivery,kk-safe-delivery-1,typo,synthetic
+kk00694,аккаунтыңыз 24 сағаттан кейін бұғатталады. құпия сөзді растаңыз осы жерде: http://xn--0aefepmm8.example/pay/15153 Рахмет. срочно,1,fraud,kk,account_pwd,kk-fraud-account_pwd-0,lower+close+mix,synthetic
+kk00695,Мемлекеттік өтемақы 638 ₸ сізге тиесілі. Қаражатты рәсімдеңіз 3 күн ішінде: https://halyk-login.test/verify/tVPHEcuNI50AOwkxgI,1,fraud,kk,gov_payment,kk-fraud-gov_payment-0,,synthetic
+kk00696,Ақшаңызды қайтарамыз сатпы алу үшін. Карта деректерін қалдырыңыз 793 ₸ алу үшін: https://jusan-secure.test/account/confirm,1,fraud,kk,bonus_refund,kk-fraud-bonus_refund-1,typo,synthetic
+kk00697,Сіздің №43077977 тапсырысыңыз жеткізуге берілді. Жеткізу күні: 03.12. Бақылау: https://silk.test/orders/35430/track,0,safe,kk,delivery,kk-safe-delivery-0,,synthetic
+kk00698,Әжем: кешкі асты ұмытпа. Кешке қоңырау шал.,0,safe,kk,family,kk-safe-family-0,,synthetic
+kk00699,Береке: карта *9816-ға 104 ₸ түсті.,0,safe,kk,bank_notice,kk-safe-bank_notice-1,,synthetic
+kk00700,"Сіздің кодыңыз: 817674. Оны ешкімге айтпаңыз, банк қызметкерлеріне де.",0,safe,kk,otp,kk-safe-otp-0,,synthetic
+kk00701,Сізден алаяқтық бойынша өтініш түсті. Дереу 8 713 000 11 60 нөміріне қоңырау шалыңыз. Ешкімге айтпаңыз. Жауап қажет емес.,1,fraud,kk,fear_secrecy,kk-fraud-fear_secrecy-1,close,synthetic
+kk00702,сіз бақытты иегерсіз! сіз small акциясында 90 ₸ ұттыңыз. ұтысты алу үшін өтіңіз: https://stonesun.test/?cid=kfuef&user=co7jih&id=eec0p&redirect=4q9eepmu4z,1,fraud,kk,prize,kk-fraud-prize-0,lower,synthetic
+kk00703,Kaspi-Магазин: сатылым сайтта 12.11 дейін. Бас тарту үшін СТОП деп жауап беріңіз,0,safe,kk,ads,kk-safe-ads-0,,synthetic
+kk00704,Сіз жеңімпаз атандыңыз! Сыйлықты алу үшін осы хабарламаға жауап беріңіз. Жауап қажет емес.,1,fraud,kk,prize,kk-fraud-prize-1,close,synthetic
+kk00705,"Қайырлы күн! Резюмеңізді көрдік. Төлем ауысымына 239 ₸, тәжірибесіз. Тапсырмалар телефоннан орындалады. WhatsApp-қа +7 786 000 50 72 жазыңыз.",1,fraud,kk,fake_job,kk-fraud-fake_job-0,,synthetic
+kk00706,Анам: туған күнді есіңде болсын. Сені сағындық.,0,safe,kk,family,kk-safe-family-0,,synthetic
+kk00707,"Гүлнар, есеп дайын. 11:30-де кезедсу Zoom-да. Түзетулерді ертеңге дейін жіберіңіз.",0,safe,kk,work,kk-safe-work-0,typo,synthetic
+kk00708,Halyk: *0848 картасына қолжетімділік шектелді. Шектеуді алу үшін тексеруден өтіңіз: https://gardenforest693826.invalid/NJl4DIDi,1,fraud,kk,card_block,kk-fraud-card_block-1,,synthetic
+kk00709,"Сәлем, Айнұр! Ертең 13:30-де жолығамыз ба? Жұмыстан кейін хабарласамын.",0,safe,kk,chat,kk-safe-chat-0,,synthetic
+kk00710,сіздің №26444338 тапсырысыңыз жеткізуге берілді. күтілетін күні: 01.12.,0,safe,kk,delivery,kk-safe-delivery-0,lower,synthetic
+kk00711,"ForteBank: Дүкен дүкенінде 12 098 тг төлем жасалды, карта *2323. Қалдық: 65 885 теңге.",0,safe,kk,bank_notice,kk-safe-bank_notice-0,,synthetic
+kk00712,"Сәлем, мен Бақыт, телефоным бұзылды. 63 ₸ аударып жіберші, кейін қайтарамын. Құрметпен.",1,fraud,kk,relative,kk-fraud-relative-1,close,synthetic
+kk00713,Small: сатылым сайтта 01.12 дейін. Бас тарту үшін СТОП деп жауап беріңіз,0,safe,kk,ads,kk-safe-ads-0,,synthetic
+kk00714,Сәлеметсіз бе! Сбебранк маманы: 66 043 тг сомасын болдырмау үшін пин-кодты айтыңыз 💳,1,fraud,kk,cvv_code,kk-fraud-cvv_code-0,nopunct+typo+greet+emoji,synthetic
+kk00715,"Береке: Дүкен дүкенінде 897 ₸ сомасына сатып алу, карта *6165. Қолжетімді сома: 492 ₸.",0,safe,kk,bank_notice,kk-safe-bank_notice-0,,synthetic
+kk00716,"Салтанат, презентация дайын. 21:45-де онлайн-кездесу Zoom-да. Түзетулерді ертеңге дейін жіберіңіз",0,safe,kk,work,kk-safe-work-0,nopunct,synthetic
+kk00717,Aviata тіркелгіңіз бүгін бұғатталады. Құпия сөзді растаңыз сілтеме бойынша: https://kazpost-wallet.test/login?continue=/home,1,fraud,kk,account_pwd,kk-fraud-account_pwd-0,,synthetic
+kk00718,"Таныс брокерім бір схема көрсетті: 392 теңге салып, бір аптада үш есе алдым. Сен де қалайсың ба? @support_24",1,fraud,kk,investment,kk-fraud-investment-1,,synthetic
+kk00719,сіздің сәлемдемеңіз қоймада ұсталды. жеткізу бойынша қосымша төлемді 26 теңге 48 сағат ішінде төлеңіз: https://maplesteppe14.test:8443/pay/70646,1,fraud,kk,delivery_customs,kk-fraud-delivery_customs-0,lower,synthetic
+kk00720,Кодыңыз: 694851. Оны Sulpak сайтына енгізіңіз.,,suspicious,kk,otp_nowarn,kk-suspicious-otp_nowarn-0,,synthetic
+kk00721,курьер 03.12 кешкі 18:00-ден кейін келеді. төлем төленген.,0,safe,kk,delivery,kk-safe-delivery-1,lower,synthetic
+kk00722,Әкімдкі: құжаттарыңыз дайын. Толығырақ: https://egov-portal.example/request/29522,0,safe,kk,gov_edu,kk-safe-gov_edu-1,typo,synthetic
+kk00723,Jusan: сіздің өтінішіңіз бойынша карта *9486 уақытша бұғатталды. Қосымшада немесе бөлімшеде ашуға болады,0,safe,kk,bank_notice,kk-safe-bank_notice-2,nopunct,synthetic
+kk00724,МАҢЫЗДЫ:  КЛИЕНТ 21:15-ГЕ ДЕЙІН ЖАУАП КҮТЕДІ. ҚАТЫСУЫҢЫЗДЫ РАСТАҢЫЗ.,0,safe,kk,work,kk-safe-work-1,upper+dblspace,synthetic
+kk00725,Kaspi-Магазин-дан чек. Сомасы 44 ₸.,0,safe,kk,purchase,kk-safe-purchase-0,,synthetic
+kk00726,"Асхат, үйге келгенде хабарла. Дүкеннен сүт алып кел. Рахмет.",0,safe,kk,chat,kk-safe-chat-1,close,synthetic
+kk00727,Инвестиция: табыс атпасына 30%-дан! Қауіпсіз. Чатқа қосыл @job.team.,1,fraud,kk,investment,kk-fraud-investment-0,typo,synthetic
+kk00728,Сіздің №32576575 тапсырысыңыз беру пунктіне келді. Жеткізу күні: 12.11. Бақылау: http://metroamber.example:8080/blog/swift-metro-quartz,0,safe,kk,delivery,kk-safe-delivery-0,,synthetic
+kk00729,№53473950 СӘЛЕМДЕМЕНІ КУРЬЕР ЖЕТКІЗЕ АЛМАДЫ. ЖЕТКІЗУ МЕКЕНЖАЙЫН ЖАҢАРТЫҢЫЗ: HTTPS://MEDIASTONE.TEST/?TOKEN=FDKUV2F&CID=XRWV&REF=XXVI9LO&SESSION=PAWU5QD,1,fraud,kk,delivery_customs,kk-fraud-delivery_customs-1,lower+upper,synthetic
+kk00730,"Мен сенің ұлыңмын, телефоным бұзылды. 49 теңге шұғыл аудар, кейін айтамын.",1,fraud,kk,relative,kk-fraud-relative-1,,synthetic
+kk00731,картаңыз бұғатталады. бүгін картаны ашыңыз сайтта: https://forte.bonus-books.invalid/p/forpoopwnwquvjip,1,fraud,kk,card_block,kk-fraud-card_block-0,lower,synthetic
+kk00732,Сіздің сәлемдемеңіз кеденде тұр. Кеден алымын 12 582 тг 48 сағат ішінде төлеңіз: http://kaspі.invalid/claim/30766,1,fraud,kk,delivery_customs,kk-fraud-delivery_customs-0,,synthetic
+kk00733,Small: сатылым сайтта 20.11 дейін. Бас тарту үшін СТОП деп жауап беріңіз Күніңіз жақсы өтсін!,0,safe,kk,ads,kk-safe-ads-0,close,synthetic
+kk00734,"Хабарлама: сізде 12 771 ₸ берешек бар несие бойынша. 20.11 дейін өтеңіз, әйтпесе іс сот орындаушыларына жолданады: https://garden.example/login?continue=/home",1,fraud,kk,debt,kk-fraud-debt-0,nopunct,synthetic
+kk00735,"Мен сенің ұлыңмын, телефоным бұзылды. 781 ₸ шұғыл аудар, кейін айтамын.",1,fraud,kk,relative,kk-fraud-relative-1,,synthetic
+kk00736,"Қайырлы күн. Көмекшілер қабылданады үйде:н пікір, төлем бірден. Бүгін баста @cashteam",1,fraud,kk,fake_job,kk-fraud-fake_job-1,typo+greet,synthetic
+kk00737,"Хабарлама: сіздің атыңызда 57 469 теңге қарыз тіркелген салық бойынша. 12.11 дейін өтеңіз, әйтпесе іс сот орындаушыларына жолданад:ы https://hsbc-login.example/verify/9wJCrFfx",1,fraud,kk,debt,kk-fraud-debt-0,typo,synthetic
+kk00738,№2521719 сәлемдемені курьер жеткізе алмады. Мекенжайды нақтылаңыз және сақтау ақысын 875 теңге төлеңіз: http://media7442.test/hDCLPZ4V7PDWgt,1,fraud,kk,delivery_customs,kk-fraud-delivery_customs-1,,synthetic
+kk00739,Сәлем! Сіздің №30271376 тапсырысыңыз жөнелтілді. Жеткізу күні: 20.11. спс,0,safe,kk,delivery,kk-safe-delivery-0,greet+mix,synthetic
+kk00740,"Біздің талдаушы бір схема көрсетті: 25 тг салып, бір аптада үш есе алдым. Сен де қалайсың ба? @cash.kz Күніңіз жақсы өтсін!",1,fraud,kk,investment,kk-fraud-investment-1,close,synthetic
+kk00741,Техникалық қолдау Kaspi-Магазин: аккаунтыңыз бұзылды. Қашықтан көмек бағдарламасын орнатыңыз: https://summitforest507884.example/HhH6L9A68SMw,1,fraud,kk,tech_support,kk-fraud-tech_support-0,,synthetic
+kk00742,Дәріхана-дан сатып алғаныңыз үшін рахмет. Жалпы сома 674 теңге. Электрондық чек: https://www.amazon.test/shop/cloud?utm_source=sms&utm_medium=notice&ref=Hi7GdyE,0,safe,kk,purchase,kk-safe-purchase-0,nopunct,synthetic
+kk00743,Қолдау қызметі Aviata: аккаунтыңыз бұзылды. Қашықтан көмек бағдарламасын орнатыңыз: https://pearl-city.example/login?continue=/home,1,fraud,kk,tech_support,kk-fraud-tech_support-0,,synthetic
+kk00744,"Қайырлы  күн. Жанар, шарт келісуде. 18:00-де онлайн-кездесу Zoom-да. Түзетулерді ертеңге дейін жіберіңіз.",0,safe,kk,work,kk-safe-work-0,greet+dblspace,synthetic
+kk00745,Сіз бақытты иегерсіз! Сіз Kaspi-Магазин акциясында 683 тг ұттыңыз. Ұтысты алу үшін өтіңіз: http://sport-iron.example/search?q=forest+atlas Рахмет.,1,fraud,kk,prize,kk-fraud-prize-0,close,synthetic
+kk00746,SULPAK-ДАН САТЫП АЛҒАНЫҢЫЗ ҮШІН РАХМЕТ. ЖАЛПЫ СОМА 28 ₸. ЭЛЕКТРОНДЫҚ ЧЕК: HTTPS://DELTAMARKET35.INVALID/SEARCH?Q=PRIME+SWIFT,0,safe,kk,purchase,kk-safe-purchase-0,upper,synthetic
+kk00747,Сізден заң бұзу бойынша өтініш түсті. Келу міндетті. Ешкімге айтпаңыз. Жауап қажет емес.,1,fraud,kk,fear_secrecy,kk-fraud-fear_secrecy-1,close,synthetic
+kk00748,"салтанат, үйге келгенде хабарла. нан алып келе ме?",0,safe,kk,chat,kk-safe-chat-1,lower,synthetic
+kk00749,Technodom: жаңа коллекция қосымшада 03.12 дейін. Бас тарту үшін СТОП деп жауап беріңіз,0,safe,kk,ads,kk-safe-ads-0,,synthetic
+kk00750,"Назар аударыңыз. Суреттеріңіз белгілі болды. Полицияға жүгінбеңіз, әйтпесе 64 теңге аударыңыз.",1,fraud,kk,fear_secrecy,kk-fraud-fear_secrecy-0,,synthetic
+kk00751,"әке, полициямен мәселе болды. тез 92 225 тг осы нөмірге +7 722 000 34 46 аудар, кейін түсіндіремін.",1,fraud,kk,relative,kk-fraud-relative-0,lower,synthetic
+kk00752,Анам:  сенбідегі кездесуді ұмытпа. Аман бол,0,safe,kk,family,kk-safe-family-0,nopunct+dblspace,synthetic
+kk00753,"Қайырлы күн! Қашықтан жұмысқа шақырамыз. Табыс күніне 334 ₸, тәжірибесіз. Оқыту тегін. WhatsApp-қа 8 794 000 76 52 жазыңыз.",1,fraud,kk,fake_job,kk-fraud-fake_job-0,,synthetic
+kk00754,Назар аударыңыз: Aviata тіркелгіңіз 24 сағаттан кейін бұғатталады. Құпия сөзді растаңыз сілтеме боыйнша: https://refund-studio.example/account/confirm,1,fraud,kk,account_pwd,kk-fraud-account_pwd-0,typo+greet,synthetic
+kk00755,Құттықтаймыз! Сіз Magnum ұтыс ойынында көлік ұттыңыз. Жүлдені алыңыз: https://google.billing-cloud.example/docs/stone-atlas-vista.html,1,fraud,kk,prize,kk-fraud-prize-0,,synthetic
+kk00756,"Амансың ба, Жанар! Ертең 18:15-де кездесеміз бе? Кафе жанында күтемін.",0,safe,kk,chat,kk-safe-chat-0,,synthetic
+kk00757,"Назар аударыңыз. Суреттеріңіз желіге түсті. Ешкімге айтпаңыз, салдарынан аулақ болу үшін 353 теңге аударыңыз.",1,fraud,kk,fear_secrecy,kk-fraud-fear_secrecy-0,,synthetic
+kk00758,"Салтанат, туған күніңмен! Қонаққа кел.",0,safe,kk,family,kk-safe-family-1,,synthetic
+kk00759,Halyk: сзідің өтінішіңіз бойынша карта *5216 бұғатталды.,0,safe,kk,bank_notice,kk-safe-bank_notice-2,typo,synthetic
+kk00760,"Сәлеметсіз бе! Сәлем, мыннаы қарашы: https://lnk.example/12762 ok",,suspicious,kk,unknown_link,kk-suspicious-unknown_link-0,typo+greet+mix,synthetic
+kk00761,Қайырлы  күн. Small тіркелгіңіз 24 сағаттан кейін жойылады. Құпия сөзді растаңыз сілтеме бойынша: http://kaspi.auth-vista.test/secure/update?id=QXN5sWoWVGf,1,fraud,kk,account_pwd,kk-fraud-account_pwd-0,greet+dblspace,synthetic
+kk00762,Аккаунтыңыз бүгін бұғатталады. Кіруді қалпына келтіріңіз сілтеме бойынша: http://go-link.test/Jfuju,1,fraud,kk,account_pwd,kk-fraud-account_pwd-0,,synthetic
+kk00763,әкімдік: өтінішіңіз қабылданды. толығырақ: https://egov-docs.example/status/41254 Рахмет.,0,safe,kk,gov_edu,kk-safe-gov_edu-1,lower+close,synthetic
+kk00764,technodom-дан чек. сомасы 251 ₸. электрондық чек: http://bookscafe93.test/user/profile/46013 ok,0,safe,kk,purchase,kk-safe-purchase-0,lower+mix,synthetic
+kk00765,салық комитеті: 33 160 тг айыппұл төленді. рахмет.,0,safe,kk,gov_edu,kk-safe-gov_edu-2,lower,synthetic
+kk00766,"Құрметті клиент, құпия сөзіңіздің мерзімі аяқталды. Мәліметтерді жаңартыңыз тез арада: https://fedex.login-film.example/pay/91798",1,fraud,kk,bank_phish,kk-fraud-bank_phish-1,,synthetic
+kk00767,"Сізге ForteBank қызметкері қоңырау шалды. Оған картаның артындағы үш таңбалы кодты айтыңыз, деректерді салыстыру үшін.",1,fraud,kk,cvv_code,kk-fraud-cvv_code-1,,synthetic
+kk00768,Дәріхана: жеңілдік 30%-ға дейін дүкендерде 20.11 дейін. Бас тарту үшін СТОП деп жауап беріңіз,0,safe,kk,ads,kk-safe-ads-0,,synthetic
+kk00769,"Көмекшілер керек үйден: пікір, табыс 30 теңге. Бүгін баста @helpteam Жауап қажет емес. спс",1,fraud,kk,fake_job,kk-fraud-fake_job-1,close+mix,synthetic
+kk00770,Картаңыз бұғатталды. Дереу картаны ашыңыз сайтта: https://www.steppecopper.invalid/news/2026/2/river-prime-books,1,fraud,kk,card_block,kk-fraud-card_block-0,,synthetic
+kk00771,"Қадірлі клиент, құпия сөзіңіздің мерзімі аяқталды. Деректерді растаңыз 24 сағат ішінде: https://atlas-forest.example/?redirect=M2PO&ref=PmERSQ&id=TaGE0Wd5&user=DSetCvl&token=1927N4lL Рахмет.",1,fraud,kk,bank_phish,kk-fraud-bank_phish-1,close,synthetic
+kk00772,"амансың ба, айнұр! бүгін 13:15-де жолығамыз ба? жұмыстан кейін хабарласамын.",0,safe,kk,chat,kk-safe-chat-0,lower,synthetic
+kk00773,Курьер 01.12 кешкі 18:00-ден кейін келеді. Курьер нөмірі: 8 790 000 12 54,0,safe,kk,delivery,kk-safe-delivery-1,,synthetic
+kk00774,Small-дан чек. Сомасы 594 ₸.,0,safe,kk,purchase,kk-safe-purchase-0,,synthetic
+kk00775,Сізге 7 ₸ бонус есептелді. Бонусты алыңыз апта соңына дейін: https://u.example/LHJ84z,1,fraud,kk,bonus_refund,kk-fraud-bonus_refund-0,nopunct,synthetic
+kk00776,Жедел несие 669 теңге дейін 5 минутта. Толығырақ: https://forestprime.test/account/settings,,suspicious,kk,loan_ad,kk-suspicious-loan_ad-0,,synthetic
+kk00777,"шақыру қағазы: сізде 13 ₸ берешек бар коммуналдық қызмет бойынша. бүгін өтеңіз, әйтпесе іс сот орындаушыларына жолданады: http://xn--x4jwd6wm2cu4.example/blue-delta Рахмет.",1,fraud,kk,debt,kk-fraud-debt-0,lower+close,synthetic
+kk00778,"236507 — Sulpak жүйесіне кіру коды. Егер сіз сұрамасаңыз, бұл хабарламаны елемеңіз.",0,safe,kk,otp,kk-safe-otp-1,,synthetic
+kk00779,Маңызды: клиент 19:00-ге дейін жауап күтеді. Қатысуыңызды растаңыз.,0,safe,kk,work,kk-safe-work-1,,synthetic
+kk00780,Сәлеметсіз бе! Әкем: екшкі асты есіңде болсын. Кешке қоңырау шал Күніңіз жақсы өтсін!,0,safe,kk,family,kk-safe-family-0,nopunct+typo+greet+close,synthetic
+kk00781,Сізге 38 041 ₸ бонус есептелді. Оны белсендіріңіз апта соңына дейін: https://p4ypal.test/reset/ujdgUyGnZN3USvbIko4R3gHObe8m9,1,fraud,kk,bonus_refund,kk-fraud-bonus_refund-0,,synthetic
+kk00782,"Назар аударыңыз: ForteBank қауіпсіздік қызметі: жеке кабинетіңізде күдікті әрекет анықталды. Бұғаттаудан сақтану үшін сайтқа кіріп, растаңыз: http://quartzvista.example:8443/verify/YgUltRljUQjtC4suzoHxeSkB",1,fraud,kk,bank_phish,kk-fraud-bank_phish-0,greet,synthetic
+kk00783,Kaspi-Магазин: жаңа коллекция дүкендерде 15.11.2026 дейін. Бас тарту үшін СТОП деп жауап беріңіз,0,safe,kk,ads,kk-safe-ads-0,,synthetic
+kk00784,"HALYK: КАРТА *1886-ҒА 580 ТЕҢГЕ АУДАРЫЛДЫ. ЕГЕР БҰЛ СІЗ БОЛМАСАҢЫЗ, КАРТАНЫҢ АРТЫНДАҒЫ НӨМІРГЕ ҚОҢЫРАУ ШАЛЫҢЫЗ.",0,safe,kk,bank_notice,kk-safe-bank_notice-1,lower+upper,synthetic
+kk00785,әкімдік: 79 теңге айыппұл өтелді. рахмет. Рахмет. спс,0,safe,kk,gov_edu,kk-safe-gov_edu-2,lower+close+mix,synthetic
+kk00786,Кодыңыз: 551194. Оны Дәріхана сайтына енгізіңіз.,,suspicious,kk,otp_nowarn,kk-suspicious-otp_nowarn-0,,synthetic
+kk00787,Әкімдік: 38 ₸ берешек өтелді. Рахмет.,0,safe,kk,gov_edu,kk-safe-gov_edu-2,,synthetic
+kk00788,"ҚОЛДАУ ҚЫЗМЕТІ: ТЕЛЕФОНЫҢЫЗДАН ВИРУС АНЫҚТАДЫҚ. @JOBONLINE ЧАТЫНА ЖАЗЫҢЫЗ, ҚҰРЫЛҒЫНЫ ӨШІРМЕҢІЗ.",1,fraud,kk,tech_support,kk-fraud-tech_support-1,upper,synthetic
+kk00789,"Назар аударыңыз. Деректеріңіз желіге түсті. Ешкімге айтпаңыз, әйтпесе @invest24 жазыңыз.",1,fraud,kk,fear_secrecy,kk-fraud-fear_secrecy-0,,synthetic
+kk00790,Сбербанк: сіздің өтінішіңіз бойынша карта *9167 уақытша бұғатталды.,0,safe,kk,bank_notice,kk-safe-bank_notice-2,,synthetic
+kk00791,Техникалық қолдау Small: құрылғыңызға вирус түсті. Қашықтан көмек бағдарламасын орнатыңыз: https://forest-vista-bank.test/WsTEL86/sahe1hX/kmygq/E0Xgm?a=sPK2x4nujKNzUjTr5XGohlFY,1,fraud,kk,tech_support,kk-fraud-tech_support-0,,synthetic
+kk00792,"Сәлем, мынаны қарашы: https://shrt.test/75760",,suspicious,kk,unknown_link,kk-suspicious-unknown_link-0,,synthetic
+kk00793,Сізден заң бұзу бойынша өтініш түсті. Дереу 8 770 000 93 55 нөміріне қоңырау шалыңыз. Ешкімге айтпаңыз.,1,fraud,kk,fear_secrecy,kk-fraud-fear_secrecy-1,,synthetic
+kk00794,№52566160 сәлемдемені жеткізу мүмкін болмады. жеткізу мекенжайын жаңартыңыз: https://lnk.example/rzorrzrz,1,fraud,kk,delivery_customs,kk-fraud-delivery_customs-1,lower,synthetic
+kk00795,Кодыңыз: 812936. Оны Technodom сайтына енгізіңіз.,,suspicious,kk,otp_nowarn,kk-suspicious-otp_nowarn-0,,synthetic
+kk00796,"Сізге Jusan қызметкері қоңырау шалады. Оған осы хабарламадағы кодты: 535326 жіберіңіз, шотты қорғау үшін.",1,fraud,kk,cvv_code,kk-fraud-cvv_code-1,,synthetic
+kk00797,"ҚАЙЫРЛЫ КҮН. КӨМЕКШІЛЕР КЕРЕК ОНЛАЙН: ПІКІР, ТАБЫС 84 365 ТГ. ЖАЗ @HELP24",1,fraud,kk,fake_job,kk-fraud-fake_job-1,greet+upper,synthetic
+kk00798,"АМАНСЫҢ БА, ЖАНАР! БҮГІН 14:00-ДЕ ЖОЛЫҒАМЫЗ БА? ЖҰМЫСТАН КЕЙІН ХАБАРЛАСАМЫН.",0,safe,kk,chat,kk-safe-chat-0,upper,synthetic
+kk00799,"Бір реттік код: 10680. Оны ешкімге айтпаңыз, тіпті Jusan қызметкеріне де.",0,safe,kk,otp,kk-safe-otp-0,,synthetic
+kk00800,Halyk: карта *3370-ға 81 ₸ түсті. 📦,0,safe,kk,bank_notice,kk-safe-bank_notice-1,emoji,synthetic
+kk00801,Сәлем! Береке маманы: 98 381 ₸ сомасын тоқтату үшін SMS-тағы кодты айтыңыз. Күніңіз жақсы өтсін!,1,fraud,kk,cvv_code,kk-fraud-cvv_code-0,greet+close,synthetic
+kk00802,Жедел несие бас тартусыз картаға. Толығырақ: https://binance-payment.example/login/J1GLLRNue?next=/cabinet Күніңіз жақсы өтсін!,,suspicious,kk,loan_ad,kk-suspicious-loan_ad-0,close,synthetic
+kk00803,Sulpak: жаңа коллекция дүкенедрде 15.11.2026 дейін. Бас тарту үшін СТОП деп жауап беріңіз,0,safe,kk,ads,kk-safe-ads-0,typo,synthetic
+kk00804,"хабарлама: сіздің атыңызда 128 теңге қарыз тіркелген салық бойынша. 12.11 дейін өтеңіз, әйтпесе іс сот орындаушыларына жолданады: https://tech-amber1119.test/gbuvzj7l",1,fraud,kk,debt,kk-fraud-debt-0,lower+nopunct,synthetic
+kk00805,Kaspi: *7946 картасына қолжетімділік шектелді. Шектеуді алу үшін тексеруден өтіңіз: https://short.invalid/9vk0ISAQ,1,fraud,kk,card_block,kk-fraud-card_block-1,,synthetic
+kk00806,"Деканат: емтихан 15.11.2026 күніне, 18:45-ге ауыстырылды.",0,safe,kk,gov_edu,kk-safe-gov_edu-0,,synthetic
+kk00807,Біреу аккаунтыңызға кіруге тырысты. Қорғау үшін құпия сөзді ауыстырыңыз: http://micros0ft-bank.example/s/4gos5KoL9CINCPl,1,fraud,kk,account_pwd,kk-fraud-account_pwd-1,,synthetic
+kk00808,Әкімдік: қабылдау алдын ала жазылу бойынша. Толығырақ: https://egov-portal.example/status/65106,0,safe,kk,gov_edu,kk-safe-gov_edu-1,,synthetic
+kk00809,"Таныс брокерім бір схема көрсетті: 208 теңге салып, бір аптада үш есе алдым. Сен де қалайсың ба? @cash.online",1,fraud,kk,investment,kk-fraud-investment-1,,synthetic
+kk00810,"ЕРЛАН, БОС БОЛҒАНДА ҚОҢЫРАУ ШАЛ. КЕШКІ АСҚА ҮЛГЕР.",0,safe,kk,chat,kk-safe-chat-1,lower+upper,synthetic
+kk00811,құттықтаймыз! сіз magnum акциясында жүлде жеңіп алдыңыз. жүлдені алыңыз: https://harborbright837.invalid/g6erza562u4elx Күніңіз жақсы өтсін!,1,fraud,kk,prize,kk-fraud-prize-0,lower+close,synthetic
+kk00812,Сәлеметсіз бе! Ескертеміз: 12.11 сағат 9:15-де дәрігер қабылдауы. Ауыстыру үшін 8 755 000 13 45 нөміріне хабарласыңыз.,0,safe,kk,reminder,kk-safe-reminder-0,greet,synthetic
+kk00813,Курьер 03.12 кешкі 18:00-ден кейін жетеді. Курьер нөмірі: +7 717 000 88 52,0,safe,kk,delivery,kk-safe-delivery-1,,synthetic
+kk00814,Сізге  қатысты заң бұзу бойынша өтініш түсті. Келу міндетті. Ешкімге айтпаңыз.,1,fraud,kk,fear_secrecy,kk-fraud-fear_secrecy-1,dblspace,synthetic
+kk00815,Kaspi-Магазин: жеңілдік 30%-ға дейін сайтта 01.12 дейін. Бас тарту үшін СТОП деп жауап беріңіз,0,safe,kk,ads,kk-safe-ads-0,,synthetic
+kk00816,"Сәлеметсіз бе! Операторлар қабылданады үйден: тапсырыс, төлем біредн. Бүгін баста @promo_kz",1,fraud,kk,fake_job,kk-fraud-fake_job-1,typo+greet,synthetic
+kk00817,Әже:м туған күнді ұмытпа. Сені сағындық.,0,safe,kk,family,kk-safe-family-0,typo,synthetic
+kk00818,Сіздің №3446370 тапсырысыңыз жөнелтілді. Жеткізу күні: 12.11. Бақылау: https://www.learncafe51.invalid/payment/receipt?id=48308 Жауап қажет емес.,0,safe,kk,delivery,kk-safe-delivery-0,close,synthetic
+kk00819,қауіпсіздік қызметінің қызметкері: күдікті операцияны тоқтату үшін sms-тағы кодты айтыңыз. Күніңіз жақсы өтсін!,1,fraud,kk,cvv_code,kk-fraud-cvv_code-0,lower+close,synthetic
+kk00820,"Назар аударыңыз: Сәлем, мынаны қарашы: https://u.example/91859",,suspicious,kk,unknown_link,kk-suspicious-unknown_link-0,greet,synthetic
+kk00821,"мөлдір, үйге келгенде хабарла. кешкі асқа үлгер.",0,safe,kk,chat,kk-safe-chat-1,lower,synthetic
+kk00822,Қолдау қызметі Magnum: құрылғыңызға вирус түсті. Қорғаныс қосымшасны мына сілтемеден жүктеңіз: http://refund.market.microsoft.deltafresh.example/track/27084,1,fraud,kk,tech_support,kk-fraud-tech_support-0,typo,synthetic
+kk00823,Әжем: туған күнді есіңде болсын. Сені сағындық.,0,safe,kk,family,kk-safe-family-0,,synthetic
+kk00824,"514027 — Sulpak 344 ₸ төлемін растау коды. Егер сіз сұрамасаңыз, бұл хабарламаны елемеңіз.",0,safe,kk,otp,kk-safe-otp-1,,synthetic
+kk00825,Береке: карта *2185-ға 97 ₸ түсті.,0,safe,kk,bank_notice,kk-safe-bank_notice-1,,synthetic
+kk00826,Еске саламыз: 20.11 сағат 13:30-де сабақ. Мекенжайы: Кофеханасы.,0,safe,kk,reminder,kk-safe-reminder-0,,synthetic
+kk00827,"Маман: компьютеріңіз зақымданған. @invest.kz чатына жазыңыз, біз көмектесеміз.",1,fraud,kk,tech_support,kk-fraud-tech_support-1,,synthetic
+kk00828,Еске саламыз: 03.12 сағат 9:30-де дәрігер қабылдауы. Мекенжайы: Пекарня.,0,safe,kk,reminder,kk-safe-reminder-0,,synthetic
+kk00829,Кодыңыз: 637487. Оны Дәріхана сайтына енгізіңіз.,,suspicious,kk,otp_nowarn,kk-suspicious-otp_nowarn-0,,synthetic
+kk00830,Жедел несие 60 310 ₸ дейін картаға. Рәсімдеу: http://www.north.example/products/75651,,suspicious,kk,loan_ad,kk-suspicious-loan_ad-0,,synthetic
+kk00831,Жедел несие бас тартусыз 5 минутта. Толығырақ: https://lnk.example/9951,,suspicious,kk,loan_ad,kk-suspicious-loan_ad-0,,synthetic
+kk00832,"СІЗГЕ БЕРЕКЕ МАМАНЫ ҚОҢЫРАУ ШАЛАДЫ. ОҒАН ОСЫ ХАБАРЛАМАДАҒЫ КОДТЫ: 275024 ЖІБЕРІҢІЗ, ДЕРЕКТЕРДІ САЛЫСТЫРУ ҮШІН.",1,fraud,kk,cvv_code,kk-fraud-cvv_code-1,lower+upper,synthetic
+kk00833,Маңызды: жиналыс 11:15-ге ауыстырылды.,0,safe,kk,work,kk-safe-work-1,,synthetic
+kk00834,қауіпсіздік қызметінің қызметкері: 78 ₸ сомасын болдырмау үшін cvv кодты айтыңыз. Жауап қажет емес. спс,1,fraud,kk,cvv_code,kk-fraud-cvv_code-0,lower+close+mix,synthetic
+kk00835,"Ана, полициямен мәселе болды. Тез 76 ₸ картаға аудар, кейін түсіндіремін",1,fraud,kk,relative,kk-fraud-relative-0,nopunct,synthetic
+kk00836,Маңызды: клиент 14:15-ге дейін жауап күтеді.,0,safe,kk,work,kk-safe-work-1,,synthetic
+kk00837,Сбербанк маманы: 9 ₸ сомасын тоқтату үшін пин-кодты айтыңыз.,1,fraud,kk,cvv_code,kk-fraud-cvv_code-0,,synthetic
+kk00838,Кодыңыз: 838833. Оны Sulpak сайтына енгізіңіз.,,suspicious,kk,otp_nowarn,kk-suspicious-otp_nowarn-0,,synthetic
+kk00839,Сіздің сәлемдемеңіз кеденде тұр. Жеткізу бойынша қосымша төлемді 634 ₸ 01.12 дейін төлеңіз: http://craftharbor24.example/news/2026/1/nova-maple-sun-atlas,1,fraud,kk,delivery_customs,kk-fraud-delivery_customs-0,,synthetic
+kk00840,"Сәлем! Дәулет, есеп келісуде. 12:30-де онлайн-кездесу Zoom-да. Түзетулерді ертеңге дейін жіберіңіз",0,safe,kk,work,kk-safe-work-0,nopunct+greet,synthetic
+kk00841,Жедел несие 59 488 ₸ дейін картаға. Рәсімдеу: https://u.example/86336,,suspicious,kk,loan_ad,kk-suspicious-loan_ad-0,,synthetic
+kk00842,"Операторлар керек үйден: тапсырыс, төлем бірден. Жаз @promokz",1,fraud,kk,fake_job,kk-fraud-fake_job-1,,synthetic
+kk00843,Әкем: сенбідегі кездесуді ұмытпа. Кешке қоңырау шал.,0,safe,kk,family,kk-safe-family-0,,synthetic
+kk00844,Еске саламыз: 15.11.2026 сағат 12:45-де сабақ. Ауыстыру үшін +7 773 000 85 57 нөміріне хабарласыңыз.,0,safe,kk,reminder,kk-safe-reminder-0,,synthetic
+kk00845,"Растау коды: 909906. Оны ешкімге айтпаңыз, банк қызметкерлеріне де.",0,safe,kk,otp,kk-safe-otp-0,,synthetic
+kk00846,Сізге өтемақы тиесілі сатып алу үшін. Карта деректерін қалдырыңыз есептеу үшін: http://amazon.update-cloud.example/verify/XZ6xJvdq3 Күніңіз жақсы өтсін!,1,fraud,kk,bonus_refund,kk-fraud-bonus_refund-1,close,synthetic
+kk00847,ХҚКО: құжаттарңыыз дайын. Толығырақ: https://egov-status.example/status/8831,0,safe,kk,gov_edu,kk-safe-gov_edu-1,typo,synthetic
+kk00848,Small-дан сатып алғаныңыз үшін рахмет. Жалпы сома 39 879 ₸.,0,safe,kk,purchase,kk-safe-purchase-0,,synthetic
+kk00849,"Сбербанк: карта *8890-ға 895 ₸ түсті. Егер бұл сіз болмасаңыз, картаның артындағы нөмірге қоңырау шалыңыз.",0,safe,kk,bank_notice,kk-safe-bank_notice-1,,synthetic
+kk00850,Әкем: туған күнді ұмытпа. Кешке қоңырау шал.,0,safe,kk,family,kk-safe-family-0,,synthetic
+kk00851,Small-дан чек. Сомасы 67 276 ₸. Рахмет.,0,safe,kk,purchase,kk-safe-purchase-0,close,synthetic
+kk00852,"университет: сабақ 12.11 күніне, 8:30-ге ауыстырылды. аудитория 11839732. Жауап қажет емес. ok",0,safe,kk,gov_edu,kk-safe-gov_edu-0,lower+close+mix,synthetic
+kk00853,Курьер 03.12 сағат 10-нан 14-ке дейін жетеді. Курьер нөмірі: 8 733 000 37 61,0,safe,kk,delivery,kk-safe-delivery-1,,synthetic
+kk00854,"Ана, ауруханадамын. Шұғыл 54 ₸ осы нөмірге 8 790 000 51 95 аудар, кейін түсіндіремін.",1,fraud,kk,relative,kk-fraud-relative-0,,synthetic
+kk00855,"Біздің талдаушы стратегиямен бөлісті: 28 417 ₸ салып, бір аптада үш есе алдым. Сен де қалайсың ба? @cash.kz",1,fraud,kk,investment,kk-fraud-investment-1,,synthetic
+kk00856,Курьер 12.11 сағат 10-нан 14-ке дейін келеді. Курьер нөмірі: +7 728 000 71 98 Жауап қажет емес.,0,safe,kk,delivery,kk-safe-delivery-1,close,synthetic
+kk00857,Kaspi-Магазин-дан сатып алғаныңыз үшін рахмет. Жалпы сома 46 378 теңге.,0,safe,kk,purchase,kk-safe-purchase-0,,synthetic
+kk00858,"деканат: жиналыс 12.11 күніне, 15:45-ге белгіленді. аудитория 72275999.",0,safe,kk,gov_edu,kk-safe-gov_edu-0,lower,synthetic
+kk00859,"Қолдау қызметі: компьютеріңіз зақымданған. 8 773 000 54 88 нөміріне қоңырау шалыңыз, біз көмектесеміз.",1,fraud,kk,tech_support,kk-fraud-tech_support-1,,synthetic
+kk00860,Сәлеметсіз бе! Сізден алаяқтық бойынша өтініш түсті. Дереу +7 702 000 41 70 нөміріне қоңырау шалыңыз. Ешкімге айтпаңыз. Рахмет. ok,1,fraud,kk,fear_secrecy,kk-fraud-fear_secrecy-1,greet+close+mix,synthetic
+kk00861,Сіздің №54284379 тапсырысыңыз беру пунктіне келді. Жеткізу күні: 15.11.2026. Рахмет.,0,safe,kk,delivery,kk-safe-delivery-0,close,synthetic
+kk00862,Курьер 12.11 кешкі 18:00-ден кейін жетеді. Төлем төленген.,0,safe,kk,delivery,kk-safe-delivery-1,,synthetic
+kk00863,Мемлекеттік салықты қайтару 582 тг сізге тиесілі. Қаражатты рәсімдеңіз 3 күн ішінде: https://shrt.test/7LwHn,1,fraud,kk,gov_payment,kk-fraud-gov_payment-0,,synthetic
+kk00864,Кодыңыз: 671353. Оны Дәріхана сайтына енгізіңіз. Құрметпен.,,suspicious,kk,otp_nowarn,kk-suspicious-otp_nowarn-0,close,synthetic
+kk00865,Нөміріңіз таңдалды! Сыйлықты алу үшін осы хабарламаға жауап беріңіз.,1,fraud,kk,prize,kk-fraud-prize-1,,synthetic
+kk00866,"Маман: телефоныңыздан вирус анықтадық. @cashonline чатына жазыңыз, құрылғыны өшірмеңіз. Құрметпен.",1,fraud,kk,tech_support,kk-fraud-tech_support-1,close,synthetic
+kk00867,Қаржы министрлігінің салықты қайтару 113 тг сізге мақұлданды. Қаражатты рәсімдеңіз 3 күн ішінде: http://198.51.100.76/docs/iron-copper-forest.html ✅,1,fraud,kk,gov_payment,kk-fraud-gov_payment-0,emoji,synthetic
+kk00868,Jusan: профиліңізде жаңа құрылғыдан кіру тіркелді. Бұғаттаудан сақтану үшін сілтеме бойынша кіріңіз: https://primeroyal46.example/?cid=cfIBXYds4&ref=TKrLydPr&session=oLDui2&token=TKF3Wq&user=WpHd7PXp,1,fraud,kk,bank_phish,kk-fraud-bank_phish-0,,synthetic
+kk00869,"Сәлем, мынаны қарашы: https://www.sport-terra.example",,suspicious,kk,unknown_link,kk-suspicious-unknown_link-0,,synthetic
+kk00870,Jusan: карта *8775-ға 683 ₸ түсті.,0,safe,kk,bank_notice,kk-safe-bank_notice-1,,synthetic
+kk00871,"Сәлем! Сбербанк: Базар дәріханасында 70 249 тг төлем жасалды, карта *5398. Қалдық: 958 теңге. 💳",0,safe,kk,bank_notice,kk-safe-bank_notice-0,greet+emoji,synthetic
+kk00872,жаңа құрылғыдан кіру анықталды. қорғау үшін логин мен құпия сөзді енгізіңіз: https://xn--rs9oe75w5gos.example/about,1,fraud,kk,account_pwd,kk-fraud-account_pwd-1,lower,synthetic
+kk00873,fortebank: *7764 картасына қолжетімділік шектелді. картаны қолдануды жалғастыру үшін сілтемеге өтіңіз: https://kaspі.test/auth/signin?redirect=%2fhome,1,fraud,kk,card_block,kk-fraud-card_block-1,lower,synthetic
+kk00874,Қолдау қызметі Small: құрылғыңызға вирус түсті. Қорғаныс қосымшасын мына сілтемеден жүктеңіз: https://terralearn583035.example/uYtXsAOd1e,1,fraud,kk,tech_support,kk-fraud-tech_support-0,,synthetic
+kk00875,Сіздің сәлемдемеңіз қоймада тұр. Кеден алымын 863 тг 12.11 дейін төлеңіз: https://secure-cedar.example/p/GJA7r2se1B,1,fraud,kk,delivery_customs,kk-fraud-delivery_customs-0,,synthetic
+kk00876,Нөміріңіз таңдалды! Ұтысты алу үшін комиссия 822 теңге төлеңіз.,1,fraud,kk,prize,kk-fraud-prize-1,,synthetic
+kk00877,кодыңыз: 952808. оны small сайтына енгізіңіз.,,suspicious,kk,otp_nowarn,kk-suspicious-otp_nowarn-0,lower,synthetic
+kk00878,"Мен сенің ұлыңмын, нөмірімді ауыстырдым. 729 ₸ шұғыл аудар, кейін айтамын.",1,fraud,kk,relative,kk-fraud-relative-1,,synthetic
+kk00879,Маңызды: жиналыс 18:00-ге ауыстырылды. Қатысуыңызды растаңыз.,0,safe,kk,work,kk-safe-work-1,,synthetic
+kk00880,Әкімдік: 41 ₸ айыппұл төленді. Рахмет.,0,safe,kk,gov_edu,kk-safe-gov_edu-2,,synthetic
+kk00881,анам: сенбідегі кездесуді ұмытпа. сені сағындық,0,safe,kk,family,kk-safe-family-0,lower+nopunct,synthetic
+kk00882,Инвестиция: табыс аптасына 30%-дан! Қайтарым кепілдігі. Telegram-ға қосыл @proteam.,1,fraud,kk,investment,kk-fraud-investment-0,,synthetic
+kk00883,Біреу аккаунтыңызға кіруге тырысты. Қорғау үшін құпия сөзді ауыстырыңыз: https://google.refund-learn.example/about,1,fraud,kk,account_pwd,kk-fraud-account_pwd-1,nopunct,synthetic
+kk00884,"Біздің талдаушы стратегиямен бөлісті: 9 462 теңге салып, бір аптада үш есе алдым. Сен де қалайсың ба? @promo.team",1,fraud,kk,investment,kk-fraud-investment-1,,synthetic
+kk00885,"Шақыру қағазы: сіздің атыңызда 99 ₸ қарыз тіркелген коммуналдық қызмет бойынша. Бүгін төлеңіз, әйтпесе іс сот орындаушыларына жолданады: https://tnkoff-billing.example/verify/HXqT0dkn5f2PWkoyCjomnTjQ",1,fraud,kk,debt,kk-fraud-debt-0,nopunct,synthetic
+kk00886,"қалайсың, гүлнар! бүгін 17:30-де кездесеміз бе? мен кітапхана алдында боламын.",0,safe,kk,chat,kk-safe-chat-0,lower,synthetic
+kk00887,"Сізге Jusan қызметкері қоңырау шалды. Оған картаның артындағы үш таңбалы кодты жіберіңіз, шотты қорғау үшін.",1,fraud,kk,cvv_code,kk-fraud-cvv_code-1,,synthetic
+kk00888,Жаңа құрылғыдан кіру анықталды. Бұл сіз болмасаңыз логин мен құпия сөзді енгізіңіз: https://traveltau415594.example/61CVBN,1,fraud,kk,account_pwd,kk-fraud-account_pwd-1,,synthetic
+kk00889,Криптовалюта: табыс аптасына 30%-дан! Қауіпсіз. Чатқа кіріңіз @proteam.,1,fraud,kk,investment,kk-fraud-investment-0,,synthetic
+kk00890,"Сәлеметсіз бе! гүлнар, бос болғанда хабарла. кешкі асқа үлгер.",0,safe,kk,chat,kk-safe-chat-1,lower+greet,synthetic
+kk00891,ХҚКО: құжаттарыңыз дайын. Толығырақ: https://egov-portal.example/request/15077,0,safe,kk,gov_edu,kk-safe-gov_edu-1,,synthetic
+kk00892,"Айгүл, бос болғанда қоңырау шал. Нан алып келе ме?",0,safe,kk,chat,kk-safe-chat-1,,synthetic
+kk00893,"Назар аударыңыз: ForteBank қауіпсіздік қызметі: жеке кабинетіңізде жаңа құрылғыдан кіру тіркелді. Бұғаттаудан сақтану үшін сайтқа кіріп, растаңыз: https://halyі.example/verify/IbjpcPaU50BnBXFb 💳",1,fraud,kk,bank_phish,kk-fraud-bank_phish-0,greet+emoji,synthetic
+kk00894,Құттықтаймыз!  Сіз Дәріхана акциясында 24 тг жеңіп алдыңыз. Ұтысты алу үшін өтіңіз: http://203.0.113.192/docs/stone-harbor-urban-delta.html,1,fraud,kk,prize,kk-fraud-prize-0,dblspace,synthetic
+kk00895,Назар аударыңыз: Magnum-дан сатып алғаныңыз үшін рахмет. Сомасы 635 теңге. Электрондық чек: https://blog.swift.test,0,safe,kk,purchase,kk-safe-purchase-0,greet,synthetic
+kk00896,"Сәлеметсіз бе! Растау коды: 418705. Кодты ешкімге бермеңіз, банк қызметкерлеріне де.",0,safe,kk,otp,kk-safe-otp-0,greet,synthetic
+kk00897,"Қайырлы күн. шақыру қағазы: сіздің атыңызда 257 ₸ қарыз тіркелген несие бойынша. бүгін өтеңіз, әйтпесе іс сот орындаушыларына жолданады: https://nnetflix.test/index.php?id=79098",1,fraud,kk,debt,kk-fraud-debt-0,lower+nopunct+greet,synthetic
+kk00898,Шұғыл: жиналыс 10:00-ге ауыстырылды. Қатысуыңызды растаңыз.,0,safe,kk,work,kk-safe-work-1,,synthetic
+kk00899,"Jusan: карта *0945-ға 457 теңге түсті. Егер бұл сіз болмасаңыз, картаның артындағы нөмірге қоңырау шалыңыз. пожалуйста",0,safe,kk,bank_notice,kk-safe-bank_notice-1,mix,synthetic
+kk00900,Jusan: сіздің өтінішіңіз бойынша карта *2380 уақытша бұғатталды. Қосымшада немесе бөлімшеде ашуға болады. 🙏,0,safe,kk,bank_notice,kk-safe-bank_notice-2,emoji,synthetic
+kk00901,Сіздің сәлемдемеңіз кеденде ұсталды. Кеден алымын 58 тг 48 сағат ішінде төлеңіз: https://miicrosoft.test//login,1,fraud,kk,delivery_customs,kk-fraud-delivery_customs-0,,synthetic
+kk00902,"Сәлеметсіз бе! Соңғы ескерту. Деректеріңіз белгілі болды. Полицияға жүгінбеңіз, салдарынан аулақ болу үшін 2 281 тг аударыңыз.",1,fraud,kk,fear_secrecy,kk-fraud-fear_secrecy-0,greet,synthetic
+kk00903,"Сәлеметсіз бе! Мен Sulpak бухгалтериясынан Дәулет. Қателесіп 836 теңге жібердік, 8 736 000 25 16 нөміріне қайтарып жіберіңізші. Күніңіз жақсы өтсін!",1,fraud,kk,money_transfer,kk-fraud-money_transfer-0,close,synthetic
+kk00904,Нөміріңіз таңдалды! Сыйлықты алу үшін http://[2001:db8::d3d2]/update сілтемесіне өтіңіз. срочно,1,fraud,kk,prize,kk-fraud-prize-1,mix,synthetic
+kk00905,"Құрметті клиент, деректеріңіз ескірді. Деректерді растаңыз 24 сағат ішінде: http://facebook.bonus-north.invalid/update спс",1,fraud,kk,bank_phish,kk-fraud-bank_phish-1,mix,synthetic
+kk00906,Сіз жеңімпаз атандыңыз! Сыйлықты алу үшін комиссия 370 теңге төлеңіз.,1,fraud,kk,prize,kk-fraud-prize-1,,synthetic
+kk00907,шұғыл: клиент 20:00-ге дейін жауап күтеді.,0,safe,kk,work,kk-safe-work-1,lower,synthetic
+kk00908,"маамн: телефоныңыздан вирус анықтадық. @investkz чатына жазыңыз, біз көмектесеміз.",1,fraud,kk,tech_support,kk-fraud-tech_support-1,lower+typo,synthetic
+kk00909,Jusan: *2914 картасына қолжетімділік шектелді. Картаны қолдануды жалғастыру үшін сілтемеге өтіңіз: http://kaspi-support.invalid/secure/update?id=U7PfEUvzKAC4q Құрметпен.,1,fraud,kk,card_block,kk-fraud-card_block-1,close,synthetic

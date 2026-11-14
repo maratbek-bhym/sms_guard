@@ -1,0 +1,163 @@
+{
+ "version": "1.0.0-synthetic",
+ "algorithm": "MultinomialNB",
+ "features": "word+char+manual",
+ "params": {
+  "clf__alpha": 0.01
+ },
+ "threshold": 0.33577077460468063,
+ "trained_at": "2026-11-14T06:45:11.380103+00:00",
+ "train_data": "synthetic only (ru/kk/en, template-grouped split)",
+ "real_data_used": false,
+ "note": "Метрики получены на синтетических данных тех же генераторов; они НЕ оценивают качество на реальных SMS.",
+ "validation_selection_metrics": {
+  "accuracy": 0.913135593220339,
+  "precision": 0.8532818532818532,
+  "recall": 0.9866071428571429,
+  "f1": 0.9151138716356108,
+  "f2": 0.9567099567099567,
+  "roc_auc": 0.9848070276497696,
+  "pr_auc": 0.9824693697215796,
+  "tn": 210,
+  "fp": 38,
+  "fn": 3,
+  "tp": 221,
+  "threshold": 0.5,
+  "model": "MultinomialNB",
+  "features": "word+char+manual",
+  "best_params": {
+   "clf__alpha": 0.01
+  },
+  "cv_f2": 0.8743188370150289,
+  "fit_seconds": 8.5,
+  "predict_ms_per_sms": 0.163
+ },
+ "test_metrics_selected_model_trained_on_train": {
+  "accuracy": 0.6532438478747203,
+  "precision": 0.5935828877005348,
+  "recall": 0.9866666666666667,
+  "f1": 0.7412353923205343,
+  "f2": 0.8712715855572999,
+  "roc_auc": 0.7826926926926927,
+  "pr_auc": 0.7648959171992589,
+  "tn": 70,
+  "fp": 152,
+  "fn": 3,
+  "tp": 222,
+  "threshold": 0.33577077460468063
+ },
+ "test_per_language": {
+  "ru": {
+   "accuracy": 0.6436170212765957,
+   "precision": 0.5714285714285714,
+   "recall": 0.9887640449438202,
+   "f1": 0.7242798353909465,
+   "f2": 0.8627450980392157,
+   "roc_auc": 0.6743842923618204,
+   "pr_auc": 0.6303432606751002,
+   "tn": 33,
+   "fp": 66,
+   "fn": 1,
+   "tp": 88,
+   "threshold": 0.33577077460468063
+  },
+  "kk": {
+   "accuracy": 0.7109375,
+   "precision": 0.6224489795918368,
+   "recall": 1.0,
+   "f1": 0.7672955974842768,
+   "f2": 0.8918128654970761,
+   "roc_auc": 0.8715439197455347,
+   "pr_auc": 0.807117153782838,
+   "tn": 30,
+   "fp": 37,
+   "fn": 0,
+   "tp": 61,
+   "threshold": 0.33577077460468063
+  },
+  "en": {
+   "accuracy": 0.6106870229007634,
+   "precision": 0.5983606557377049,
+   "recall": 0.9733333333333334,
+   "f1": 0.7411167512690355,
+   "f2": 0.8649289099526066,
+   "roc_auc": 0.8179761904761905,
+   "pr_auc": 0.8767568633390852,
+   "tn": 7,
+   "fp": 49,
+   "fn": 2,
+   "tp": 73,
+   "threshold": 0.33577077460468063
+  }
+ },
+ "test_per_category": {
+  "fraud/account_pwd": {
+   "n": 22,
+   "error_rate": 0.045
+  },
+  "fraud/bank_phish": {
+   "n": 39,
+   "error_rate": 0.0
+  },
+  "fraud/bonus_refund": {
+   "n": 18,
+   "error_rate": 0.0
+  },
+  "fraud/fake_job": {
+   "n": 15,
+   "error_rate": 0.0
+  },
+  "fraud/fear_secrecy": {
+   "n": 22,
+   "error_rate": 0.0
+  },
+  "fraud/gov_payment": {
+   "n": 15,
+   "error_rate": 0.0
+  },
+  "fraud/money_transfer": {
+   "n": 41,
+   "error_rate": 0.0
+  },
+  "fraud/prize": {
+   "n": 19,
+   "error_rate": 0.105
+  },
+  "fraud/tech_support": {
+   "n": 34,
+   "error_rate": 0.0
+  },
+  "safe/bank_notice": {
+   "n": 78,
+   "error_rate": 0.808
+  },
+  "safe/chat": {
+   "n": 23,
+   "error_rate": 0.043
+  },
+  "safe/delivery": {
+   "n": 33,
+   "error_rate": 1.0
+  },
+  "safe/otp": {
+   "n": 55,
+   "error_rate": 1.0
+  },
+  "safe/purchase": {
+   "n": 33,
+   "error_rate": 0.0
+  }
+ },
+ "suspicious_eval": {
+  "n": 180,
+  "mean_p": 0.6846119609291224,
+  "share_ge_thr": 0.7222222222222222,
+  "by_lang_share_ge_thr": {
+   "ru": 0.7166666666666667,
+   "kk": 0.8833333333333333,
+   "en": 0.5666666666666667
+  }
+ },
+ "refit_on_train_plus_val": true,
+ "test_proba_after_refit_mean": 0.8262406282513091
+}

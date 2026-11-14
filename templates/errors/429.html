@@ -1,0 +1,4 @@
+{% extends "errors/_base.html" %}
+{% block title %}Слишком много запросов{% endblock %}
+{% block code %}Слишком много запросов{% endblock %}
+{% block text %}Подождите немного и повторите попытку.{% if retry_after %} Повторите через {{ retry_after }} с.{% endif %}{% endblock %}

@@ -1,0 +1,85 @@
+{% load sg %}
+{# Результат проверки. Ссылки показываются только текстом (defang), никогда как <a>. #}
+<section class="panel verdict {{ check.risk_level|level_class }}" aria-label="Результат проверки">
+  <div>
+    <div class="score">{{ check.risk_score }}<small>/ 100</small></div>
+  </div>
+  <div>
+    <div class="d-flex flex-wrap align-items-center gap-2">
+      <span class="tag {{ check.risk_level|level_class }}">{{ check.category|category_label }}</span>
+      <span class="muted">Уровень риска: <strong>{{ check.risk_level|level_label }}</strong></span>
+    </div>
+    <div class="ruler p-{{ check.risk_score }}" role="img" aria-label="Risk Score {{ check.risk_score }} из 100"><span class="ruler-marker"></span></div>
+    <div class="ruler-ticks" aria-hidden="true"><span class="l0">0</span><span class="p-35">35</span><span class="p-70">70</span><span>100</span></div>
+  </div>
+</section>
+
+<div class="row g-3 mt-1">
+  <div class="col-lg-7">
+    <div class="panel h-100">
+      <div class="panel-head"><h2>Почему такая оценка</h2></div>
+      <div class="panel-body">
+        <ul class="reasons">{% for r in check.reasons %}<li>{{ r }}</li>{% empty %}<li>Признаков мошенничества не обнаружено</li>{% endfor %}</ul>
+        <div class="callout mt-3"><strong>Что делать.</strong> {{ check.recommendation }}</div>
+      </div>
+    </div>
+  </div>
+  <div class="col-lg-5">
+    <div class="panel h-100">
+      <div class="panel-head"><h2>Показатели</h2></div>
+      <div class="panel-body">
+        <dl class="kv">
+          {% if check.kind == "SMS" %}
+          <dt>Вероятность (текст)</dt><dd class="font-mono">{{ check.p_sms|pct }}</dd>
+          <dt>Язык</dt><dd>{{ check.language|lang_label }}</dd>
+          {% endif %}
+          {% if check.p_url_max is not None %}<dt>Вероятность (ссылка)</dt><dd class="font-mono">{{ check.p_url_max|pct }}</dd>{% endif %}
+          {% if check.kind == "SMS" %}
+          <dt>Приёмы обмана</dt>
+          <dd>{% for g in check.se_groups %}<span class="chip">{{ g|se_label }}</span>{% empty %}не найдены{% endfor %}</dd>
+          {% endif %}
+        </dl>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% if urls %}
+<div class="panel mt-3">
+  <div class="panel-head"><h2>{% if check.kind == "SMS" %}Ссылки в сообщении ({{ urls|length }}){% else %}Анализ ссылки{% endif %}</h2><span class="muted small">адреса показаны текстом и не открываются</span></div>
+  <div class="panel-body">
+    {% for u in urls %}
+    <div class="urlrow">
+      <div class="d-flex flex-wrap justify-content-between align-items-start gap-2">
+        <div class="min-w-0">
+          {% if u.url %}<code class="url">{{ u.url|defang }}</code>{% else %}<code class="url">{{ u.domain|defang }}</code> <span class="muted small">полный адрес не сохранён</span>{% endif %}
+        </div>
+        <div class="d-flex align-items-center gap-2">
+          <span class="muted small font-mono">{{ u.p_url|pct }}</span>
+          <span class="tag {{ u.category|url_class }}">{{ u.category|url_label }}</span>
+        </div>
+      </div>
+      {% if u.reasons %}<ul class="reasons small mt-2">{% for r in u.reasons|slice:":4" %}<li>{{ r }}</li>{% endfor %}</ul>{% endif %}
+      {% if check.kind == "SMS" and u.url and show_result %}
+      <form method="post" action="{% url 'checks:url' %}" class="mt-2">{% csrf_token %}<input type="hidden" name="url" value="{{ u.url }}">
+        <button class="btn btn-outline-secondary btn-sm" type="submit" data-busy="Проверяем…">Проверить отдельно</button></form>
+      {% endif %}
+    </div>
+    {% endfor %}
+  </div>
+</div>
+{% endif %}
+
+{% if check.kind == "URL" and check.main_url.features %}
+<div class="panel mt-3">
+  <div class="panel-head"><h2>Признаки адреса</h2></div>
+  <div class="panel-body"><dl class="kv small">
+    {% for k, v in check.main_url.features.items %}<dt class="font-mono">{{ k }}</dt><dd class="font-mono">{{ v }}</dd>{% endfor %}
+  </dl></div>
+</div>
+{% endif %}
+
+<details class="mt-3 muted small">
+  <summary>Ограничения оценки</summary>
+  <ul class="mt-2">{% for w in check.warnings %}<li>{{ w }}</li>{% endfor %}<li>{{ check.disclaimer }}</li></ul>
+</details>

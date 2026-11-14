@@ -1,0 +1,290 @@
+{
+ "sms_raw_rows": 3330,
+ "sms_empty": 0,
+ "sms_exact_dups_removed": 0,
+ "sms_contradictory_label_groups": 0,
+ "sms_template_level_duplicates": 275,
+ "sms_bad_class3": 0,
+ "sms_label_mismatch": 0,
+ "sms_lang_mismatch_by_lang": {
+  "en": 28,
+  "ru": 13,
+  "kk": 6
+ },
+ "sms_near_dup_pairs_same_family": 639,
+ "sms_near_dup_pairs_cross_family": 0,
+ "sms_family_overlap_between_splits": 0,
+ "sms_test_to_train_max_cos": {
+  "median": 0.27036004790761586,
+  "p95": 0.40974871735154056,
+  "max": 0.5432358944863758,
+  "n_ge_0.95": 0
+ },
+ "sms_split_counts": [
+  {
+   "split": "eval_only",
+   "lang": "en",
+   "fraud": 0,
+   "safe": 0,
+   "suspicious": 60
+  },
+  {
+   "split": "eval_only",
+   "lang": "kk",
+   "fraud": 0,
+   "safe": 0,
+   "suspicious": 60
+  },
+  {
+   "split": "eval_only",
+   "lang": "ru",
+   "fraud": 0,
+   "safe": 0,
+   "suspicious": 60
+  },
+  {
+   "split": "test",
+   "lang": "en",
+   "fraud": 75,
+   "safe": 56,
+   "suspicious": 0
+  },
+  {
+   "split": "test",
+   "lang": "kk",
+   "fraud": 61,
+   "safe": 67,
+   "suspicious": 0
+  },
+  {
+   "split": "test",
+   "lang": "ru",
+   "fraud": 89,
+   "safe": 99,
+   "suspicious": 0
+  },
+  {
+   "split": "train",
+   "lang": "en",
+   "fraud": 375,
+   "safe": 387,
+   "suspicious": 0
+  },
+  {
+   "split": "train",
+   "lang": "kk",
+   "fraud": 304,
+   "safe": 291,
+   "suspicious": 0
+  },
+  {
+   "split": "train",
+   "lang": "ru",
+   "fraud": 447,
+   "safe": 427,
+   "suspicious": 0
+  },
+  {
+   "split": "val",
+   "lang": "en",
+   "fraud": 75,
+   "safe": 82,
+   "suspicious": 0
+  },
+  {
+   "split": "val",
+   "lang": "kk",
+   "fraud": 60,
+   "safe": 67,
+   "suspicious": 0
+  },
+  {
+   "split": "val",
+   "lang": "ru",
+   "fraud": 89,
+   "safe": 99,
+   "suspicious": 0
+  }
+ ],
+ "sms_families": {
+  "train": 100,
+  "val": 21,
+  "test": 20,
+  "eval_only": 9
+ },
+ "sms_length_chars": {
+  "en/fraud": {
+   "mean": 108.2,
+   "min": 44.0,
+   "max": 213.0
+  },
+  "en/safe": {
+   "mean": 74.8,
+   "min": 26.0,
+   "max": 217.0
+  },
+  "en/suspicious": {
+   "mean": 75.4,
+   "min": 44.0,
+   "max": 212.0
+  },
+  "kk/fraud": {
+   "mean": 120.0,
+   "min": 60.0,
+   "max": 248.0
+  },
+  "kk/safe": {
+   "mean": 74.2,
+   "min": 28.0,
+   "max": 261.0
+  },
+  "kk/suspicious": {
+   "mean": 73.0,
+   "min": 45.0,
+   "max": 206.0
+  },
+  "ru/fraud": {
+   "mean": 118.2,
+   "min": 58.0,
+   "max": 244.0
+  },
+  "ru/safe": {
+   "mean": 71.0,
+   "min": 25.0,
+   "max": 193.0
+  },
+  "ru/suspicious": {
+   "mean": 78.1,
+   "min": 40.0,
+   "max": 175.0
+  }
+ },
+ "sms_class_balance": {
+  "en": {
+   "fraud": 525,
+   "safe": 525,
+   "suspicious": 60
+  },
+  "kk": {
+   "fraud": 425,
+   "safe": 425,
+   "suspicious": 60
+  },
+  "ru": {
+   "fraud": 625,
+   "safe": 625,
+   "suspicious": 60
+  }
+ },
+ "sms_url_rule_violations": 0,
+ "url_raw_rows": 12000,
+ "url_exact_dups": 0,
+ "url_empty": 0,
+ "url_label_values": [
+  0,
+  1
+ ],
+ "url_contradictory_labels": 0,
+ "url_rule_violations": 0,
+ "url_domain_overlap_between_splits": 0,
+ "url_split_counts": [
+  {
+   "split": "test",
+   "0": 858,
+   "1": 858
+  },
+  {
+   "split": "train",
+   "0": 4285,
+   "1": 4285
+  },
+  {
+   "split": "val",
+   "0": 857,
+   "1": 857
+  }
+ ],
+ "url_domains": {
+  "train": 6011,
+  "val": 1205,
+  "test": 1206
+ },
+ "url_single_feature_top5": [
+  {
+   "feature": "num_subdomains",
+   "stump_accuracy": 0.72,
+   "auc": 0.702
+  },
+  {
+   "feature": "num_dots",
+   "stump_accuracy": 0.669,
+   "auc": 0.635
+  },
+  {
+   "feature": "longest_label_len",
+   "stump_accuracy": 0.652,
+   "auc": 0.659
+  },
+  {
+   "feature": "num_hyphens_host",
+   "stump_accuracy": 0.652,
+   "auc": 0.655
+  },
+  {
+   "feature": "num_suspicious_words",
+   "stump_accuracy": 0.642,
+   "auc": 0.632
+  }
+ ],
+ "url_kind_counts": {
+  "legit_plain": 1291,
+  "legit_sub": 838,
+  "legit_www": 799,
+  "phish_no_kw": 703,
+  "phish_brand_kw": 645,
+  "legit_hard_kw": 585,
+  "phish_brand_typo": 575,
+  "phish_kw_host": 565,
+  "phish_plain_like": 563,
+  "legit_brand_sub": 549,
+  "phish_brand_sub": 476,
+  "legit_brand": 468,
+  "legit_long": 409,
+  "phish_ip": 364,
+  "phish_deep_sub": 358,
+  "phish_short": 354,
+  "legit_token_path": 297,
+  "legit_port": 267,
+  "phish_params": 261,
+  "legit_short": 256,
+  "phish_punycode": 256,
+  "phish_port": 240,
+  "phish_userinfo": 239,
+  "phish_long": 222,
+  "phish_brand_mixed": 179,
+  "legit_idn": 127,
+  "legit_ip": 114
+ },
+ "url_feature_means_by_class": {
+  "0": {
+   "url_length": 55.463,
+   "num_subdomains": 0.608,
+   "num_hyphens_host": 0.241,
+   "has_ip": 0.019,
+   "is_https": 0.867,
+   "num_suspicious_words": 0.53,
+   "host_entropy": 3.308
+  },
+  "1": {
+   "url_length": 49.066,
+   "num_subdomains": 0.287,
+   "num_hyphens_host": 0.603,
+   "has_ip": 0.061,
+   "is_https": 0.654,
+   "num_suspicious_words": 0.94,
+   "host_entropy": 3.404
+  }
+ },
+ "url_parquet": "не создан: ImportError",
+ "generated_on": "2026-11-14"
+}

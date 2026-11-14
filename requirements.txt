@@ -1,0 +1,15 @@
+# SMS Guard. Python 3.12+ (numpy 2.5 и scipy 1.18 не поддерживают 3.11).
+# Версии ML-пакетов зафиксированы: модели ml/artifacts/*.joblib сохранены scikit-learn 1.9.1,
+# с другой версией pickle может не загрузиться или дать другие предсказания.
+
+# --- ML-ядро ---
+scikit-learn==1.9.1
+pandas==3.0.5
+numpy==2.5.3
+joblib==1.6.0
+PyYAML==6.0.3
+
+# --- Веб-приложение ---
+Django>=5.2,<5.3
+djangorestframework>=3.16,<3.19
+tzdata; sys_platform == "win32"   # часовые пояса Django на Windows (Asia/Almaty)

@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+{% load sg %}
+{% block title %}Проверка SMS{% endblock %}
+{% block content %}
+<h1 class="mb-1">Проверка SMS</h1>
+<p class="muted measure">Вставьте текст сообщения. Мы оценим текст, найдём ссылки и проверим каждую отдельно.</p>
+
+{% if model_error %}<div class="alert alert-danger" role="alert"><strong>Анализ недоступен.</strong> {{ model_error }}</div>
+{% elif health.status != "ok" %}<div class="alert alert-warning" role="alert">Модель не загружена — проверка сейчас невозможна.</div>{% endif %}
+
+<div class="row g-4">
+  <div class="col-lg-5">
+    <form method="post" class="panel panel-body" novalidate>
+      {% csrf_token %}
+      <label class="form-label" for="{{ form.text.id_for_label }}">{{ form.text.label }}</label>
+      {{ form.text }}
+      {% if form.text.errors %}<div class="errorlist small mt-1">{{ form.text.errors.0 }}</div>{% endif %}
+      <div class="form-check mt-3">
+        {{ form.save_text }}
+        <label class="form-check-label" for="{{ form.save_text.id_for_label }}">Сохранить текст SMS в истории</label>
+        <div class="form-text">Без галочки текст нигде не хранится: в истории останутся только оценка и домены ссылок.</div>
+      </div>
+      <button class="btn btn-primary mt-3 px-4" type="submit" data-busy="Проверяем…">Проверить</button>
+    </form>
+  </div>
+  <div class="col-lg-7">
+    {% if show_result %}
+      {% include "checks/_result.html" %}
+      <p class="mt-3 mb-0"><a href="{% url 'checks:detail' check.pk %}">Открыть запись в истории</a></p>
+    {% else %}
+      <div class="panel empty"><i class="bi bi-chat-left-text"></i>Результат появится здесь после проверки.</div>
+    {% endif %}
+  </div>
+</div>
+{% endblock %}

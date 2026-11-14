@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+{% block title %}Вход{% endblock %}
+{% block body %}
+<div class="auth">
+  {% include "registration/_auth_side.html" %}
+  <section class="auth-main">
+    <div class="auth-card">
+      <h2 class="h3 mb-1">Вход</h2>
+      <p class="muted mb-4">Нет аккаунта? <a href="{% url 'accounts:register' %}">Зарегистрируйтесь</a></p>
+      <form method="post" novalidate>
+        {% csrf_token %}
+        {% if form.non_field_errors %}<div class="alert alert-danger" role="alert">{{ form.non_field_errors.0 }}</div>{% endif %}
+        <div class="mb-3"><label class="form-label" for="{{ form.username.id_for_label }}">Имя пользователя</label>{{ form.username }}</div>
+        <div class="mb-4"><label class="form-label" for="{{ form.password.id_for_label }}">Пароль</label>{{ form.password }}</div>
+        <input type="hidden" name="next" value="{{ next }}">
+        <button class="btn btn-primary w-100 py-2" type="submit">Войти</button>
+      </form>
+    </div>
+  </section>
+</div>
+{% endblock %}

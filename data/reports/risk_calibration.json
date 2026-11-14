@@ -1,0 +1,207 @@
+{
+ "validation_initial_weights_no_mitigation": {
+  "w": [
+   0.5,
+   0.3,
+   0.2
+  ],
+  "high_min": 70,
+  "penalty": 0,
+  "recall_med+": 0.9955357142857143,
+  "recall_high": 0.9642857142857143,
+  "safe_high": 0.12096774193548387,
+  "safe_med+": 0.15725806451612903
+ },
+ "validation_initial_weights": {
+  "w": [
+   0.5,
+   0.3,
+   0.2
+  ],
+  "high_min": 70,
+  "penalty": 20,
+  "recall_med+": 0.9955357142857143,
+  "recall_high": 0.9642857142857143,
+  "safe_high": 0.12096774193548387,
+  "safe_med+": 0.15725806451612903
+ },
+ "validation_top10": [
+  {
+   "w": [
+    0.5,
+    0.2,
+    0.8
+   ],
+   "high_min": 70,
+   "penalty": 0,
+   "recall_med+": 0.9955357142857143,
+   "recall_high": 0.7142857142857143,
+   "safe_high": 0.0,
+   "safe_med+": 0.14516129032258066
+  },
+  {
+   "w": [
+    0.5,
+    0.2,
+    0.8
+   ],
+   "high_min": 70,
+   "penalty": 20,
+   "recall_med+": 0.9955357142857143,
+   "recall_high": 0.7142857142857143,
+   "safe_high": 0.0,
+   "safe_med+": 0.14516129032258066
+  },
+  {
+   "w": [
+    0.5,
+    0.2,
+    0.8
+   ],
+   "high_min": 70,
+   "penalty": 35,
+   "recall_med+": 0.9955357142857143,
+   "recall_high": 0.7142857142857143,
+   "safe_high": 0.0,
+   "safe_med+": 0.14516129032258066
+  },
+  {
+   "w": [
+    0.5,
+    0.2,
+    0.8
+   ],
+   "high_min": 80,
+   "penalty": 0,
+   "recall_med+": 0.9955357142857143,
+   "recall_high": 0.6383928571428571,
+   "safe_high": 0.0,
+   "safe_med+": 0.14516129032258066
+  },
+  {
+   "w": [
+    0.5,
+    0.2,
+    0.8
+   ],
+   "high_min": 80,
+   "penalty": 20,
+   "recall_med+": 0.9955357142857143,
+   "recall_high": 0.6383928571428571,
+   "safe_high": 0.0,
+   "safe_med+": 0.14516129032258066
+  },
+  {
+   "w": [
+    0.5,
+    0.2,
+    0.8
+   ],
+   "high_min": 80,
+   "penalty": 35,
+   "recall_med+": 0.9955357142857143,
+   "recall_high": 0.6383928571428571,
+   "safe_high": 0.0,
+   "safe_med+": 0.14516129032258066
+  },
+  {
+   "w": [
+    0.2,
+    0.2,
+    0.3
+   ],
+   "high_min": 70,
+   "penalty": 0,
+   "recall_med+": 0.9955357142857143,
+   "recall_high": 0.6964285714285714,
+   "safe_high": 0.0,
+   "safe_med+": 0.14919354838709678
+  },
+  {
+   "w": [
+    0.2,
+    0.2,
+    0.3
+   ],
+   "high_min": 70,
+   "penalty": 20,
+   "recall_med+": 0.9955357142857143,
+   "recall_high": 0.6964285714285714,
+   "safe_high": 0.0,
+   "safe_med+": 0.14919354838709678
+  },
+  {
+   "w": [
+    0.2,
+    0.2,
+    0.3
+   ],
+   "high_min": 70,
+   "penalty": 35,
+   "recall_med+": 0.9955357142857143,
+   "recall_high": 0.6964285714285714,
+   "safe_high": 0.0,
+   "safe_med+": 0.14919354838709678
+  },
+  {
+   "w": [
+    0.2,
+    0.2,
+    0.3
+   ],
+   "high_min": 80,
+   "penalty": 0,
+   "recall_med+": 0.9955357142857143,
+   "recall_high": 0.6785714285714286,
+   "safe_high": 0.0,
+   "safe_med+": 0.14919354838709678
+  }
+ ],
+ "n_variants": 216,
+ "n_meeting_recall": 162,
+ "chosen": {
+  "w": [
+   0.5,
+   0.2,
+   0.8
+  ],
+  "high_min": 70,
+  "penalty": 0,
+  "recall_med+": 0.9955357142857143,
+  "recall_high": 0.7142857142857143,
+  "safe_high": 0.0,
+  "safe_med+": 0.14516129032258066
+ },
+ "test_chosen_once": {
+  "recall_med+": 1.0,
+  "recall_high": 0.7244444444444444,
+  "safe_high": 0.23423423423423423,
+  "safe_med+": 0.6531531531531531
+ },
+ "test_initial_weights": {
+  "recall_med+": 1.0,
+  "recall_high": 0.7244444444444444,
+  "safe_high": 0.09009009009009009,
+  "safe_med+": 0.6441441441441441
+ },
+ "test_chosen_by_language": {
+  "ru": {
+   "recall_med+": 1.0,
+   "recall_high": 0.6741573033707865,
+   "safe_high": 0.24242424242424243,
+   "safe_med+": 0.5252525252525253
+  },
+  "kk": {
+   "recall_med+": 1.0,
+   "recall_high": 0.6065573770491803,
+   "safe_high": 0.34328358208955223,
+   "safe_med+": 0.6417910447761194
+  },
+  "en": {
+   "recall_med+": 1.0,
+   "recall_high": 0.88,
+   "safe_high": 0.08928571428571429,
+   "safe_med+": 0.8928571428571429
+  }
+ }
+}

@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% block title %}Регистрация{% endblock %}
+{% block body %}
+<div class="auth">
+  {% include "registration/_auth_side.html" %}
+  <section class="auth-main">
+    <div class="auth-card">
+      <h2 class="h3 mb-1">Создать аккаунт</h2>
+      <p class="muted mb-4">Уже есть аккаунт? <a href="{% url 'accounts:login' %}">Войдите</a></p>
+      <form method="post" novalidate>
+        {% csrf_token %}
+        {% for f in form %}
+        <div class="mb-3">
+          <label class="form-label" for="{{ f.id_for_label }}">{{ f.label }}</label>
+          {{ f }}
+          {% if f.errors %}<ul class="errorlist small mt-1 mb-0 ps-3">{% for e in f.errors %}<li>{{ e }}</li>{% endfor %}</ul>
+          {% elif f.help_text %}<div class="form-text">{{ f.help_text|safe }}</div>{% endif %}
+        </div>
+        {% endfor %}
+        <button class="btn btn-primary w-100 py-2 mt-2" type="submit">Зарегистрироваться</button>
+      </form>
+    </div>
+  </section>
+</div>
+{% endblock %}

@@ -1,0 +1,4 @@
+{% extends "errors/_base.html" %}
+{% block title %}Ошибка сервера{% endblock %}
+{% block code %}Ошибка сервера{% endblock %}
+{% block text %}Что-то пошло не так. Попробуйте ещё раз позже.{% if retry_after %} Повторите через {{ retry_after }} с.{% endif %}{% endblock %}

@@ -1,0 +1,48 @@
+{% extends "base.html" %}
+{% load sg %}
+{% block title %}Панель{% endblock %}
+{% block content %}
+<div class="d-flex flex-wrap justify-content-between align-items-end gap-2 mb-3">
+  <div><h1 class="mb-0">Панель</h1><p class="muted mb-0">Ваши проверки за всё время и последние 14 дней</p></div>
+  <div class="d-flex gap-2">
+    <a class="btn btn-primary" href="{% url 'checks:sms' %}">Проверить SMS</a>
+    <a class="btn btn-outline-secondary" href="{% url 'checks:url' %}">Проверить ссылку</a>
+  </div>
+</div>
+
+{% if health.status != "ok" %}<div class="alert alert-warning" role="alert"><strong>Модель недоступна.</strong> Проверки отключены, история доступна.</div>{% endif %}
+
+<div class="panel mb-3"><div class="ledger">
+  <div><div class="n">{{ stats.total }}</div><div class="l">Всего проверок</div></div>
+  <div><div class="n high">{{ stats.by_category.FRAUDULENT }}</div><div class="l">Мошенничество</div></div>
+  <div><div class="n mid">{{ stats.by_category.SUSPICIOUS }}</div><div class="l">Подозрительно</div></div>
+  <div><div class="n">{% if stats.avg_risk is None %}—{% else %}{{ stats.avg_risk }}{% endif %}</div><div class="l">Средний риск (0–100)</div></div>
+</div></div>
+
+{% if stats.total %}
+<div class="row g-3 mb-3">
+  <div class="col-lg-8"><div class="panel h-100"><div class="panel-head"><h2>Проверки по дням</h2><span class="muted small">SMS: {{ stats.by_kind.SMS }} · ссылки: {{ stats.by_kind.URL }}</span></div>
+    <div class="panel-body"><div class="chart-box"><canvas id="chart-days" role="img" aria-label="Количество проверок по дням"></canvas></div></div></div></div>
+  <div class="col-lg-4"><div class="panel h-100"><div class="panel-head"><h2>Категории</h2></div>
+    <div class="panel-body"><div class="chart-box"><canvas id="chart-cat" role="img" aria-label="Распределение по категориям"></canvas></div></div></div></div>
+</div>
+{{ chart_json|json_script:"chart-data" }}
+{% endif %}
+
+<div class="panel">
+  <div class="panel-head"><h2>Последние проверки</h2><a href="{% url 'checks:history' %}">Вся история</a></div>
+  {% if recent %}
+  <div class="table-responsive"><table class="table table-sg table-hover mb-0">
+    <thead><tr><th>Дата</th><th>Тип</th><th>Категория</th><th class="text-end">Риск</th><th></th></tr></thead>
+    <tbody>{% for c in recent %}<tr>
+      <td>{{ c.created_at|date:"d.m.Y H:i" }}</td><td>{{ c.get_kind_display }}</td>
+      <td><span class="tag {{ c.risk_level|level_class }}">{{ c.category|category_label }}</span></td>
+      <td class="text-end score-cell">{{ c.risk_score }}</td>
+      <td class="text-end"><a href="{% url 'checks:detail' c.pk %}">Подробнее</a></td></tr>{% endfor %}</tbody>
+  </table></div>
+  {% else %}
+  <div class="empty"><i class="bi bi-inbox"></i>Проверок пока нет. <a href="{% url 'checks:sms' %}">Проверьте первое сообщение</a>, и оно появится здесь.</div>
+  {% endif %}
+</div>
+{% endblock %}
+{% block scripts %}{% if stats.total %}{% load static %}<script src="{% static 'vendor/chartjs/chart.umd.js' %}"></script><script src="{% static 'js/dashboard.js' %}"></script>{% endif %}{% endblock %}

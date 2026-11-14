@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+{% load sg %}
+{% block title %}Проверка №{{ check.pk }}{% endblock %}
+{% block content %}
+<nav aria-label="breadcrumb"><a href="{% url 'checks:history' %}" class="small">← История</a></nav>
+<div class="d-flex flex-wrap justify-content-between align-items-end gap-2 my-2">
+  <div><h1 class="mb-0">{% if check.kind == "SMS" %}Проверка SMS{% else %}Проверка ссылки{% endif %}</h1>
+  <p class="muted mb-0">{{ check.created_at|date:"d.m.Y H:i" }} · запись №{{ check.pk }}</p></div>
+  <a class="btn btn-outline-danger btn-sm" href="{% url 'checks:delete' check.pk %}">Удалить запись</a>
+</div>
+
+{% if check.kind == "SMS" %}
+<div class="panel mb-3"><div class="panel-head"><h2>Текст сообщения</h2></div><div class="panel-body">
+  {% if check.text_saved %}<pre class="smstext">{{ check.sms_text }}</pre>
+  {% else %}<p class="muted mb-0">Текст не сохранён: при проверке не было согласия. Длина сообщения — {{ check.text_length }} симв.</p>{% endif %}
+</div></div>
+{% endif %}
+
+{% include "checks/_result.html" %}
+
+<div class="panel mt-3"><div class="panel-body">
+  <dl class="kv small mb-0">
+    <dt>Версии моделей</dt><dd class="font-mono">{% for k, v in check.model_versions.items %}{% if v %}{{ k }}: {{ v }}{% if not forloop.last %} · {% endif %}{% endif %}{% endfor %}</dd>
+    {% if check.applied_rules %}<dt>Сработавшие правила</dt><dd class="font-mono">{{ check.applied_rules|join:", " }}</dd>{% endif %}
+  </dl>
+</div></div>
+{% endblock %}

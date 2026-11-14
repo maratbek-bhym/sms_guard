@@ -1,0 +1,341 @@
+{
+ "version": "1.0.0-synthetic",
+ "algorithm": "HistGradientBoosting",
+ "params": {
+  "clf__learning_rate": 0.05,
+  "clf__max_depth": 6
+ },
+ "features": [
+  "url_length",
+  "host_length",
+  "path_length",
+  "num_dots",
+  "num_subdomains",
+  "num_hyphens_host",
+  "num_digits_url",
+  "digit_ratio_host",
+  "num_special_chars",
+  "has_ip",
+  "is_https",
+  "nonstandard_port",
+  "has_at",
+  "double_slash_in_path",
+  "is_shortener",
+  "num_suspicious_words",
+  "has_punycode",
+  "mixed_script",
+  "brand_lookalike",
+  "host_entropy",
+  "suspicious_tld",
+  "num_query_params",
+  "path_depth",
+  "brand_in_host_mismatch",
+  "query_length",
+  "longest_label_len",
+  "has_random_token"
+ ],
+ "t1": 0.1861,
+ "t2": 0.5431,
+ "trained_at": "2026-11-14T06:46:00.543488+00:00",
+ "real_data_used": false,
+ "note": "Обучено только на синтетических URL (.example/.test/.invalid). Метрики НЕ оценивают качество на реальных URL; признак TLD не информативен.",
+ "validation_table": [
+  {
+   "accuracy": 0.8611435239206534,
+   "precision": 0.873341375150784,
+   "recall": 0.8448074679113186,
+   "f1": 0.8588374851720048,
+   "f2": 0.8503641061780597,
+   "roc_auc": 0.9418339462644785,
+   "pr_auc": 0.9514729532365699,
+   "tn": 752,
+   "fp": 105,
+   "fn": 133,
+   "tp": 724,
+   "threshold": 0.5,
+   "model": "LogisticRegression",
+   "best_params": {
+    "clf__C": 1
+   },
+   "cv_f2": 0.8663227700189171,
+   "fit_seconds": 1.2
+  },
+  {
+   "accuracy": 0.9037339556592765,
+   "precision": 0.9138755980861244,
+   "recall": 0.8914819136522754,
+   "f1": 0.90253987005316,
+   "f2": 0.8958724202626641,
+   "roc_auc": 0.9614432043613648,
+   "pr_auc": 0.9699579766255354,
+   "tn": 785,
+   "fp": 72,
+   "fn": 93,
+   "tp": 764,
+   "threshold": 0.5,
+   "model": "RandomForest",
+   "best_params": {
+    "clf__max_depth": 8,
+    "clf__n_estimators": 400
+   },
+   "cv_f2": 0.8975355072629947,
+   "fit_seconds": 40.6
+  },
+  {
+   "accuracy": 0.9060676779463244,
+   "precision": 0.9192771084337349,
+   "recall": 0.8903150525087514,
+   "f1": 0.9045643153526971,
+   "f2": 0.8959605448567403,
+   "roc_auc": 0.9633732226471816,
+   "pr_auc": 0.971471960851027,
+   "tn": 790,
+   "fp": 67,
+   "fn": 94,
+   "tp": 763,
+   "threshold": 0.5,
+   "model": "HistGradientBoosting",
+   "best_params": {
+    "clf__learning_rate": 0.05,
+    "clf__max_depth": 6
+   },
+   "cv_f2": 0.8868722908140716,
+   "fit_seconds": 3.8
+  }
+ ],
+ "category_breakdown_validation": {
+  "SAFE": {
+   "n": 662,
+   "phish_share": 0.0634441087613293
+  },
+  "SUSPICIOUS": {
+   "n": 279,
+   "phish_share": 0.2831541218637993
+  },
+  "DANGEROUS": {
+   "n": 773,
+   "phish_share": 0.9521345407503234
+  }
+ },
+ "test_metrics_thr0.5_trained_on_train": {
+  "accuracy": 0.8782051282051282,
+  "precision": 0.9021065675340768,
+  "recall": 0.8484848484848485,
+  "f1": 0.8744744744744745,
+  "f2": 0.858693087992451,
+  "roc_auc": 0.9578490662406747,
+  "pr_auc": 0.9654168740049281,
+  "tn": 779,
+  "fp": 79,
+  "fn": 130,
+  "tp": 728,
+  "threshold": 0.5
+ },
+ "test_metrics_at_t1": {
+  "accuracy": 0.8199300699300699,
+  "precision": 0.7544022242817423,
+  "recall": 0.9487179487179487,
+  "f1": 0.8404749612803304,
+  "f2": 0.9022389714032365,
+  "roc_auc": 0.9578490662406747,
+  "pr_auc": 0.9654168740049281,
+  "tn": 593,
+  "fp": 265,
+  "fn": 44,
+  "tp": 814,
+  "threshold": 0.1861
+ },
+ "test_accuracy_by_kind": {
+  "legit_brand": 1.0,
+  "legit_brand_sub": 1.0,
+  "legit_hard_kw": 1.0,
+  "legit_idn": 0.364,
+  "legit_ip": 0.824,
+  "legit_long": 1.0,
+  "legit_plain": 0.884,
+  "legit_port": 0.969,
+  "legit_short": 0.459,
+  "legit_sub": 1.0,
+  "legit_token_path": 0.974,
+  "legit_www": 1.0,
+  "phish_brand_kw": 1.0,
+  "phish_brand_mixed": 1.0,
+  "phish_brand_sub": 1.0,
+  "phish_brand_typo": 0.966,
+  "phish_deep_sub": 1.0,
+  "phish_ip": 1.0,
+  "phish_kw_host": 1.0,
+  "phish_long": 1.0,
+  "phish_no_kw": 1.0,
+  "phish_params": 1.0,
+  "phish_plain_like": 0.037,
+  "phish_port": 0.636,
+  "phish_punycode": 0.812,
+  "phish_short": 0.646,
+  "phish_userinfo": 1.0
+ },
+ "top10_permutation_importance_val": [
+  {
+   "feature": "num_subdomains",
+   "f2_drop": 0.2103
+  },
+  {
+   "feature": "brand_in_host_mismatch",
+   "f2_drop": 0.1122
+  },
+  {
+   "feature": "is_shortener",
+   "f2_drop": 0.0259
+  },
+  {
+   "feature": "num_suspicious_words",
+   "f2_drop": 0.0162
+  },
+  {
+   "feature": "host_length",
+   "f2_drop": 0.0159
+  },
+  {
+   "feature": "brand_lookalike",
+   "f2_drop": 0.0104
+  },
+  {
+   "feature": "is_https",
+   "f2_drop": 0.0066
+  },
+  {
+   "feature": "has_at",
+   "f2_drop": 0.0054
+  },
+  {
+   "feature": "nonstandard_port",
+   "f2_drop": 0.0043
+  },
+  {
+   "feature": "num_special_chars",
+   "f2_drop": 0.0043
+  }
+ ],
+ "artificial_20_check": [
+  {
+   "url": "https://www.wikipedia.org/wiki/Python",
+   "expected": "safe",
+   "p_url": 0.047,
+   "category": "SAFE"
+  },
+  {
+   "url": "https://www.google.com/",
+   "expected": "safe",
+   "p_url": 0.116,
+   "category": "SAFE"
+  },
+  {
+   "url": "https://github.com/pallets/flask",
+   "expected": "safe",
+   "p_url": 0.378,
+   "category": "SUSPICIOUS"
+  },
+  {
+   "url": "https://www.python.org/downloads/",
+   "expected": "safe",
+   "p_url": 0.057,
+   "category": "SAFE"
+  },
+  {
+   "url": "https://docs.djangoproject.com/en/5.1/",
+   "expected": "safe",
+   "p_url": 0.062,
+   "category": "SAFE"
+  },
+  {
+   "url": "https://www.microsoft.com/en-us/windows",
+   "expected": "safe",
+   "p_url": 0.047,
+   "category": "SAFE"
+  },
+  {
+   "url": "https://www.apple.com/iphone/",
+   "expected": "safe",
+   "p_url": 0.051,
+   "category": "SAFE"
+  },
+  {
+   "url": "https://www.kaspi.kz/shop/",
+   "expected": "safe",
+   "p_url": 0.042,
+   "category": "SAFE"
+  },
+  {
+   "url": "https://halykbank.kz/about",
+   "expected": "safe",
+   "p_url": 0.987,
+   "category": "DANGEROUS"
+  },
+  {
+   "url": "https://egov.kz/cms/ru",
+   "expected": "safe",
+   "p_url": 0.392,
+   "category": "SUSPICIOUS"
+  },
+  {
+   "url": "http://192.0.2.15/account-update",
+   "expected": "suspicious",
+   "p_url": 0.944,
+   "category": "DANGEROUS"
+  },
+  {
+   "url": "http://xn--exmplecua.test/secure/login?verify=1",
+   "expected": "suspicious",
+   "p_url": 0.892,
+   "category": "DANGEROUS"
+  },
+  {
+   "url": "http://secure-bank-verify.example/login",
+   "expected": "suspicious",
+   "p_url": 0.983,
+   "category": "DANGEROUS"
+  },
+  {
+   "url": "http://bit.ly/prize-claimtest",
+   "expected": "suspicious",
+   "p_url": 0.786,
+   "category": "DANGEROUS"
+  },
+  {
+   "url": "http://paypa1-login.test/verify",
+   "expected": "suspicious",
+   "p_url": 0.879,
+   "category": "DANGEROUS"
+  },
+  {
+   "url": "http://kaspi.example@evil-host.test/login",
+   "expected": "suspicious",
+   "p_url": 0.975,
+   "category": "DANGEROUS"
+  },
+  {
+   "url": "http://login.update.google.account-center.test/signin",
+   "expected": "suspicious",
+   "p_url": 0.995,
+   "category": "DANGEROUS"
+  },
+  {
+   "url": "http://halyk-bonus-free.invalid:8443/claim",
+   "expected": "suspicious",
+   "p_url": 0.995,
+   "category": "DANGEROUS"
+  },
+  {
+   "url": "http://203.0.113.9:8080/bank/login.php?session=abc123",
+   "expected": "suspicious",
+   "p_url": 0.744,
+   "category": "DANGEROUS"
+  },
+  {
+   "url": "http://apple-id.confirm-wallet.example//login",
+   "expected": "suspicious",
+   "p_url": 0.996,
+   "category": "DANGEROUS"
+  }
+ ]
+}

@@ -1,0 +1,1111 @@
+id,text,label,class3,lang,category,family,noise,source
+en00000,"Yo Lily, are you coming to the game tonight? I'll be at the entrance around 19:00.",0,safe,en,chat,en-safe-chat-0,,synthetic
+en00001,"HELLO! IT'S YOUR SON, PHONE IS BROKEN. PLEASE TRANSFER 377 USD NOW, I'LL PAY YOU BACK.",1,fraud,en,relative,en-fraud-relative-1,greet+upper,synthetic
+en00002,"Hi, Grandma: don't forget 4b0ut Saturday's trip. C4ll m3 tonight. ok",0,safe,en,family,en-safe-family-0,leet+greet+mix,synthetic
+en00003,"Dave, congrats on the new job! Let's catch up this weekend.",0,safe,en,family,en-safe-family-1,,synthetic
+en00004,"Notice: HSBC: at your request, card ending 1448 has been frozen.",0,safe,en,bank_notice,en-safe-bank_notice-2,greet,synthetic
+en00005,BestBuy: new arrivals in the app until Nov 20. Details: https://www.silksport.example/user/profile/13245 ✅,0,safe,en,ads,en-safe-ads-0,emoji,synthetic
+en00006,your bestbuy login will be deleted in 24 hours. restore access here: https://login.pearl.chase.citynova34.example/update,1,fraud,en,account_pwd,en-fraud-account_pwd-0,lower+nopunct,synthetic
+en00007,trading: profit from 30% a week! zero risk. message @invest_online.,1,fraud,en,investment,en-fraud-investment-0,lower,synthetic
+en00008,Your parcel is on hold. You must pay a customs fee of £43 by 11/15: https://telegram-payment.example/account/confirm,1,fraud,en,delivery_customs,en-fraud-delivery_customs-0,,synthetic
+en00009,"A broker friend showed me a trick: put in 402 USD, tripled it. Want in? @promo_kz",1,fraud,en,investment,en-fraud-investment-1,,synthetic
+en00010,"Hi, Attention. Your photos were exposed. Don't call the police, to avoid consequences message @invest506. No reply needed.",1,fraud,en,fear_secrecy,en-fraud-fear_secrecy-0,greet+close,synthetic
+en00011,Courier will be there Dec 3 between 10 and 2. Driver phone: +1 555 0173,0,safe,en,delivery,en-safe-delivery-1,,synthetic
+en00012,A Chase representative just called you. Read them the 3-digit code on the back of your card to verify your identity.,1,fraud,en,cvv_code,en-fraud-cvv_code-1,,synthetic
+en00013,"Barclays: at your request, card ending 3117 has been temporarily locked.",0,safe,en,bank_notice,en-safe-bank_notice-2,,synthetic
+en00014,Your  code: 51168. Enter it on the Uber site.,,suspicious,en,otp_nowarn,en-suspicious-otp_nowarn-0,dblspace,synthetic
+en00015,oMm: don't forget about Saturday's trip. Love you!,0,safe,en,family,en-safe-family-0,typo,synthetic
+en00016,"Dad, I had an accident. Please send $38242.64 urgently, my phone broke, texting from a friend's.",1,fraud,en,relative,en-fraud-relative-0,,synthetic
+en00017,"Final warning. Your photos leaked. Don't call the police, or else message @invest901.",1,fraud,en,fear_secrecy,en-fraud-fear_secrecy-0,,synthetic
+en00018,"citi: charge of £415 at walgreens, card ending 4038. available balance: 72899 usd.",0,safe,en,bank_notice,en-safe-bank_notice-0,lower,synthetic
+en00019,citi: a new-device login was detected on your profile. to protect your funds log in: https://gift.orbit.kazpost.urbansteppe.test//login,1,fraud,en,bank_phish,en-fraud-bank_phish-0,lower,synthetic
+en00020,Your card has been suspended! Verify your details now: http://apple.support-copper.test/account/confirm,1,fraud,en,card_block,en-fraud-card_block-0,,synthetic
+en00021,Tax Agency: you are eligible for a benefit of £22. Collect it by Nov 20: https://orbit6323.example/JGud7Q,1,fraud,en,gov_payment,en-fraud-gov_payment-0,,synthetic
+en00022,"Jake, the report is with legal. Call at 10:00 on Zoom. Edits needed by tomorrow.",0,safe,en,work,en-safe-work-0,,synthetic
+en00023,Friendly reminder: meeting on Dec 3 at 17:30. To reschedule call +1 555 0148.,0,safe,en,reminder,en-safe-reminder-0,,synthetic
+en00024,Good day. Lily call me when you're free. Can you grab milk on the way?,0,safe,en,chat,en-safe-chat-1,greet,synthetic
+en00025,Important: standup moved to 8:00. ✅,0,safe,en,work,en-safe-work-1,emoji,synthetic
+en00026,Notice: Important: client needs an answer by 10:00. Please confirm. Regards.,0,safe,en,work,en-safe-work-1,greet+close,synthetic
+en00027,"Hi, We couldn't deliver parcel #10935072. Update delivery details and pay storage $16291.19: http://hsbc.test@stonenomad11.test/",1,fraud,en,delivery_customs,en-fraud-delivery_customs-1,greet,synthetic
+en00028,634487  1s y0ur code to c0nf1rm 59031 USD p4ym3nt at Zara. It exp1res 1n 5 minutes. No reply needed.,0,safe,en,otp,en-safe-otp-1,leet+close+dblspace,synthetic
+en00029,Urgent: client needs an answer by 19:45. Please confirm. Have a nice day!,0,safe,en,work,en-safe-work-1,close,synthetic
+en00030,Notice: Our analyst showed me a strategy: made triple in a week. Want in? @job.team,1,fraud,en,investment,en-fraud-investment-1,greet,synthetic
+en00031,"Good day. A broker friend showed me a trick: put in $75034, tripled it. Want in? @pro294",1,fraud,en,investment,en-fraud-investment-1,greet,synthetic
+en00032,Your parcel is on hold. You must pay a redelivery fee of $603 by Dec 3: https://refund-orbit-lumen.example/login,1,fraud,en,delivery_customs,en-fraud-delivery_customs-0,,synthetic
+en00033,Congratulations! You won a car in the Zara promo. Collect your prize: http://203.0.113.75/auth/signin?redirect=%2Fhome,1,fraud,en,prize,en-fraud-prize-0,,synthetic
+en00034,"HSBC: purchase of 15 USD at Subway, card ending 6755.",0,safe,en,bank_notice,en-safe-bank_notice-0,,synthetic
+en00035,Your Spotify account will be locked today. Confirm your password now: http://steppe-stone.example/docs/lotus-pearl.html,1,fraud,en,account_pwd,en-fraud-account_pwd-0,,synthetic
+en00036,DMV:  walk-ins by appointment only. Details at https://egov-portal.example/status/13831 Regards.,0,safe,en,gov_edu,en-safe-gov_edu-1,nopunct+close+dblspace,synthetic
+en00037,URGENT: CLIENT NEEDS AN ANSWER BY 21:00. PLEASE CONFIRM.,0,safe,en,work,en-safe-work-1,upper,synthetic
+en00038,Treasury: you've been 4pprov3d f0r 4 ben3fit 0f $39. Cl41m 1t with1n 3 days: https://secure-nova.invalid/about,1,fraud,en,gov_payment,en-fraud-gov_payment-0,leet,synthetic
+en00039,notice: you owe $63892.74 in utility bills. settle by nov 20 or the case goes to bailiffs: http://xn--pacq5xz9kx8kb.example/reset/vtxenvy2mzatqee6takkx,1,fraud,en,debt,en-fraud-debt-0,lower,synthetic
+en00040,Reminder: dent1st on Nov 20 at 18:45. Address: Walgr33ns,0,safe,en,reminder,en-safe-reminder-0,nopunct+leet,synthetic
+en00041,"Operators wanted from home: reviews, earn $491. Text @support_24",1,fraud,en,fake_job,en-fraud-fake_job-1,,synthetic
+en00042,You're a winner! To get your prize reply YES. ❗,1,fraud,en,prize,en-fraud-prize-1,emoji,synthetic
+en00043,Your  code: 802020. Enter it on the Amazon site,,suspicious,en,otp_nowarn,en-suspicious-otp_nowarn-0,nopunct+dblspace,synthetic
+en00044,Quick cash no refusal to your card. Apply: https://lumen-swift.example/shop/tau?utm_source=sms&utm_medium=notice&ref=Orq1YwGgJ2,,suspicious,en,loan_ad,en-suspicious-loan_ad-0,,synthetic
+en00045,"Hello! 142694 is your code to log in to bestbuy. if you didn't request it, ignore this message.",0,safe,en,otp,en-safe-otp-1,lower+greet,synthetic
+en00046,Good day. quick cash no refusal in 5 minutes. apply: http://novabright48.test/r/r6xonrz7imv2szjjs,,suspicious,en,loan_ad,en-suspicious-loan_ad-0,lower+greet,synthetic
+en00047,Your Sptoify account will be locked in 24 hours. Restore access now: http://account.film.whatsapp.ironpearl.example/index.php?id=79833 Regards.,1,fraud,en,account_pwd,en-fraud-account_pwd-0,typo+close,synthetic
+en00048,"Hi, Tom, the deck is with legal. Meeting at 11:00 in the conference room.",0,safe,en,work,en-safe-work-0,greet,synthetic
+en00049,"Your verification code is 674438. Do not share it with anyone, even bank staff. No reply needed.",0,safe,en,otp,en-safe-otp-0,close,synthetic
+en00050,"Hi, this is Sam from Walmart. We mistakenly sent $46001 to you, please return it to card ending 0974. 💳",1,fraud,en,money_transfer,en-fraud-money_transfer-0,emoji,synthetic
+en00051,"Your verification code is 486828. Do not share it with anyone, even bank staff.",0,safe,en,otp,en-safe-otp-0,,synthetic
+en00052,Good day. final summons: an outstanding balance of 94 usd in taxes. settle today or the case goes to bailiffs: http://microsoft-login.example/reset/5kg20e3sxecsrekfschkhudoyaxk5dh,1,fraud,en,debt,en-fraud-debt-0,lower+greet,synthetic
+en00053,"Dear customer, your password has expired. Update your information within 24 hours: http://192.0.2.115/reset/eA61SEp3sXI0xqWSTFOUXpWPNV",1,fraud,en,bank_phish,en-fraud-bank_phish-1,,synthetic
+en00054,Notice:  4n 0utstand1ng b4l4nce of £31010 1n utility bills. P4y by M0nd4y t0 4v01d court: http://whatsapp.gift-city.example/account/settings,1,fraud,en,debt,en-fraud-debt-0,leet+dblspace,synthetic
+en00055,Your card has been blocked. Unlock it today: https://grand-metro.test:8080/account/confirm,1,fraud,en,card_block,en-fraud-card_block-0,,synthetic
+en00056,We couldn't deliver parcel #71040559. Confirm your address and pay storage £25129: http://198.51.100.123/account/confirm No reply needed.,1,fraud,en,delivery_customs,en-fraud-delivery_customs-1,close,synthetic
+en00057,Tax office: your documents are ready. Ref 6942889.,0,safe,en,gov_edu,en-safe-gov_edu-1,,synthetic
+en00058,"Your verification code is 452111. Do not share it with anyone, even bank staff.",0,safe,en,otp,en-safe-otp-0,,synthetic
+en00059,Courier will arrive 11/15 between 10 and 2. Driver phone: +1 555 0119,0,safe,en,delivery,en-safe-delivery-1,,synthetic
+en00060,"Dear customer, your details are out of date. Update your information now: http://techlotus66994.test/VJbGgsiu9RNt",1,fraud,en,bank_phish,en-fraud-bank_phish-1,,synthetic
+en00061,Good day. Urgent: client needs an answer by 22:45. Please confirm.,0,safe,en,work,en-safe-work-1,greet,synthetic
+en00062,"Hi! We saw your resume. Earn $89055.11 per day, flexible hours. Tasks done on your phone. Text WhatsApp +1 555 0147.",1,fraud,en,fake_job,en-fraud-fake_job-0,,synthetic
+en00063,Hello! Your order #29287662 has shipped and will arrive Dec 3. Track it: https://app.nova.example/download/report-74690.pdf,0,safe,en,delivery,en-safe-delivery-0,greet,synthetic
+en00064,"Good day. It's your son, new number. Can you send 93 USD urgently, long story.",1,fraud,en,relative,en-fraud-relative-1,greet,synthetic
+en00065,"Hey Ben, you still up for coming to the gym tomorrow? I'll be at the entrance around 22:15.",0,safe,en,chat,en-safe-chat-0,,synthetic
+en00066,"courier will be there dec 3 between 10 and 2. no payment needed, already paid.",0,safe,en,delivery,en-safe-delivery-1,lower,synthetic
+en00067,"School: exam scheduled for Nov 12, 14:15.",0,safe,en,gov_edu,en-safe-gov_edu-0,,synthetic
+en00068,Your order #50068215 is ready for pickup and should arrive Nov 20. Track it: https://cdn.primepearl.invalid/blog/learn-maple,0,safe,en,delivery,en-safe-delivery-0,,synthetic
+en00069,"Mom, I'm in trouble with the police. Please send $484 to this number +1 555 0165, my phone broke, texting from a friend's. 📦",1,fraud,en,relative,en-fraud-relative-0,emoji,synthetic
+en00070,"Courier will arrive Monday after 6 pm. No payment needed, already paid.",0,safe,en,delivery,en-safe-delivery-1,,synthetic
+en00071,Your order #60456660 is out for delivery and should arrive Monday. Track it: http://static.maplevista.example/ plz 🙏,0,safe,en,delivery,en-safe-delivery-0,mix+emoji,synthetic
+en00072,Someone tried to log in. To protect it enter your login and password: https://www.healthpearl51.invalid/shop/copper?utm_source=sms&utm_medium=notice&ref=QrYSVuS Have a nice day!,1,fraud,en,account_pwd,en-fraud-account_pwd-1,close,synthetic
+en00073,Notice:  HSBC: unusual activity was flagged on your profile. To avoid suspension log in: http://confirm-craft-pixel.example/index.php?id=63273,1,fraud,en,bank_phish,en-fraud-bank_phish-0,nopunct+greet+dblspace,synthetic
+en00074,Santander: access to card ending 0330 is limited. To restore it verify here: http://bright.example:8443/login,1,fraud,en,card_block,en-fraud-card_block-1,nopunct,synthetic
+en00075,Tax office: your application was received. Details at https://egov-portal.example/status/99043 ✅,0,safe,en,gov_edu,en-safe-gov_edu-1,emoji,synthetic
+en00076,Final summons: you owe 41 USD in taxes. Settle today to avoid court: https://kazposі-login.example/YzAWDZ6WLbX,1,fraud,en,debt,en-fraud-debt-0,,synthetic
+en00077,"Hi, Chase: payment of $47447 at Shell, card ending 7328.",0,safe,en,bank_notice,en-safe-bank_notice-0,greet,synthetic
+en00078,A COMPLAINT WAS FILED AGAINST YOU FOR FRAUD. CALL +1 555 0112 IMMEDIATELY. DON'T TELL ANYONE.,1,fraud,en,fear_secrecy,en-fraud-fear_secrecy-1,upper,synthetic
+en00079,"Hello, this is Anna from Zara. We transferred by mistake $23681 to you, please return it to card ending 9057.",1,fraud,en,money_transfer,en-fraud-money_transfer-0,,synthetic
+en00080,TAX AGENCY: YOU ARE ELIGIBLE FOR A TAX REFUND OF £744. CLAIM IT WITHIN 3 DAYS: HTTP://FEDEX-BILLING.INVALID/,1,fraud,en,gov_payment,en-fraud-gov_payment-0,nopunct+upper,synthetic
+en00081,"Hello,  accounting here. We mistakenly sent 70 USD to you, please return it to card ending 4275.",1,fraud,en,money_transfer,en-fraud-money_transfer-0,dblspace,synthetic
+en00082,"Santander: at your request, card ending 2259 has been temporarily locked. You can unlock it in the app or at a branch.",0,safe,en,bank_notice,en-safe-bank_notice-2,,synthetic
+en00083,Tax office: your documents are ready. Details at https://egov-portal.example/cabinet/90173 ok,0,safe,en,gov_edu,en-safe-gov_edu-1,mix,synthetic
+en00084,"Mike, the report is with legal. Meeting at 16:00 in the conference room.",0,safe,en,work,en-safe-work-0,,synthetic
+en00085,"Alex text me when yuo're home. Running ten min late, sorry!",0,safe,en,chat,en-safe-chat-1,typo,synthetic
+en00086,A new-device login was detected. To protect it enter your login and password: https://gardenterra15054.example/Nec9Y9lgI8s,1,fraud,en,account_pwd,en-fraud-account_pwd-1,,synthetic
+en00087,Congratulations! You won a gift card in the Amazon draw. Claim it: http://kazpost.bank-steppe.example/track/92058,1,fraud,en,prize,en-fraud-prize-0,,synthetic
+en00088,"Emma, the report is ready. Clal at 11:45 in the conference room.",0,safe,en,work,en-safe-work-0,typo,synthetic
+en00089,spotify help desk: your account was hacked. install our remote-help tool now: http://forestdelta-billing.example/mzho6ng/9m15s/tdthkai3i2?id=5uovkufavtgmyqttdkn5yawuid4nbvgfqy,1,fraud,en,tech_support,en-fraud-tech_support-0,lower,synthetic
+en00090,Good day. A refund of 47 USD from Citi. Activate it by Nov 12: https://lfabank.test/account/settings Have a nice day!,1,fraud,en,bonus_refund,en-fraud-bonus_refund-0,greet+close,synthetic
+en00091,"Hello! We saw your resume. Earn $16 per shift, flexible hours. Free training. Text WhatsApp +1 555 0169. plz",1,fraud,en,fake_job,en-fraud-fake_job-0,mix,synthetic
+en00092,Your parcel is held at customs. Pay a customs fee of $2869.33 within 48 hours: https://egov-gift.test//login,1,fraud,en,delivery_customs,en-fraud-delivery_customs-0,,synthetic
+en00093,"your verification code is 553947. do not share it with anyone, including barclays employees",0,safe,en,otp,en-safe-otp-0,lower+nopunct,synthetic
+en00094,"Santander: charge of $106 at Target, card ending 3341. Avaialble balance: 545 USD. No reply needed.",0,safe,en,bank_notice,en-safe-bank_notice-0,typo+close,synthetic
+en00095,Congratulations! You have been selected for a gift card in the Zara draw. Collect your prize: https://forte-billing.test/login/k4tOsJoH9K?next=/cabinet,1,fraud,en,prize,en-fraud-prize-0,,synthetic
+en00096,"university: parent meeting scheduled for friday, 15:15. room 75119381.",0,safe,en,gov_edu,en-safe-gov_edu-0,lower,synthetic
+en00097,"Chase: at your request, card ending 2095 has been temporarily locked. You can unlock it in the app or at a branch. No reply needed.",0,safe,en,bank_notice,en-safe-bank_notice-2,close,synthetic
+en00098,Investing: returns from 30% a week! Guaranteed. Message @investkz.,1,fraud,en,investment,en-fraud-investment-0,,synthetic
+en00099,"It's your son, new number. Please transfer $98.52 now, I'll pay you back.",1,fraud,en,relative,en-fraud-relative-1,,synthetic
+en00100,You're owed compensation for service charges. Enter your card number to receive $67.81: https://sho.invalid/d2EtPIF asap,1,fraud,en,bonus_refund,en-fraud-bonus_refund-1,mix,synthetic
+en00101,T4X OFFICE: Y0UR APPL1CAT1ON WAS RECEIVED. DETAILS 4T HTTPS://EGOV-PORTAL.EXAMPLE/CABINET/65200,0,safe,en,gov_edu,en-safe-gov_edu-1,leet+upper,synthetic
+en00102,Fast loan no refusal to your card. Apply: https://delta-prime.example/search?q=alpha+lotus,,suspicious,en,loan_ad,en-suspicious-loan_ad-0,,synthetic
+en00103,BestBuy: big sale in the app until Monday. Details: https://www.maplequartz.test/payment/receipt?id=513 пжл,0,safe,en,ads,en-safe-ads-0,mix,synthetic
+en00104,900004 is your code to log in to Amazon. It expires in 5 minutes.,0,safe,en,otp,en-safe-otp-1,,synthetic
+en00105,A broker friend showed me a strategy: made triple in a week. Text me? @job.online пжл,1,fraud,en,investment,en-fraud-investment-1,mix,synthetic
+en00106,Important: standup moved to 11:30. Please confirm.,0,safe,en,work,en-safe-work-1,,synthetic
+en00107,Thanks for shopping at Netflix. Amount: $96580.,0,safe,en,purchase,en-safe-purchase-0,,synthetic
+en00108,"Good day. Jake, the deck is with legal. Call at 7:45 in the conference room. Edits needed by tomorrow",0,safe,en,work,en-safe-work-0,nopunct+greet,synthetic
+en00109,"hello! we're hiring remote staff. earn $23 per day, flexible hours. tasks done on your phone. message whatsapp +1 555 0175.",1,fraud,en,fake_job,en-fraud-fake_job-0,lower,synthetic
+en00110,A complaint was filed against you for fraud. Call +1 555 0192 immediately. Don't tell anyone.,1,fraud,en,fear_secrecy,en-fraud-fear_secrecy-1,,synthetic
+en00111,"Notice: University: class moved to Friday, 10:00. asap",0,safe,en,gov_edu,en-safe-gov_edu-0,greet+mix,synthetic
+en00112,reminder: class on friday at 19:45. address: costco.,0,safe,en,reminder,en-safe-reminder-0,lower,synthetic
+en00113,"Alex, thanks for the gift! Let's catch up this weekend",0,safe,en,family,en-safe-family-1,nopunct,synthetic
+en00114,HSBC: access to card ending 8167 is paused. To restore it complete a quick check: https://alphagreen-billing.example/1CMM2d2acSFd/Hly6HYH/MxOtQm/yXxzS3bj9Ur?id=CHWzgbUs6x7h4bWFH2mpdCg1VM5NJV,1,fraud,en,card_block,en-fraud-card_block-1,,synthetic
+en00115,"YOUR ONE-TIME CODE IS 47332. DO NOT SHARE IT WIHT ANYONE, INCLUDING CITI EMPLOYEES.",0,safe,en,otp,en-safe-otp-0,typo+upper,synthetic
+en00116,"University: parent meeting scheduled for Monday, 11:30 😊",0,safe,en,gov_edu,en-safe-gov_edu-0,nopunct+emoji,synthetic
+en00117,Your card has been blocked! Unlock it immediately: http://203.0.113.143/claim/57326 asap,1,fraud,en,card_block,en-fraud-card_block-0,mix,synthetic
+en00118,Amazon Help desk: your account is infected. Install our remote-help tool here: http://river-terra.example/?redirect=sNeLw4ysQ&session=TOn3hRFe0t&user=5vtqWm8W&ref=wmaX6Jo&cid=h2vJlq,1,fraud,en,tech_support,en-fraud-tech_support-0,,synthetic
+en00119,"Zoe, happy birthday! Hugs.",0,safe,en,family,en-safe-family-1,,synthetic
+en00120,We missed you parcel #28507717. Confirm your address and pay storage £35384: http://kazpost.bank-blue.example/docs/lotus-studio-books.html,1,fraud,en,delivery_customs,en-fraud-delivery_customs-1,nopunct,synthetic
+en00121,A cashback of $77.25 is available. Activate it by Nov 12: https://wellsfargo.login-altyn.example/track/78910,1,fraud,en,bonus_refund,en-fraud-bonus_refund-0,,synthetic
+en00122,Crypto: profit from 30% a week! Zero risk. Join @promo_online.,1,fraud,en,investment,en-fraud-investment-0,,synthetic
+en00123,A cashback of £457 from HSBC. Activate it by Friday: https://lumenmarket.example/,1,fraud,en,bonus_refund,en-fraud-bonus_refund-0,,synthetic
+en00124,"Hi, grandma: remember about saturday's trip. see you soon. No reply needed.",0,safe,en,family,en-safe-family-0,lower+greet+close,synthetic
+en00125,your card has been suspended. verify your details today: http://203.0.113.155/s/7be7jajsikx0kqx,1,fraud,en,card_block,en-fraud-card_block-0,lower,synthetic
+en00126,YOUR CODE: 347640. ENTER IT ON THE SPOTIFY SITE.,,suspicious,en,otp_nowarn,en-suspicious-otp_nowarn-0,upper,synthetic
+en00127,"Santander: transfer of 47040 USD posted to card ending 0981. If this wasn't you, call the number on the back of your card.",0,safe,en,bank_notice,en-safe-bank_notice-1,,synthetic
+en00128,Your order #39815271 is out for delivery and will arrive Friday. Track it: https://www.urban.test/news/2026/9/studio-bright-terra,0,safe,en,delivery,en-safe-delivery-0,,synthetic
+en00129,"Hi, Your parcel is on hold. Pay a customs fee of $912.72 within 48 hours: https://swift.test/?ref=4IoEVVUTMs&redirect=TWhJ66r&token=ggaxPN63&cid=IPLXXW5Z",1,fraud,en,delivery_customs,en-fraud-delivery_customs-0,greet,synthetic
+en00130,A complaint was filed against you for fraud. Call +1 555 0115 immediately. Don't tell anyone.,1,fraud,en,fear_secrecy,en-fraud-fear_secrecy-1,,synthetic
+en00131,Tax office: your application was received. Details at https://egov-portal.example/status/63809 Have a nice day!,0,safe,en,gov_edu,en-safe-gov_edu-1,close,synthetic
+en00132,Fast loan up to $39643.25 in 5 minutes. Apply: https://lnk.example/59708,,suspicious,en,loan_ad,en-suspicious-loan_ad-0,nopunct,synthetic
+en00133,"Good day. Attention. Your data leaked. Tell no one, or else message @support.24. No reply needed. 📦",1,fraud,en,fear_secrecy,en-fraud-fear_secrecy-0,greet+close+emoji,synthetic
+en00134,"Citi: at your request, card ending 0833 has been forzen",0,safe,en,bank_notice,en-safe-bank_notice-2,nopunct+typo,synthetic
+en00135,"Chase: payment of $87.39 at Costco, card ending 2038. Available balance: $57.65.",0,safe,en,bank_notice,en-safe-bank_notice-0,,synthetic
+en00136,IMPORTANT: CLIENT NEEDS AN ANSWER BY 17:30. PLEASE CONFIRM.,0,safe,en,work,en-safe-work-1,upper,synthetic
+en00137,"HELLO! WE SAW YOUR RESUME. PAY $415.21 PER DAY, FLEXIBLE HOURS. FREE TRAINING. TEXT WHATSAPP +1 555 0186.",1,fraud,en,fake_job,en-fraud-fake_job-0,upper,synthetic
+en00138,Hello! Quick cash up to £86543 in 5 minutes. Aplpy: https://shrt.test/70320 No reply needed.,,suspicious,en,loan_ad,en-suspicious-loan_ad-0,typo+greet+close,synthetic
+en00139,"Hello! Nina text me when you're home. Dinner's at seven, don't be late.",0,safe,en,chat,en-safe-chat-1,greet,synthetic
+en00140,HSBC Security: a new-device login was detected on your profile. To protect your funds verify: https://sho.invalid/qpkmZ8Yl,1,fraud,en,bank_phish,en-fraud-bank_phish-0,,synthetic
+en00141,"Hello! it's your son, new number. please transfer $18177.54 now, i'll pay you back.",1,fraud,en,relative,en-fraud-relative-1,lower+greet,synthetic
+en00142,Your card has been suspended. Unlock it now: https://egov.test@vista.test/p/hx6P6qs8,1,fraud,en,card_block,en-fraud-card_block-0,,synthetic
+en00143,"B4rcl4ys fr4ud team: to block 4 susp1c10us transaction, r34d out the c0de we sent.",1,fraud,en,cvv_code,en-fraud-cvv_code-0,leet,synthetic
+en00144,Good day. your card has been blocked. unlock it today: https://paypal-bonus.invalid/a//b/0dlsic,1,fraud,en,card_block,en-fraud-card_block-0,lower+greet,synthetic
+en00145,Crypto: profit from 30% a week! Zero risk. Join @invest_kz.,1,fraud,en,investment,en-fraud-investment-0,,synthetic
+en00146,your order #14618325 is ready for pickup and should arrive monday. track it: https://technorth.test:8443/login?continue=/home,0,safe,en,delivery,en-safe-delivery-0,lower,synthetic
+en00147,"your one-time code is 369322. do not share it with anyone, even bank tsaff.",0,safe,en,otp,en-safe-otp-0,lower+typo,synthetic
+en00148,"Anna, happy birthday! Hugs.",0,safe,en,family,en-safe-family-1,,synthetic
+en00149,Fast loan up to 45 USD to your card. Apply: https://lnk.example/72452 📦,,suspicious,en,loan_ad,en-suspicious-loan_ad-0,nopunct+emoji,synthetic
+en00150,BestBuy: up to 30% off in the app this weekend only. Reply STOP to opt out Thanks.,0,safe,en,ads,en-safe-ads-0,close,synthetic
+en00151,We couldn't deliver parcel #80218187. Update delivery details: https://egov.wallet-summit.invalid/claim/52610,1,fraud,en,delivery_customs,en-fraud-delivery_customs-1,,synthetic
+en00152,Your Spotify login will be deleted in 24 hours. Confirm your password here: http://market.example/support/verify-email,1,fraud,en,account_pwd,en-fraud-account_pwd-0,,synthetic
+en00153,"Your one-time code is 675513. Never share this code, even bank staff.",0,safe,en,otp,en-safe-otp-0,,synthetic
+en00154,"Dear customer, your password has expired. Update your information now: https://fortee.test/a//b/ICK1NmfCj",1,fraud,en,bank_phish,en-fraud-bank_phish-1,,synthetic
+en00155,Hello! hsbc security: a new-device login was flagged on your account. to protect your funds verify: http://paypaі-confirm.example/pay/93665,1,fraud,en,bank_phish,en-fraud-bank_phish-0,lower+greet,synthetic
+en00156,Congratulations! You won a car in the Zara draw. Collect it: http://short.invalid/V5N79,1,fraud,en,prize,en-fraud-prize-0,,synthetic
+en00157,"Hello! We're hiring remote staff. Pay $20 per day, flexible hours. Free training. Message WhatsApp +1 555 0135",1,fraud,en,fake_job,en-fraud-fake_job-0,nopunct,synthetic
+en00158,Your  relief payment is ready. To get your money fill in the form: http://nomadcedar25.test/s/hcuZc251ziaNvDjh,1,fraud,en,gov_payment,en-fraud-gov_payment-1,dblspace,synthetic
+en00159,Reminder: clsas on Monday at 11:00. Address: Subway.,0,safe,en,reminder,en-safe-reminder-0,typo,synthetic
+en00160,"Hi Lily, you still up for coming to the game tomorrow? I'll be there around 9:45.",0,safe,en,chat,en-safe-chat-0,,synthetic
+en00161,"Notice: Hi! We're hiring remote staff. Pay $8726.96 per day, no experience. Free training. Text WhatsApp +1 555 0180. Regards.",1,fraud,en,fake_job,en-fraud-fake_job-0,greet+close,synthetic
+en00162,"Citi: purchase of $81 at Walgreens, card ending 4837. Available balance: £950.",0,safe,en,bank_notice,en-safe-bank_notice-0,,synthetic
+en00163,"Final warning. Your photos leaked. Tell no one, to avoid consequences message @help_24.",1,fraud,en,fear_secrecy,en-fraud-fear_secrecy-0,,synthetic
+en00164,"attention. your photos leaked. don't call the police, or else message @supportonline.",1,fraud,en,fear_secrecy,en-fraud-fear_secrecy-0,lower,synthetic
+en00165,Spotify: b1g sal3 onl1n3 th1s w33kend only. Details: https://primeurban.example/invite/fxiGSDkbMR79Z,0,safe,en,ads,en-safe-ads-0,nopunct+leet,synthetic
+en00166,Someone tried to log in. To protect it reset your password: http://jusan.example/account/settings,1,fraud,en,account_pwd,en-fraud-account_pwd-1,,synthetic
+en00167,"Hi, your parcel is on hold. you must pay a redelivery fee of 26 usd within 48 hours: https://teelegram.example/auth/signin?redirect=%2fhome Thanks.",1,fraud,en,delivery_customs,en-fraud-delivery_customs-0,lower+greet+close,synthetic
+en00168,walmart help desk: your account was hacked. download our remote-help tool now: https://xn--89xpe906438r.invalid//login,1,fraud,en,tech_support,en-fraud-tech_support-0,lower,synthetic
+en00169,"Anna, thanks for the gift! Hugs.",0,safe,en,family,en-safe-family-1,,synthetic
+en00170,Friendly  reminedr: doctor's appointment on Nov 12 at 8:30. To reschedule call +1 555 0180.,0,safe,en,reminder,en-safe-reminder-0,typo+dblspace,synthetic
+en00171,Crypto: profit from 30% a week! Guaranteed. Join @cashonline.,1,fraud,en,investment,en-fraud-investment-0,,synthetic
+en00172,Thanks for shopping at Uber. Total: 29200 USD.,0,safe,en,purchase,en-safe-purchase-0,,synthetic
+en00173,Your  order #94125665 is raedy for pickup and will arrive Dec 3. Track it: https://xn--mtn30qq4f4qmu1.test/orders/73311/track,0,safe,en,delivery,en-safe-delivery-0,nopunct+typo+dblspace,synthetic
+en00174,464266 is your cod3 t0 l0g 1n to uber. it 3xp1r3s 1n 5 minutes.,0,safe,en,otp,en-safe-otp-1,lower+leet,synthetic
+en00175,City hall: your balance of $987.11 has been settled. Thank you.,0,safe,en,gov_edu,en-safe-gov_edu-2,,synthetic
+en00176,your code: 574807. enter it on the bestbuy site.,,suspicious,en,otp_nowarn,en-suspicious-otp_nowarn-0,lower,synthetic
+en00177,Your card has been suspended. Verify your details immediately: https://prime-terra.test/catalog/city/swift?page=5&sort=price,1,fraud,en,card_block,en-fraud-card_block-0,,synthetic
+en00178,City hall: walk-ins by appointment only. Details at https://egov-docs.example/cabinet/95892,0,safe,en,gov_edu,en-safe-gov_edu-1,,synthetic
+en00179,"Mom, I'm in hospital. Please send $984.19 urgently, I'll explain later.",1,fraud,en,relative,en-fraud-relative-0,,synthetic
+en00180,"dave text me when yuo're home. running ten min late, sorry!",0,safe,en,chat,en-safe-chat-1,lower+typo,synthetic
+en00181,"Hi, A specialist will call you. Give them the 3-digit code on the back of your card to verify your identity.",1,fraud,en,cvv_code,en-fraud-cvv_code-1,greet,synthetic
+en00182,Thanks for shopping at Zara. Amount: 333 USD.,0,safe,en,purchase,en-safe-purchase-0,,synthetic
+en00183,"Hi, this is Anna from Amazon. We mistakenly sent £8939 to you, please send it back to +1 555 0190.",1,fraud,en,money_transfer,en-fraud-money_transfer-0,,synthetic
+en00184,"dave, the contract is ready. call at 19:45 on zoom. edits needed by tomorrow.",0,safe,en,work,en-safe-work-0,lower,synthetic
+en00185,"Hello! Barclays: at your request, card ending 9338 has been temporarily locked. Thanks.",0,safe,en,bank_notice,en-safe-bank_notice-2,greet+close,synthetic
+en00186,You're under investigation for violation. Call +1 555 0193 immediately. Don't tell anyone.,1,fraud,en,fear_secrecy,en-fraud-fear_secrecy-1,,synthetic
+en00187,Investing: returns from 30% a week! Guaranteed. Message @support_team.,1,fraud,en,investment,en-fraud-investment-0,,synthetic
+en00188,citi: access to card ending 4525 is limited. to restore it complete a quick check: https://xn--tzorizstt4fj.example/p/lypa1nqolo,1,fraud,en,card_block,en-fraud-card_block-1,lower+typo,synthetic
+en00189,You're owed compensation for your purchase. Leave your card details so we can pay you: https://stonemetro38.example:8081/city-summit-steppe-amber,1,fraud,en,bonus_refund,en-fraud-bonus_refund-1,,synthetic
+en00190,Government: you are eligible for a tax refund of $798. Claim it within 3 days: https://kaspi.gift-silk.example/,1,fraud,en,gov_payment,en-fraud-gov_payment-0,,synthetic
+en00191,Urgent: client needs an answer by 17:15. Please confirm.,0,safe,en,work,en-safe-work-1,,synthetic
+en00192,"it's your son, new number. please transfer £95925 urgently, long story.",1,fraud,en,relative,en-fraud-relative-1,lower,synthetic
+en00193,Your Walmart login will be deleted today. Confirm your password here: http://dhl.example@craft-sport.example/auth/signin?redirect=%2Fhome,1,fraud,en,account_pwd,en-fraud-account_pwd-0,,synthetic
+en00194,"It's your son, new numbe.r Please transfer £91 now, I'll pay you back. plz",1,fraud,en,relative,en-fraud-relative-1,typo+mix,synthetic
+en00195,thakns for shopping at walmart. amount: £20.,0,safe,en,purchase,en-safe-purchase-0,lower+typo,synthetic
+en00196,Good day. A complaint was filed against you for violation. Appearance mandatory. Don't tell anyone.,1,fraud,en,fear_secrecy,en-fraud-fear_secrecy-1,greet,synthetic
+en00197,Reminder: class on Nov 12 at 21:30. Address: Starbucks.,0,safe,en,reminder,en-safe-reminder-0,,synthetic
+en00198,Someone tried to log in. If it wasn't you reset your password: https://metrocity149286.test/ZHTvEe7WkvXj plz 📦,1,fraud,en,account_pwd,en-fraud-account_pwd-1,mix+emoji,synthetic
+en00199,"Your one-time code is 729659. Do not share it with anyone, including HSBC employees.",0,safe,en,otp,en-safe-otp-0,,synthetic
+en00200,"Hey, it's Mike. Look at this: https://update-urban.example/p/Fo1vh3PWXzxsb",,suspicious,en,unknown_link,en-suspicious-unknown_link-0,,synthetic
+en00201,Thanks for shopping at Walmart. Amount: 36 USD,0,safe,en,purchase,en-safe-purchase-0,nopunct,synthetic
+en00202,"Good day. hey dave, are you coming to the gym tonight? i'll be there around 22:15.",0,safe,en,chat,en-safe-chat-0,lower+greet,synthetic
+en00203,Grandma: don't forget about the famiyl party. Love you,0,safe,en,family,en-safe-family-0,nopunct+typo,synthetic
+en00204,A cashback of $978 from Barclays. Activate it by Dec 3: http://stone5262.test/lFjJf4W0i,1,fraud,en,bonus_refund,en-fraud-bonus_refund-0,,synthetic
+en00205,"Good day. Assistants wanted from home: likes, paid instantly. Text @cashkz",1,fraud,en,fake_job,en-fraud-fake_job-1,greet,synthetic
+en00206,"Barclays: deposit of £98548 received to card ending 4680. If this wasn't you, call the number on the back of your card.",0,safe,en,bank_notice,en-safe-bank_notice-1,,synthetic
+en00207,A refund of $266.45 is available. Activate it by Nov 12: https://egovv51.example/update 🙏,1,fraud,en,bonus_refund,en-fraud-bonus_refund-0,nopunct+emoji,synthetic
+en00208,"it's your son, new number. can you send $866 urgently, long story. 💳",1,fraud,en,relative,en-fraud-relative-1,lower+emoji,synthetic
+en00209,"Notice: Hey Tom, you still up for coming to dinner tomorrow? I'll be there around 8:30.",0,safe,en,chat,en-safe-chat-0,greet,synthetic
+en00210,Walmart: big sale online this weekend only. Details: https://www.travel-silk.example/silk-copper-studio-film/sun-stone-orbit/travel-metro-garden?id=43792&lang=en&utm_campaign=cloud-swift-alpha,0,safe,en,ads,en-safe-ads-0,,synthetic
+en00211,"Support agent: your computer is infected. Message @help.kz, do not turn off the device.",1,fraud,en,tech_support,en-fraud-tech_support-1,,synthetic
+en00212,Notice:  A broker friend shared a trick: made triple in a week. Text me? @cashonline,1,fraud,en,investment,en-fraud-investment-1,greet+dblspace,synthetic
+en00213,YOUR CARD HAS BEEN BLOCKED! VERIFY YOUR DETAILS IMMEDIATELY: HTTP://ALPHALUMEN6091.TEST/XZKVLVBOXBI,1,fraud,en,card_block,en-fraud-card_block-0,upper,synthetic
+en00214,tax office: your balance of £735 has been settled. thank you.,0,safe,en,gov_edu,en-safe-gov_edu-2,lower,synthetic
+en00215,"Mike text me when you're free. Running ten min late, sorry",0,safe,en,chat,en-safe-chat-1,nopunct,synthetic
+en00216,"hi, accounting here. we transferred by mistake £19 to you, please return it to card ending 7028. Regards.",1,fraud,en,money_transfer,en-fraud-money_transfer-0,lower+close,synthetic
+en00217,"HSBC: deposit of 255 USD postde to card ending 6624. If this wasn't you, call the number on the back of your card. пжл",0,safe,en,bank_notice,en-safe-bank_notice-1,typo+mix,synthetic
+en00218,Your Spotify account will be locked in 24 hours. Restore access here: https://hsbc.test@northsummit.test/s/QNtIjTRgve7az,1,fraud,en,account_pwd,en-fraud-account_pwd-0,,synthetic
+en00219,"Citi: charge of $124 at Walgreens, card ending 7257. Available balance: $529.",0,safe,en,bank_notice,en-safe-bank_notice-0,,synthetic
+en00220,Notice: you owe 72 USD in taxes. Settle today or the case goes to bailiffs: https://dhl.secure-pixel.test/secure/update?id=uVMAhUTpRdxv,1,fraud,en,debt,en-fraud-debt-0,,synthetic
+en00221,Your order #94251753 is ready for pickup and will arrive Dec 3. Track it: https://crafttech99.invalid/account/settings 😊,0,safe,en,delivery,en-safe-delivery-0,emoji,synthetic
+en00222,COURIER WILL ARRIVE DEC 3 AFTER 6 PM. DRIVER PHONE: +1 555 0182,0,safe,en,delivery,en-safe-delivery-1,lower+upper,synthetic
+en00223,city hall: walk-ins by appointment only. details at https://egov-docs.example/status/98255,0,safe,en,gov_edu,en-safe-gov_edu-1,lower,synthetic
+en00224,"grandma, i'm in hospital. please send $72 to this number +1 555 0150, i'll explain later.",1,fraud,en,relative,en-fraud-relative-0,lower,synthetic
+en00225,Your BestBuy l0g1n w1ll be l0cked in 24 hours. Conf1rm your p4ssword here: https://dhl.refund-royal.test/login?continue=/home,1,fraud,en,account_pwd,en-fraud-account_pwd-0,leet,synthetic
+en00226,"Lily, congrats on the new job! Can't wait to see you.",0,safe,en,family,en-safe-family-1,,synthetic
+en00227,"Hello! Mom, I'm in hospital. Please send $619.82 urgently, I'll explain later. 😊",1,fraud,en,relative,en-fraud-relative-0,greet+emoji,synthetic
+en00228,"Hey, you don't know me. Look at this: https://stone.example:8081/login?continue=/home",,suspicious,en,unknown_link,en-suspicious-unknown_link-0,,synthetic
+en00229,City hall: your balance of $50505 has been paid. Thank you.,0,safe,en,gov_edu,en-safe-gov_edu-2,,synthetic
+en00230,"Hey, you don't know me. Look at this: https://copperfresh63.test/products/33051",,suspicious,en,unknown_link,en-suspicious-unknown_link-0,,synthetic
+en00231,"Y0ur ver1ficati0n c0de 1s 712843. D0 n0t shar3 1t with anyone, including Ch4se employees.",0,safe,en,otp,en-safe-otp-0,leet,synthetic
+en00232,Your numb3r w4s picked! To claim y0ur r3ward pay a small f33 of $61986.86.,1,fraud,en,prize,en-fraud-prize-1,leet,synthetic
+en00233,thanks for shopping at walmart. total: $526. e-receipt: https://static.steppe-media.test/orders/9661/track asap,0,safe,en,purchase,en-safe-purchase-0,lower+mix,synthetic
+en00234,Reminder: doctor's appointment on Nov 12 at 11:30. Reply C to confirm.,0,safe,en,reminder,en-safe-reminder-0,,synthetic
+en00235,A refund of $39777.20 from Citi. Activate it by 11/15: https://bonus-steppe.invalid/login?continue=/home Regards.,1,fraud,en,bonus_refund,en-fraud-bonus_refund-0,close,synthetic
+en00236,You're owed compensation for service charges. Leave your card details to receive $29: https://billing-aqua-tech.invalid/reset/CCG4NRAD0SCdnE5Ao,1,fraud,en,bonus_refund,en-fraud-bonus_refund-1,,synthetic
+en00237,Your BestBuy login will be locked today. Confirm your password now: https://xn--hq2tu7bq2f.example/river-city-steppe,1,fraud,en,account_pwd,en-fraud-account_pwd-0,,synthetic
+en00238,"Good day. Attention. Your data leaked. Don't call the police, or else message @promo.453",1,fraud,en,fear_secrecy,en-fraud-fear_secrecy-0,nopunct+greet,synthetic
+en00239,your card has been restricted. verify your details now: https://www.gardenfilm.test/docs/learn-cedar.html,1,fraud,en,card_block,en-fraud-card_block-0,lower,synthetic
+en00240,Hello! your code: 727576. enter it on the spotify site. 😊,,suspicious,en,otp_nowarn,en-suspicious-otp_nowarn-0,lower+greet+emoji,synthetic
+en00241,city hall: your application was received. ref 86002333.,0,safe,en,gov_edu,en-safe-gov_edu-1,lower,synthetic
+en00242,Netflix Support: your device is infected. Download a protection app now: https://sho.invalid/Ifq99,1,fraud,en,tech_support,en-fraud-tech_support-0,,synthetic
+en00243,"Hello! Operators wanted online: orders, paid instantly. Start today @support_24",1,fraud,en,fake_job,en-fraud-fake_job-1,greet,synthetic
+en00244,"137946 is your code to confirm £27065 payment at BestBuy. If you didn't request it, ignore this message.",0,safe,en,otp,en-safe-otp-1,,synthetic
+en00245,"Chase: deposit of 52 USD posted to card ending 2526. If this wasn't you, call the number on the back of your card. Regards.",0,safe,en,bank_notice,en-safe-bank_notice-1,close,synthetic
+en00246,"Technician: your computer is infected. Call +1 555 0145, we'll help.",1,fraud,en,tech_support,en-fraud-tech_support-1,,synthetic
+en00247,Fast loan up to $573 to your card. Apply: https://lnk.example/84429,,suspicious,en,loan_ad,en-suspicious-loan_ad-0,,synthetic
+en00248,"Zoe, the contract is with legal. Meeting at 21:00 on Zoom. plz",0,safe,en,work,en-safe-work-0,mix,synthetic
+en00249,Hello! Santander: unusual activity was detected on your profile. To avoid suspension log in: http://nomadharbor50-wallet.example/0Y4nKJAl2d/bttKuiT5xdrV/H3crfrTD?q=cWlaDmL8ObJD1yLcjcMlEPNq,1,fraud,en,bank_phish,en-fraud-bank_phish-0,greet,synthetic
+en00250,urgent: standup moved to 8:00. please confirm. Thanks.,0,safe,en,work,en-safe-work-1,lower+close,synthetic
+en00251,Your relief payment is ready. To receive funds fill in the form: https://greenurban616849.example/nhwyTNL8rnGYB,1,fraud,en,gov_payment,en-fraud-gov_payment-1,,synthetic
+en00252,"862148 is your code to confirm $213 payment at Uber. If you didn't reuqest it, ignore this message.",0,safe,en,otp,en-safe-otp-1,typo,synthetic
+en00253,"your oen-time code is 449144. never share this code, even bank staff. ok",0,safe,en,otp,en-safe-otp-0,lower+typo+mix,synthetic
+en00254,"Mike, the deck is ready. Call at 9:00 in the conference room.",0,safe,en,work,en-safe-work-0,,synthetic
+en00255,A HSBC representative just called you. Give them the code in this message: 569593 to verify your identity.,1,fraud,en,cvv_code,en-fraud-cvv_code-1,,synthetic
+en00256,Important: client needs an answer by 20:00,0,safe,en,work,en-safe-work-1,nopunct,synthetic
+en00257,Your order #94006315 h4s sh1pp3d 4nd sh0uld arr1v3 Nov 12. Tr4ck it: https://secure.cedarstudio.invalid/account/update?continue=/home,0,safe,en,delivery,en-safe-delivery-0,nopunct+leet,synthetic
+en00258,"yo kate, you still up for coming to the gym tomorrow? i'll be there around 17:15.",0,safe,en,chat,en-safe-chat-0,lower,synthetic
+en00259,"Hi Alex, are you coming to the gym tonight? I'll be there around 21:15.",0,safe,en,chat,en-safe-chat-0,,synthetic
+en00260,"Valued client, your password has expired. Confirm your information now: https://fedex-billing.test/s/C59R5FATiNOqZPG Thanks.",1,fraud,en,bank_phish,en-fraud-bank_phish-1,close,synthetic
+en00261,"HSBC: deposit of 78877 USD posted to card ending 7787. If this awsn't you, call the number on the back of your card.",0,safe,en,bank_notice,en-safe-bank_notice-1,typo,synthetic
+en00262,"Notice: Barclays: at your request, card ending 7070 has been frozen.",0,safe,en,bank_notice,en-safe-bank_notice-2,greet,synthetic
+en00263,"Citi: purchase of $23060.19 at Walgreens, card ending 8631.",0,safe,en,bank_notice,en-safe-bank_notice-0,,synthetic
+en00264,thanks for shopping at netflix. amount: $751.45.,0,safe,en,purchase,en-safe-purchase-0,lower,synthetic
+en00265,We missed you parcel #41623816. Confirm your address: https://secure-pixel.invalid/5owX2C1y0m Have a nice day!,1,fraud,en,delivery_customs,en-fraud-delivery_customs-1,close,synthetic
+en00266,You're a winner! To claim your reward tap http://verify.copper.jusan.cafegarden95.test/metro-nova-media-summit. 🙏,1,fraud,en,prize,en-fraud-prize-1,emoji,synthetic
+en00267,"Hi Kate, you still up for coming to dinner tomorrow? I'll be at the entrance around 13:00. Have a nice day!",0,safe,en,chat,en-safe-chat-0,close,synthetic
+en00268,Your refund was approved. To get your money fill in the form: https://barclays.example@iron.example/p/ULxWBN7ulAn6Z,1,fraud,en,gov_payment,en-fraud-gov_payment-1,,synthetic
+en00269,Friendly reminder: class on Friday at 10:30. Reply C to confirm.,0,safe,en,reminder,en-safe-reminder-0,,synthetic
+en00270,"Hello, this is Sam from Uber. We transferred by mistake £925 to you, please send it back to +1 555 0196. Thanks.",1,fraud,en,money_transfer,en-fraud-money_transfer-0,close,synthetic
+en00271,your parcel is held at customs. pay a redelivery fee of $763.55 by dec 3: https://bank-film.test/account/confirm,1,fraud,en,delivery_customs,en-fraud-delivery_customs-0,lower,synthetic
+en00272,Receipt at Zara. Amount: $23.88. E-receipt: https://accounts.learn-maple.invalid/secure/payment?continue=/home 🙏,0,safe,en,purchase,en-safe-purchase-0,emoji,synthetic
+en00273,You're owed compensation for service charges. Leave your card details to receive $158.74: https://metro.test/?id=6HSCcJ&session=xk1Zg&ref=JkINP,1,fraud,en,bonus_refund,en-fraud-bonus_refund-1,,synthetic
+en00274,"Hello! tom, congrats on the new job! let's catch up this weekend.",0,safe,en,family,en-safe-family-1,lower+greet,synthetic
+en00275,Your refund was approved. To get your money fill in the form: http://barcays75.example/reset/lv687K5IxMh1lx1t10,1,fraud,en,gov_payment,en-fraud-gov_payment-1,,synthetic
+en00276,"Hey, it's Emma. Ch3ck this out: http://egov-verify.example/auth/signin?redirect=%2Fhome",,suspicious,en,unknown_link,en-suspicious-unknown_link-0,leet,synthetic
+en00277,"Hey, it's Alex. Check this out: https://shrt.test/98242",,suspicious,en,unknown_link,en-suspicious-unknown_link-0,,synthetic
+en00278,"Barclays: deposit of $50.36 received to card ending 4652. If this wasn't you, call the number on the back of your card.",0,safe,en,bank_notice,en-safe-bank_notice-1,,synthetic
+en00279,Santander: transfer of $56559.36 received to card ending 5161.,0,safe,en,bank_notice,en-safe-bank_notice-1,,synthetic
+en00280,"CHASE: AT YOUR REQUEST, CARD ENDING 9133 HAS BEEN TEMPORARILY LOCKED. YOU CAN UNLOCK IT IN THE APP OR AT A BRANCH. THANKS.",0,safe,en,bank_notice,en-safe-bank_notice-2,close+upper,synthetic
+en00281,"Good day. Barclays: deposit of $70091 posted to card ending 2923. If this wasn't you, call the number on the back of your card.",0,safe,en,bank_notice,en-safe-bank_notice-1,greet,synthetic
+en00282,you're a winner! to get your prize tap http://wallet.pixel.alfabank.atlas.invalid/verify/phtg1wmofuntah1y4kb.,1,fraud,en,prize,en-fraud-prize-1,lower,synthetic
+en00283,Good day. Your relief payment is ready. To receive funds enter your card details: https://whatsapp-update.test/p/BwGhMFbfQHqp ok,1,fraud,en,gov_payment,en-fraud-gov_payment-1,greet+mix,synthetic
+en00284,Hello! We missed you parcel #6099468. Update delivery details and pay storage 54910 USD: http://fedeі-login.example/about 😊,1,fraud,en,delivery_customs,en-fraud-delivery_customs-1,greet+emoji,synthetic
+en00285,Your order #35378085 has shipped and will arrive Friday. Track it: https://app.travelterra68.test/news/2026/1/harbor-vista Have a nice day! ok,0,safe,en,delivery,en-safe-delivery-0,close+mix,synthetic
+en00286,"School: class moved to Friday, 21:15. Room 64221076.",0,safe,en,gov_edu,en-safe-gov_edu-0,,synthetic
+en00287,a citi representative will call you. read them the code in this message: 612541 to verify your identity,1,fraud,en,cvv_code,en-fraud-cvv_code-1,lower+nopunct,synthetic
+en00288,"Hi! We're hiring remote staff. Earn 39 USD per shift, flexible hours. Free training. Text WhatsApp +1 555 0147. 💳",1,fraud,en,fake_job,en-fraud-fake_job-0,emoji,synthetic
+en00289,"Chase fraud team: to cancel a charge of $831, read out the code we sent.",1,fraud,en,cvv_code,en-fraud-cvv_code-0,,synthetic
+en00290,congratulations! you have been selected for $886 in the zara draw. collect it: https://metrotravel61.test/?cid=x12yugp3u&id=ffdm4&ref=tq5bcu&token=ge3nc1j,1,fraud,en,prize,en-fraud-prize-0,lower,synthetic
+en00291,Courier will arrive Nov 12 after 6 pm. Driver phone: +1 555 0113,0,safe,en,delivery,en-safe-delivery-1,nopunct,synthetic
+en00292,Your Zara login will be locked in 24 hours. Restore access now: https://chase-wallet.example/index.php?id=28730,1,fraud,en,account_pwd,en-fraud-account_pwd-0,,synthetic
+en00293,Grandma: remember about the family party. Call me tonight.,0,safe,en,family,en-safe-family-0,,synthetic
+en00294,Notice: you owe $58 in taxes. Pay today or the case goes to bailiffs: http://198.51.100.7/update Have a nice day!,1,fraud,en,debt,en-fraud-debt-0,close,synthetic
+en00295,"HSBC: 4t your request, c4rd ending 9065 has b33n temp0rar1ly locked.",0,safe,en,bank_notice,en-safe-bank_notice-2,leet,synthetic
+en00296,City hall: yoru balance of 71 USD has been settled. Thank you. No reply needed.,0,safe,en,gov_edu,en-safe-gov_edu-2,typo+close,synthetic
+en00297,Tom call me when you're home. Can you grab milk on the way?,0,safe,en,chat,en-safe-chat-1,,synthetic
+en00298,Your card has been restricted! Unlock it today: https://login-deltatau3.invalid/bank/login.php?session=O6Df7Dwl3nUaCNHrXsQ37f3&user=87706,1,fraud,en,card_block,en-fraud-card_block-0,,synthetic
+en00299,Y0ur p4rc3l is on hold. You must p4y a redel1very f33 of 43 USD by Dec 3: http://hsbc-login.invalid/pay/46923 пжл 😊,1,fraud,en,delivery_customs,en-fraud-delivery_customs-0,leet+mix+emoji,synthetic
+en00300,Your order #83292384 is out for delivery and should arrive Dec 3. Track it: https://cdn.gardensummit26.example/about,0,safe,en,delivery,en-safe-delivery-0,,synthetic
+en00301,"Courier  will be there Nov 20 after 6 pm. No payment needed, already paid. asap",0,safe,en,delivery,en-safe-delivery-1,mix+dblspace,synthetic
+en00302,"Courier will be there 11/15 after 6 pm. No payment needed, already paid. ok",0,safe,en,delivery,en-safe-delivery-1,mix,synthetic
+en00303,Government: you've been approved for a benefit of £18808. Claim it by Nov 12: http://aqua-health.test/support/verify-email,1,fraud,en,gov_payment,en-fraud-gov_payment-0,,synthetic
+en00304,mom: don't forget about saturday's trip. see you soon.,0,safe,en,family,en-safe-family-0,lower,synthetic
+en00305,Your number was picked! To get your prize pay a small fee of $92412.91. Thanks.,1,fraud,en,prize,en-fraud-prize-1,close,synthetic
+en00306,"Hey Alex, you still up for coming to the game tomorrow? I'll be there around 16:00.",0,safe,en,chat,en-safe-chat-0,,synthetic
+en00307,We missed you parcel #3805525. Confirm your address and pay storage 203 USD: https://pearlalpha.test/search?q=north+royal,1,fraud,en,delivery_customs,en-fraud-delivery_customs-1,,synthetic
+en00308,"Hello, accounting here. We transferred by mistake 513 USD to you, please send it back to +1 555 0137.",1,fraud,en,money_transfer,en-fraud-money_transfer-0,,synthetic
+en00309,Fri3ndly reminder: doctor's appo1ntment on 11/15 at 20:30. Reply C to confirm.,0,safe,en,reminder,en-safe-reminder-0,leet,synthetic
+en00310,"Barclays: at your request, card ending 8451 has been frozen. You can unlock it in the app or at a branch.",0,safe,en,bank_notice,en-safe-bank_notice-2,,synthetic
+en00311,dmv: your documents are ready. ref 46368086.,0,safe,en,gov_edu,en-safe-gov_edu-1,lower,synthetic
+en00312,"Barclays fraud team: to block a suspicious transaction, read out the CVV.",1,fraud,en,cvv_code,en-fraud-cvv_code-0,,synthetic
+en00313,jake text me when you're home. can you grab milk on the way?,0,safe,en,chat,en-safe-chat-1,lower,synthetic
+en00314,"Good day. 33614 is yuor code to log in to walmart. if you didn't request it, ignore this message.",0,safe,en,otp,en-safe-otp-1,lower+typo+greet,synthetic
+en00315,"Ben text me when you're home. Dinner's at seven, don't be late.",0,safe,en,chat,en-safe-chat-1,,synthetic
+en00316,Notice: We missed you parcel #66200981. Confirm your address and pay storage £68887: https://xn--wp88tngv4ujf0n.example//login,1,fraud,en,delivery_customs,en-fraud-delivery_customs-1,greet,synthetic
+en00317,"Registrar: class scheduled for Nov 12, 8:15. Room 12219350.",0,safe,en,gov_edu,en-safe-gov_edu-0,,synthetic
+en00318,"Hello! lily, congrats on the new job! let's catch up this weekend.",0,safe,en,family,en-safe-family-1,lower+greet,synthetic
+en00319,You're owed compensation for your purchase. Enter your card number to receive $36122.60: https://lumen6214.invalid/IXE1G015rc9B,1,fraud,en,bonus_refund,en-fraud-bonus_refund-1,,synthetic
+en00320,A broker friend showed me a trick: made triple in a week. Want in? @invest.862,1,fraud,en,investment,en-fraud-investment-1,,synthetic
+en00321,Good day. City hall: your documents are ready. Details at https://egov-docs.example/cabinet/15372,0,safe,en,gov_edu,en-safe-gov_edu-1,greet,synthetic
+en00322,We couldn't deliver parcel #50789599. Confirm your address: http://binance.refund-swift.test/account/confirm,1,fraud,en,delivery_customs,en-fraud-delivery_customs-1,,synthetic
+en00323,HSBC: unusual activity was detected on your account. To avoid suspension verify: https://jsan17.example/tau-delta-steppe-fresh 🙏,1,fraud,en,bank_phish,en-fraud-bank_phish-0,nopunct+emoji,synthetic
+en00324,Walmart  Help desk: your account was hacked. Install a protection app now: http://payment-gardentravel36.test/account/settings,1,fraud,en,tech_support,en-fraud-tech_support-0,dblspace,synthetic
+en00325,"Ben call me when you're home. Dinner's at seven, don't be late. Regards.",0,safe,en,chat,en-safe-chat-1,close,synthetic
+en00326,We couldn't deliver parcel #70422151. Confirm your address: https://kazpost.account-sun.example/login/aNfQNPQL?next=/cabinet,1,fraud,en,delivery_customs,en-fraud-delivery_customs-1,,synthetic
+en00327,A complaint was filed against you for violation. Appearance mandatory. Don't tell anyone.,1,fraud,en,fear_secrecy,en-fraud-fear_secrecy-1,,synthetic
+en00328,Urgent: client n3eds an answer by 16:30. Ple4s3 confirm.,0,safe,en,work,en-safe-work-1,leet,synthetic
+en00329,"Yo Zoe, you still up for coming to dinner tonight? I'll be there around 9:00.",0,safe,en,chat,en-safe-chat-0,,synthetic
+en00330,"School: exam scheduled for 11/15, 14:15. Room 14838172.",0,safe,en,gov_edu,en-safe-gov_edu-0,,synthetic
+en00331,Your order #841553 is ready for pickup and should arrive Dec 3. Track it: https://www.lotus.invalid/products/64113,0,safe,en,delivery,en-safe-delivery-0,nopunct,synthetic
+en00332,A bonus of $365.46 from Barclays. Claim it by Nov 20: http://xn--iieo43oae9.example/index.php?id=12809,1,fraud,en,bonus_refund,en-fraud-bonus_refund-0,,synthetic
+en00333,"schoo:l exam moved to nov 12, 16:15.",0,safe,en,gov_edu,en-safe-gov_edu-0,lower+typo,synthetic
+en00334,Citi: access to card ending 5867 is limited. To restore it complete a quick check: https://forte.auth-film.example/claim/25180,1,fraud,en,card_block,en-fraud-card_block-1,,synthetic
+en00335,A Santander representative just called you. Read them the 3-digit code on the back of your card to verify your identity.,1,fraud,en,cvv_code,en-fraud-cvv_code-1,,synthetic
+en00336,"Santander: deposit of $74588.62 posted to card ending 9988. If this wasn't you, call the number on the back of your card.",0,safe,en,bank_notice,en-safe-bank_notice-1,,synthetic
+en00337,"Lily, thanks for the gift! Hugs.",0,safe,en,family,en-safe-family-1,,synthetic
+en00338,"ben, the contract is ready. meeting at 12:15 in the conference room.",0,safe,en,work,en-safe-work-0,lower,synthetic
+en00339,You're a winner! To get your prize pay a small fee of £27142.,1,fraud,en,prize,en-fraud-prize-1,,synthetic
+en00340,"Hi, Your parcel is held at customs. You must pay a customs fee of $42152.97 within 48 hours: https://dhll-billing.example/track/60489",1,fraud,en,delivery_customs,en-fraud-delivery_customs-0,greet,synthetic
+en00341,"Mike, the contract is with legal. Call at 17:15 in the conference room. Edits needed by tomorrow.",0,safe,en,work,en-safe-work-0,,synthetic
+en00342,Courier will arrive Dec 3 between 10 and 2. Driver phone: +1 555 0153,0,safe,en,delivery,en-safe-delivery-1,,synthetic
+en00343,You're under investigation for fraud. Appearance mandatory. This is strictly confidential.,1,fraud,en,fear_secrecy,en-fraud-fear_secrecy-1,,synthetic
+en00344,congratulations! you have been selected for a new phone in the amazon promo. claim it: https://xn--2o8d9t3zmg1j.test/fanpaceuh,1,fraud,en,prize,en-fraud-prize-0,lower,synthetic
+en00345,Your card has b33n suspended. Unl0ck 1t today: https://novamaple504827.invalid/IZYYISJTDouPQc,1,fraud,en,card_block,en-fraud-card_block-0,leet,synthetic
+en00346,"Hello! Hi! We're hiring remote staff. Pay £72 per day, flexible hours. Free training. Message WhatsApp +1 555 0170.",1,fraud,en,fake_job,en-fraud-fake_job-0,greet,synthetic
+en00347,Uber Support: your account was hacked. Download our remote-help tool now: http://whatsapp.payment-north.example/account/confirm,1,fraud,en,tech_support,en-fraud-tech_support-0,,synthetic
+en00348,"Citi fraud team: to block a suspicious transaction, reply with the CVV.",1,fraud,en,cvv_code,en-fraud-cvv_code-0,,synthetic
+en00349,Friendly reminder: doctor's appointment on Monday at 15:30. Address: Target. Thanks. ok,0,safe,en,reminder,en-safe-reminder-0,close+mix,synthetic
+en00350,"Mom, I had an accident. Please send $227 to this number +1 555 0180, my phone broke, texting from a friend's.",1,fraud,en,relative,en-fraud-relative-0,,synthetic
+en00351,"Attentio.n Your data leaked. Don't call the police, to avoid consequences send $39.",1,fraud,en,fear_secrecy,en-fraud-fear_secrecy-0,typo,synthetic
+en00352,Tax office: walk-ins by appointment only. Ref 74909485. No reply needed.,0,safe,en,gov_edu,en-safe-gov_edu-1,close,synthetic
+en00353,"Good day. your one-time code is 201208. do not share it with anyone, even bank staff",0,safe,en,otp,en-safe-otp-0,lower+nopunct+greet,synthetic
+en00354,Trading: profit from 30% a week! Zero risk. Message @supportkz.,1,fraud,en,investment,en-fraud-investment-0,,synthetic
+en00355,treasury: you've been approved for a relief payment of 99 usd. collect it within 3 days: https://orbitsilk314399.test/sqpe7ra6e,1,fraud,en,gov_payment,en-fraud-gov_payment-0,lower,synthetic
+en00356,"Attention. Your data leaked. Tell no one, or else send 490 USD. plz",1,fraud,en,fear_secrecy,en-fraud-fear_secrecy-0,mix,synthetic
+en00357,"Hi, accounting here. We transferred by mistake $26441 to you, please return it to card ending 8713.",1,fraud,en,money_transfer,en-fraud-money_transfer-0,,synthetic
+en00358,Crypto: returns up to $17.22 a day! Guaranteed. Message @job_24. Regards.,1,fraud,en,investment,en-fraud-investment-0,close,synthetic
+en00359,"hey, it's mike. check this out: https://www.stone-pixel.example/blog/bright-city-swift",,suspicious,en,unknown_link,en-suspicious-unknown_link-0,lower+nopunct,synthetic
+en00360,"Hey, it's Sam. Check this out: https://secure.jusan.example/user/profile/33272",,suspicious,en,unknown_link,en-suspicious-unknown_link-0,,synthetic
+en00361,Hello! Spotify: big sale in store this weekend only. Details: https://mail.royal.example/catalog/alpha/tau?page=11&sort=name,0,safe,en,ads,en-safe-ads-0,greet,synthetic
+en00362,Walmart: new arrivals online tihs weekend only. Details: https://xn--uwwd1c9ybx6.test/shop/amber?utm_source=sms&utm_medium=notice&ref=8za7Cvd,0,safe,en,ads,en-safe-ads-0,typo,synthetic
+en00363,"Hi, Grandma: don't forget about Saturday's trip. Love you!",0,safe,en,family,en-safe-family-0,greet,synthetic
+en00364,DMV: your application was received. Details at https://egov-status.example/request/22802,0,safe,en,gov_edu,en-safe-gov_edu-1,,synthetic
+en00365,"Hi, it's Sam, phon3 1s broken. C4n y0u s3nd $331 now, I'll pay you back.",1,fraud,en,relative,en-fraud-relative-1,leet,synthetic
+en00366,Citi: deposit of £307 received to card ending 1363 пжл,0,safe,en,bank_notice,en-safe-bank_notice-1,nopunct+mix,synthetic
+en00367,Fast loan no refusal in 5 minutes. Details: https://short.invalid/Cf7dz пжл,,suspicious,en,loan_ad,en-suspicious-loan_ad-0,mix,synthetic
+en00368,Netflix Support: your device is infected. Install a protection app here: https://www.freshpearl1.test/orders/91239/track,1,fraud,en,tech_support,en-fraud-tech_support-0,,synthetic
+en00369,Your order #27473885 is ready for pickup and will arrive 11/15. Track it: https://orbitnorth8.example/user/profile/61833,0,safe,en,delivery,en-safe-delivery-0,,synthetic
+en00370,Your Zara login will be deleted in 24 hours. Confirm your password now: http://198.51.100.114/pay/85378,1,fraud,en,account_pwd,en-fraud-account_pwd-0,,synthetic
+en00371,"S3curity officer: t0 bl0ck 4 charge 0f $97808, r3ply with your PIN Regards.",1,fraud,en,cvv_code,en-fraud-cvv_code-0,nopunct+leet+close,synthetic
+en00372,"Hi, Quick c4sh no r3fusal in 5 minutes. Apply: https://lnk.example/51716 Regards. plz",,suspicious,en,loan_ad,en-suspicious-loan_ad-0,leet+greet+close+mix,synthetic
+en00373,"Citi: at your request, card ending 1209 has been temporarily locked. You can unlock it in the app or at a branch.",0,safe,en,bank_notice,en-safe-bank_notice-2,,synthetic
+en00374,"Hi, You're a winner! To claim your reawrd pay a small fee of $89170.32.",1,fraud,en,prize,en-fraud-prize-1,typo+greet,synthetic
+en00375,"Notice: It's your son, phone is broken. Can you send 53749 USD urgently, long story.",1,fraud,en,relative,en-fraud-relative-1,greet,synthetic
+en00376,Your card has been blocked! Verify your details immediately: https://binance.example@gardenatlas73.example/track/1535,1,fraud,en,card_block,en-fraud-card_block-0,,synthetic
+en00377,"Assist4nts wanted online: orders, 3arn 70 USD. Text @investteam",1,fraud,en,fake_job,en-fraud-fake_job-1,leet,synthetic
+en00378,your card has been blocked! verify your details now: https://nomad9701.example/n03mpik2,1,fraud,en,card_block,en-fraud-card_block-0,lower,synthetic
+en00379,"kate, congrats on the new job! can't wait to see you.",0,safe,en,family,en-safe-family-1,lower,synthetic
+en00380,You're owed compensation for service charges. Enter your card number so we can pay you: https://wellsfargі.test/secure/update?id=ZZHIPoUdlHZZ Regards.,1,fraud,en,bonus_refund,en-fraud-bonus_refund-1,close,synthetic
+en00381,Your parcel is held at customs. You must pay a redelivery fee of $11 within 48 hours: https://bright7857.example/QQomzS3wznWC,1,fraud,en,delivery_customs,en-fraud-delivery_customs-0,,synthetic
+en00382,"Yo Dave, are you coming to the game tomorrow? I'll be there around 13:15.",0,safe,en,chat,en-safe-chat-0,,synthetic
+en00383,Good day. Receipt at Walmart. Total: £65. E-receipt: https://www.aquabooks70.example/film-blue-craft/swift-harbor/grand-altyn?id=48193&lang=kk&utm_campaign=blue-alpha-craft-swift Have a nice day!,0,safe,en,purchase,en-safe-purchase-0,greet+close,synthetic
+en00384,"Security  officer: to cancel a charge of $71, read out the code we sent. ok",1,fraud,en,cvv_code,en-fraud-cvv_code-0,mix+dblspace,synthetic
+en00385,"Your  one-time code is 851243. Never share this code, even bank staff. Have a nice day!",0,safe,en,otp,en-safe-otp-0,close+dblspace,synthetic
+en00386,DMV: your application was received. Details at https://egov-status.example/status/4639 Thanks.,0,safe,en,gov_edu,en-safe-gov_edu-1,nopunct+close,synthetic
+en00387,"HSBC: deposit of $464 posted to card ending 8740. If this wasn't you, call the number on the back of your card.",0,safe,en,bank_notice,en-safe-bank_notice-1,,synthetic
+en00388,Notice: you owe $69 on your loan. Settle by Nov 12 to avoid court: https://prime-cedar5945.example/ew4MISLteEIs,1,fraud,en,debt,en-fraud-debt-0,nopunct,synthetic
+en00389,A Santander representative just called you. Read them the 3-digit code on the back of your card to verify your identity. Regards.,1,fraud,en,cvv_code,en-fraud-cvv_code-1,close,synthetic
+en00390,"University: class moved to Monda,y 18:45.",0,safe,en,gov_edu,en-safe-gov_edu-0,typo,synthetic
+en00391,Reminder: class on 11/15 at 20:45. Reply C to confirm. Have a nice day!,0,safe,en,reminder,en-safe-reminder-0,close,synthetic
+en00392,"Notice: Hi Nina, you still up for coming to the game tonight? I'll be at the entrance around 17:15.",0,safe,en,chat,en-safe-chat-0,greet,synthetic
+en00393,You're a winner! To get your prize tap https://verify-healthstudio.test/account/settings.,1,fraud,en,prize,en-fraud-prize-1,,synthetic
+en00394,reminder: meeting on friday at 17:45. reply c to confirm.,0,safe,en,reminder,en-safe-reminder-0,lower,synthetic
+en00395,Friendly reminder: dentist on 11/15 at 18:00. Reply C to confirm.,0,safe,en,reminder,en-safe-reminder-0,,synthetic
+en00396,Urgent: standup moved to 13:30.,0,safe,en,work,en-safe-work-1,,synthetic
+en00397,"Hi, Investing: returns from 30% a week! Zero risk. Join @support.24.",1,fraud,en,investment,en-fraud-investment-0,greet,synthetic
+en00398,You're owed compensation for your purchase. Leave your card details to receive $97.14: https://bonus.alpha.barclays.copper.example/vXWiTr9SzMi,1,fraud,en,bonus_refund,en-fraud-bonus_refund-1,,synthetic
+en00399,Important: client needs an answer by 10:15. Have a nice day!,0,safe,en,work,en-safe-work-1,close,synthetic
+en00400,"Valued client, your details are out of date. Update your information now: https://metrogarden-payment.example/fpXzF4/6JVVKHACo34/4OGp7Orkw/d7auPGfYQi/PCpqca/wzGDj8QtXhQ?id=3KmabVjxH1q6OwTiM3Zw1irolevXP",1,fraud,en,bank_phish,en-fraud-bank_phish-1,,synthetic
+en00401,bestbuy support: your account was hacked. download our remote-help tool here: https://grand-payment.test/lnf8sbihtgmq/wjsrg/todxxf4dm/2yeznb/nnxsbymtxq?q=idkkfdnnirzjiavghypdbc62qoan7 plz,1,fraud,en,tech_support,en-fraud-tech_support-0,lower+mix,synthetic
+en00402,thanks for shopping at zara. total: 905 usd.,0,safe,en,purchase,en-safe-purchase-0,lower,synthetic
+en00403,Urgent: client needs an answer by 17:15.,0,safe,en,work,en-safe-work-1,,synthetic
+en00404,Notice: an outstanding balance of $58 in taxes. Settle by Nov 20 or the case goes to bailiffs: http://quartzorbit315654.example/LZhTAZBksBRtcl,1,fraud,en,debt,en-fraud-debt-0,,synthetic
+en00405,"hey, it's dave. olok at this: https://www.lotus-silk.example/pearl-market-cafe/garden-stone-delta/royal-forest-cafe/urban-harbor/stone-pearl-sun/altyn-metro-alpha?id=3102&lang=ru&utm_campaign=metro-aqua",,suspicious,en,unknown_link,en-suspicious-unknown_link-0,lower+nopunct+typo,synthetic
+en00406,"Alex, the contract is ready. Call at 15:45 in the conference room. Edits needed by tomorrow",0,safe,en,work,en-safe-work-0,nopunct,synthetic
+en00407,You're a winner! To claim your reward reply YES.,1,fraud,en,prize,en-fraud-prize-1,,synthetic
+en00408,"Notice: Assistants wanted from home: orders, earn $86613. Text @helpkz",1,fraud,en,fake_job,en-fraud-fake_job-1,greet,synthetic
+en00409,"Hello!  Ben, happy birthday! Can't wait to see you. Regards.",0,safe,en,family,en-safe-family-1,greet+close+dblspace,synthetic
+en00410,Congratulations! You have been selected for 864 USD in the BestBuy promo. Claim it: https://lotus.example/a/b/c/d/delta-books-sport-bright/index.html,1,fraud,en,prize,en-fraud-prize-0,nopunct,synthetic
+en00411,Amazon: new arrivals in store this weekend only. Details: https://www.cedar-forest.test/contact 📦,0,safe,en,ads,en-safe-ads-0,emoji,synthetic
+en00412,Notice: Alex text me when you're free. Can you grab milk on the way?,0,safe,en,chat,en-safe-chat-1,greet,synthetic
+en00413,"Sceurity officer: to block a suspicious transaction, read out your PIN.",1,fraud,en,cvv_code,en-fraud-cvv_code-0,typo,synthetic
+en00414,DMV: your documents are ready. Details at https://egov-docs.example/status/83664,0,safe,en,gov_edu,en-safe-gov_edu-1,,synthetic
+en00415,"Yo Emma, are you coming to the gym tonight? I'll be there around 10:15. No reply needed. ❗",0,safe,en,chat,en-safe-chat-0,close+emoji,synthetic
+en00416,Barclays: 4 new-device l0g1n w4s d3t3ct3d 0n your profile. To av01d suspens10n verify: http://ch4se-update.test/auth/signin?redirect=%2Fhome,1,fraud,en,bank_phish,en-fraud-bank_phish-0,leet,synthetic
+en00417,A cashback 0f $81 1s available. Cl41m it by N0v 12: https://login-terra-steppe.test/login/8Cedfsw?next=/cabinet,1,fraud,en,bonus_refund,en-fraud-bonus_refund-0,leet,synthetic
+en00418,"Barclays: at your request, card ending 7874 has been frozen.",0,safe,en,bank_notice,en-safe-bank_notice-2,,synthetic
+en00419,"support agent: we detected a virus on your phone. call +1 555 0191, do not turn off the device. Regards.",1,fraud,en,tech_support,en-fraud-tech_support-1,lower+close,synthetic
+en00420,your code: 75188. enter it on the amazon site.,,suspicious,en,otp_nowarn,en-suspicious-otp_nowarn-0,lower,synthetic
+en00421,A specialist will call you. Give them the code in this message: 77434 to verify your identity Regards.,1,fraud,en,cvv_code,en-fraud-cvv_code-1,nopunct+close,synthetic
+en00422,A br0ker friend sh4r3d 4 strategy: made tripl3 1n 4 week. Want in? @promo.533,1,fraud,en,investment,en-fraud-investment-1,leet,synthetic
+en00423,Trading: profit from 30% a wee!k Zero risk. Message @invest.24.,1,fraud,en,investment,en-fraud-investment-0,typo,synthetic
+en00424,Dad: remember about the family party. See you soon.,0,safe,en,family,en-safe-family-0,,synthetic
+en00425,Ben call me when you're free. Can you grab milk on the way?,0,safe,en,chat,en-safe-chat-1,,synthetic
+en00426,urgent: standup moved to 19:30. please confirm.,0,safe,en,work,en-safe-work-1,lower,synthetic
+en00427,Notice: City hall: your application was received. Ref 75110273.,0,safe,en,gov_edu,en-safe-gov_edu-1,greet,synthetic
+en00428,city hall: your fine of 691 usd has been paid. thank you. Thanks.,0,safe,en,gov_edu,en-safe-gov_edu-2,lower+close,synthetic
+en00429,city hall: your balance of $53 has been paid. thank you. Have a nice day!,0,safe,en,gov_edu,en-safe-gov_edu-2,lower+close,synthetic
+en00430,"Opr34t0rs n33d3d online: orders, 34rn £61. Text @cash.team пжл",1,fraud,en,fake_job,en-fraud-fake_job-1,typo+leet+mix,synthetic
+en00431,Zara Support: your device is infected. Download our remote-help tool here: https://update.metro.whatsapp.steppebooks14.invalid/login?continue=/home plz,1,fraud,en,tech_support,en-fraud-tech_support-0,mix,synthetic
+en00432,Reminder: doctor's 4ppointm3nt on Mond4y at 8:00. Address: Starbucks. 😊,0,safe,en,reminder,en-safe-reminder-0,leet+emoji,synthetic
+en00433,Your refund was approved. To receive funds entre your card details: https://silk-royal.example/shop/pearl?utm_source=sms&utm_medium=notice&ref=nUgwTcpR0i,1,fraud,en,gov_payment,en-fraud-gov_payment-1,typo,synthetic
+en00434,Santander: access to card ending 7863 is limited. To keep using your card complete a quick check: http://[2001:db8::9bfb]/login,1,fraud,en,card_block,en-fraud-card_block-1,,synthetic
+en00435,"Technician: your computer is infected. Message @help.904, we'll help.",1,fraud,en,tech_support,en-fraud-tech_support-1,,synthetic
+en00436,Hello! Fr13ndly reminder: dentist on Nov 20 at 9:45. To r3schedule call +1 555 0167.,0,safe,en,reminder,en-safe-reminder-0,leet+greet,synthetic
+en00437,friendly reminder: doctor's appointment on dec 3 at 7:45. to reschedule call +1 555 0170.,0,safe,en,reminder,en-safe-reminder-0,lower,synthetic
+en00438,city hall: your fine of $61 has been paid. thank you 🙏,0,safe,en,gov_edu,en-safe-gov_edu-2,lower+nopunct+emoji,synthetic
+en00439,your order #86904940 is ready for pickup and will arrive friday. track it: https://atlastau.example/user/profile/67304 plz,0,safe,en,delivery,en-safe-delivery-0,lower+mix,synthetic
+en00440,SANTANDER: ACCESS TO CARD ENDING 8758 IS PAUSED. TO RESTORE IT VERIFY HERE: HTTP://XN--Y4U516NQ37D.EXAMPLE/PAY/90709,1,fraud,en,card_block,en-fraud-card_block-1,upper,synthetic
+en00441,"Hi, HSBC: charge of £93737 at Subway, card ending 6798. Available balance: $89944.84.",0,safe,en,bank_notice,en-safe-bank_notice-0,greet,synthetic
+en00442,A new-device login was detected. To protect it enter your login and password: http://short.invalid/QZiQ6N,1,fraud,en,account_pwd,en-fraud-account_pwd-1,,synthetic
+en00443,Chase: access to card ending 8648 is limited. To restore it verify here: https://dhl-verify.example/river-copper-craft-terra Thanks.,1,fraud,en,card_block,en-fraud-card_block-1,close,synthetic
+en00444,"Citi: purchase of 108 USD at Target, card ending 9094. Available balance: $67866.",0,safe,en,bank_notice,en-safe-bank_notice-0,,synthetic
+en00445,A cashback of 594 USD is available. Activate it by Friday: http://books.test:2083/claim/23042,1,fraud,en,bonus_refund,en-fraud-bonus_refund-0,,synthetic
+en00446,"Dave text me when you're free. Dinner's at seven, don't be late",0,safe,en,chat,en-safe-chat-1,nopunct,synthetic
+en00447,"Hey, it's Mike. Check this out: https://shrt.test/4867",,suspicious,en,unknown_link,en-suspicious-unknown_link-0,,synthetic
+en00448,"Supoprt agent: we detected a virus on your phone. Message @promoteam, we'll help.",1,fraud,en,tech_support,en-fraud-tech_support-1,typo,synthetic
+en00449,"Citi: at your request, card ending 5317 has been temporarily locked",0,safe,en,bank_notice,en-safe-bank_notice-2,nopunct,synthetic
+en00450,"Support agent: we detected a virus on your phone. Message @support.24, do not turn off the device.",1,fraud,en,tech_support,en-fraud-tech_support-1,,synthetic
+en00451,"HSBC: charge of 60 USD at Costco, card ending 9229. Available balance: $61.94. No reply needed.",0,safe,en,bank_notice,en-safe-bank_notice-0,close,synthetic
+en00452,Tax office: your balance of $475 has been paid. Thank you,0,safe,en,gov_edu,en-safe-gov_edu-2,nopunct,synthetic
+en00453,"Valued client, your details are out of date. Confirm your information now: https://paypal-gift.test/login/vSLEB3?next=/cabinet",1,fraud,en,bank_phish,en-fraud-bank_phish-1,,synthetic
+en00454,hsbc: deposit of $987.39 received to card ending 7668.,0,safe,en,bank_notice,en-safe-bank_notice-1,lower,synthetic
+en00455,your parcel is held at customs. you must pay a customs fee of 4218 usd by 11/15: https://orbit-support.example/mz1qiivjagp/ejhjy/fncilfe8aq/eeeytcf/mfbwexsm1h/mvgjp?a=zjrmjwlhbsriyx08rzcc,1,fraud,en,delivery_customs,en-fraud-delivery_customs-0,lower,synthetic
+en00456,"It's your son, phone is broken. Can you send £379 now, I'll pay you back.",1,fraud,en,relative,en-fraud-relative-1,,synthetic
+en00457,Tax office: your balance of $407 has been settled. Thank you.,0,safe,en,gov_edu,en-safe-gov_edu-2,,synthetic
+en00458,A specialist will c4ll you. R34d them th3 cod3 in this message: 28002 to v3r1fy y0ur identity.,1,fraud,en,cvv_code,en-fraud-cvv_code-1,leet,synthetic
+en00459,"Y0 Mike, you st1ll up f0r coming to th3 gym tomorrow? I'll b3 4t th3 3ntrance 4r0und 20:15.",0,safe,en,chat,en-safe-chat-0,leet,synthetic
+en00460,You're under investigation for fraud. Call +1 555 0185 immediately. Don't tell anyone,1,fraud,en,fear_secrecy,en-fraud-fear_secrecy-1,nopunct,synthetic
+en00461,"santander: payment of $75 at shell, card ending 4142",0,safe,en,bank_notice,en-safe-bank_notice-0,lower+nopunct,synthetic
+en00462,Your parcel is held at customs. Pay a customs fee of 82 USD within 48 hours: http://copperatlas.example/a/b/c/d/forest-market-learn-health/index.html Regards.,1,fraud,en,delivery_customs,en-fraud-delivery_customs-0,close,synthetic
+en00463,Good day. Your Spotify login will be deleted today. Confirm your password here: http://forest9517.invalid/3toSnXuDU,1,fraud,en,account_pwd,en-fraud-account_pwd-0,greet,synthetic
+en00464,"Courier will be there 11/15 between 10 and 2. No payment needed, already paid.",0,safe,en,delivery,en-safe-delivery-1,,synthetic
+en00465,"Op3r4tors wanted from home: likes, paid instantly. T3xt @investonline No reply needed. ok",1,fraud,en,fake_job,en-fraud-fake_job-1,leet+close+mix,synthetic
+en00466,Your  order #21710331 is ready for pickup and should arrive Nov 12.,0,safe,en,delivery,en-safe-delivery-0,dblspace,synthetic
+en00467,Mom: remember about the family party. Love you!,0,safe,en,family,en-safe-family-0,,synthetic
+en00468,"barclays: charge of $69 at subway, card ending 2633.",0,safe,en,bank_notice,en-safe-bank_notice-0,lower,synthetic
+en00469,You're our lucky winner! You have been selected for 580 USD in the Spotify draw. Claim your prize: https://tauatlas7254.test/ZW8U76cpKLP3 Regards.,1,fraud,en,prize,en-fraud-prize-0,nopunct+close,synthetic
+en00470,Grandma: don't forget about the birthday dinner. See you soon.,0,safe,en,family,en-safe-family-0,typo,synthetic
+en00471,"Hi, accounting here. We transferred by mistake £779 to you, please return it to card ending 4860.",1,fraud,en,money_transfer,en-fraud-money_transfer-0,,synthetic
+en00472,"HSBC fraud team: to block a charge of $36, read out the CVV",1,fraud,en,cvv_code,en-fraud-cvv_code-0,nopunct,synthetic
+en00473,We'll  refund you for your purchase. Leave your card details to receive £130: http://payment-gardenfresh.example/claim/60807,1,fraud,en,bonus_refund,en-fraud-bonus_refund-1,dblspace,synthetic
+en00474,"546266 is your code to log in to BestBuy. If you didn't request it, ignore this message.",0,safe,en,otp,en-safe-otp-1,,synthetic
+en00475,"Hi, santander: at your request, card ending 9501 has been temporarily locked.",0,safe,en,bank_notice,en-safe-bank_notice-2,lower+greet,synthetic
+en00476,Receipt at Amazon. Total: $86. E-receipt: https://accounts.jusan.example/,0,safe,en,purchase,en-safe-purchase-0,,synthetic
+en00477,Tax office: your bal4nc3 of £7 has been paid. Th4nk you.,0,safe,en,gov_edu,en-safe-gov_edu-2,leet,synthetic
+en00478,CRYPOT: RETURNS UP TO 81 USD A DAY! GUARANTEED. MESSAGE @SUPPORT.TEAM.,1,fraud,en,investment,en-fraud-investment-0,typo+upper,synthetic
+en00479,"Operators needed from home: reviews, paid instantly. Text @help24 Have a nice day! пжл",1,fraud,en,fake_job,en-fraud-fake_job-1,close+mix,synthetic
+en00480,"Your verification code is 375338. Do not share it with anyone, including Citi employees.",0,safe,en,otp,en-safe-otp-0,,synthetic
+en00481,"Attention. Your data leaked. Tell no one, to avoid consequences message @help_team.",1,fraud,en,fear_secrecy,en-fraud-fear_secrecy-0,,synthetic
+en00482,Final summons: you owe $24229 in utility bills. Pay by Nov 12 or the case goes to bailiffs: https://apple.billing-river.invalid/about ok,1,fraud,en,debt,en-fraud-debt-0,mix,synthetic
+en00483,BestBuy Support: your device is infected. Download a protection app now: https://short.invalid/qpL2Q2R Thanks.,1,fraud,en,tech_support,en-fraud-tech_support-0,close,synthetic
+en00484,Good day. Zara: big sale in store this weekend only. Details: https://ironmedia59.test/user/profile/69224,0,safe,en,ads,en-safe-ads-0,greet,synthetic
+en00485,Receipt at Spotify. Amount: $98.95. E-receipt: https://blog.alphaterra.example/a/b/c/d/river-altyn/index.html,0,safe,en,purchase,en-safe-purchase-0,,synthetic
+en00486,"technician: your computer is infected. message @pro_kz, do not turn off the device.",1,fraud,en,tech_support,en-fraud-tech_support-1,lower,synthetic
+en00487,"your verification code is 641435. never share this code, including hsbc employees.",0,safe,en,otp,en-safe-otp-0,lower,synthetic
+en00488,Dad: remember about the family party. Love you! Thanks.,0,safe,en,family,en-safe-family-0,close,synthetic
+en00489,"Hi Zoe, are you coming to the gym tonight? I'll be there around 15:15.",0,safe,en,chat,en-safe-chat-0,,synthetic
+en00490,"Hey Zoe, you still up for coming to dinner tonigth? I'll be there around 7:30.",0,safe,en,chat,en-safe-chat-0,typo,synthetic
+en00491,"Kate, happy birthday! Hugs",0,safe,en,family,en-safe-family-1,nopunct,synthetic
+en00492,Tax Agency: you are eligible for a tax refund of $70. Collect it within 3 days: https://xn--q8i5wwbyc.example/auth/signin?redirect=%2Fhome,1,fraud,en,gov_payment,en-fraud-gov_payment-0,,synthetic
+en00493,"Valued client, y0ur passw0rd has expired. Confirm your 1nform4t1on w1th1n 24 hours: https://bonus.learn.instagram.bluehealth80.example/auth/signin?redirect=%2Fhome Thanks.",1,fraud,en,bank_phish,en-fraud-bank_phish-1,leet+close,synthetic
+en00494,"Barclays: purchase of $67 at tSarbucks, card ending 0678. Available balance: 91231 USD.",0,safe,en,bank_notice,en-safe-bank_notice-0,typo,synthetic
+en00495,Barclays Security: a new-device login was detected on your account. To avoid suspension log in: https://confirm-orbit-travel.example/about,1,fraud,en,bank_phish,en-fraud-bank_phish-0,,synthetic
+en00496,"Dad, I had an accident. I need £37551 urgently, I'll explain later.",1,fraud,en,relative,en-fraud-relative-0,,synthetic
+en00497,Friendly reminder: meeting on 11/15 at 13:45. Address: Target.,0,safe,en,reminder,en-safe-reminder-0,,synthetic
+en00498,"Good day. Citi: charge of £605 at Starbucks, card ending 4836. plz",0,safe,en,bank_notice,en-safe-bank_notice-0,greet+mix,synthetic
+en00499,"Notice: Lily, happy birthday! Let's catch up this weekend. 💳",0,safe,en,family,en-safe-family-1,greet+emoji,synthetic
+en00500,"courier will arrive nov 12 between 10 and 2. no payment needed, already paid.",0,safe,en,delivery,en-safe-delivery-1,lower,synthetic
+en00501,"Zoe, the contract is ready. Meeting at 16:30 in the conference room. Edtis needed by tomorrow.",0,safe,en,work,en-safe-work-0,typo,synthetic
+en00502,quick cash up to £49525 to your card. details: https://shrt.test/22569,,suspicious,en,loan_ad,en-suspicious-loan_ad-0,lower+nopunct,synthetic
+en00503,Citi: access to card ending 9754 is limited. To restore it complete a quick check: http://[2001:db8::4967]/secure/update?id=R9rMDN9cd8m Regards.,1,fraud,en,card_block,en-fraud-card_block-1,close,synthetic
+en00504,Important: standup omved to 18:15. Please confirm.,0,safe,en,work,en-safe-work-1,typo,synthetic
+en00505,Treasury: you are eligible for a benefit of £164. Collect it by Friday: https://telegraі.invalid/account/confirm,1,fraud,en,gov_payment,en-fraud-gov_payment-0,,synthetic
+en00506,Friendly remidner: doctor's appointment on Nov 20 at 10:00. Reply C to confirm.,0,safe,en,reminder,en-safe-reminder-0,typo,synthetic
+en00507,"ben, the contract is with legal. meeting at 17:30 in the conference room. plz",0,safe,en,work,en-safe-work-0,lower+mix,synthetic
+en00508,"Hi! We're hiring remote staff. Pay $234 per day, flexible hours. Tasks done on your phone. Text WhatsApp +1 555 0188.",1,fraud,en,fake_job,en-fraud-fake_job-0,,synthetic
+en00509,"your verification code is 361982. do not share it with anyone, including citi employees",0,safe,en,otp,en-safe-otp-0,lower+nopunct,synthetic
+en00510,Tax office: your documents are ready. Ref 98561371.,0,safe,en,gov_edu,en-safe-gov_edu-1,,synthetic
+en00511,We couldn't deliver parcel #66027078. Confirm your address and pay storage £378: https://jusan-support.invalid/claim/67605,1,fraud,en,delivery_customs,en-fraud-delivery_customs-1,nopunct,synthetic
+en00512,Notice:  65394 is your code to confirm $97578.52 payment at Zara. It expires in 5 minutes.,0,safe,en,otp,en-safe-otp-1,greet+dblspace,synthetic
+en00513,"Final warning. Your data leaked. Tell no one, or else send 541 USD. Regards.",1,fraud,en,fear_secrecy,en-fraud-fear_secrecy-0,close,synthetic
+en00514,BestBuy: new arrivals online this wekeend only. Details: https://u.example/ShwHHX,0,safe,en,ads,en-safe-ads-0,typo,synthetic
+en00515,Your code: 999315. Enter it on the Walmart site. asap,,suspicious,en,otp_nowarn,en-suspicious-otp_nowarn-0,mix,synthetic
+en00516,"Security officer: to cancel a suspicious transaction, read out the code we sent.",1,fraud,en,cvv_code,en-fraud-cvv_code-0,,synthetic
+en00517,Your number was picked! To claim your reward tap https://kaspi-auth.example/track/60616. Have a nice day! ok,1,fraud,en,prize,en-fraud-prize-1,close+mix,synthetic
+en00518,We missed you parcel #73302524. Confirm your address and pay storage $450: https://whatsapp-verify.test/bank/login.php?session=W2WcZly2Jj1Rsqnau&user=67964,1,fraud,en,delivery_customs,en-fraud-delivery_customs-1,,synthetic
+en00519,you're a winner! to get your prize reply yes,1,fraud,en,prize,en-fraud-prize-1,lower+nopunct,synthetic
+en00520,"Final warning. Your data leaked. Don't call the police, to avoid consqeuences send £68.",1,fraud,en,fear_secrecy,en-fraud-fear_secrecy-0,typo,synthetic
+en00521,You're our lucky winner! You won 75 USD in the Uber draw. Claim your prize: https://whatsappp-support.test/login?continue=/home,1,fraud,en,prize,en-fraud-prize-0,nopunct,synthetic
+en00522,"Citi: deposit of £371 posted to card ending 2408. If this wasn't you, call the number on the back of your card.",0,safe,en,bank_notice,en-safe-bank_notice-1,,synthetic
+en00523,Your code: 787240. Enter it on the Walmart site.,,suspicious,en,otp_nowarn,en-suspicious-otp_nowarn-0,,synthetic
+en00524,City hall: your balance of 136 USD has been settled. Thank you. No reply needed.,0,safe,en,gov_edu,en-safe-gov_edu-2,close,synthetic
+en00525,"Hey, you don't know me. Look at this: https://u.example/36805",,suspicious,en,unknown_link,en-suspicious-unknown_link-0,,synthetic
+en00526,Hello! Important: client needs an answer by 21:00. Please confirm,0,safe,en,work,en-safe-work-1,nopunct+greet,synthetic
+en00527,"your verification code is 175842. do not share it with anyone, even bank staff.",0,safe,en,otp,en-safe-otp-0,lower,synthetic
+en00528,Reminder: meeting on Dec 3 at 19:30. Reply C to confirm.,0,safe,en,reminder,en-safe-reminder-0,,synthetic
+en00529,"Notice: hey, it's lily. check this out: https://www.lotus.example/vista-quartz/studio-media/river-cafe-vista/fresh-summit/silk-sun-pixel-alpha/metro-health-terra?id=66013&lang=kk&utm_campaign=aqua-studio Regards.",,suspicious,en,unknown_link,en-suspicious-unknown_link-0,lower+greet+close,synthetic
+en00530,"security officer: to cancel a charge of 877 usd, read out the cvv.",1,fraud,en,cvv_code,en-fraud-cvv_code-0,lower,synthetic
+en00531,You're under investigation for violation. Appearance mandatory. This is strictly confidential.,1,fraud,en,fear_secrecy,en-fraud-fear_secrecy-1,,synthetic
+en00532,Hello! Citi: access to card ending 3636 is paused. To restore it verify here: https://www.royal.example/docs/nomad-craft-lumen-iron.html,1,fraud,en,card_block,en-fraud-card_block-1,greet,synthetic
+en00533,Netflix Support: your device was hacked. Dwonload our remote-help tool here: https://confirm-marketcloud.invalid/claim/79813 plz,1,fraud,en,tech_support,en-fraud-tech_support-0,typo+mix,synthetic
+en00534,Dad: remember about Saturday's trip. Love you! ok,0,safe,en,family,en-safe-family-0,mix,synthetic
+en00535,"Mom, I'm in hospital. Please send £60263 to this number +1 555 0144, I'll explain later.",1,fraud,en,relative,en-fraud-relative-0,,synthetic
+en00536,A new-device login was detected. If it wasn't you enter your login and password: https://tink0ff.test/p/ER18clPd0XSYw,1,fraud,en,account_pwd,en-fraud-account_pwd-1,,synthetic
+en00537,Courier will arrive Nov 20 between 10 and 2. Driver phone: +1 555 0130,0,safe,en,delivery,en-safe-delivery-1,,synthetic
+en00538,"Support agent: we detected a virus on your phone. Message @supportteam, we'll help.",1,fraud,en,tech_support,en-fraud-tech_support-1,,synthetic
+en00539,Notice: 533725 is your code to log in to Amazon. It expires in 5 minutes.,0,safe,en,otp,en-safe-otp-1,greet,synthetic
+en00540,You're under investigation for fraud. Call +1 555 0149 immediately. This is strictly confidential ✅,1,fraud,en,fear_secrecy,en-fraud-fear_secrecy-1,nopunct+emoji,synthetic
+en00541,"Good day. Hey, it's Mike. Look at this: https://u.example/6280 😊",,suspicious,en,unknown_link,en-suspicious-unknown_link-0,greet+emoji,synthetic
+en00542,"Hi, Hey, it's Anna. Look at this: https://grandbooks58.test/files/uep4Jo687pcQuG",,suspicious,en,unknown_link,en-suspicious-unknown_link-0,nopunct+greet,synthetic
+en00543,receipt  at uber. total: $10 Regards.,0,safe,en,purchase,en-safe-purchase-0,lower+nopunct+close+dblspace,synthetic
+en00544,"Zoe, the contract is ready. Meeting at 13:00 on Zoom. Edits needed by tomorrow. plz",0,safe,en,work,en-safe-work-0,mix,synthetic
+en00545,"chase: at your request, card ending 0581 has been frozen. you can unlock it in the app or at a branch.",0,safe,en,bank_notice,en-safe-bank_notice-2,lower,synthetic
+en00546,Citi: access to card ending 7210 is limited. To restore it complete a quick check: https://facebook.account-delta.example/p/DlHkAH1933KHKJh пжл,1,fraud,en,card_block,en-fraud-card_block-1,mix,synthetic
+en00547,"It's your son, phone is broken. Can you send 187 USD urgently, long story.",1,fraud,en,relative,en-fraud-relative-1,,synthetic
+en00548,"Notice: Santander: at your request, card ending 0886 has been frozen",0,safe,en,bank_notice,en-safe-bank_notice-2,nopunct+greet,synthetic
+en00549,barclays security: unusual activity was detected on your account. to avoid suspension verify: http://aqua-atlas.test/a/b/c/d/nova-maple-river/index.html,1,fraud,en,bank_phish,en-fraud-bank_phish-0,lower,synthetic
+en00550,courier will be there monday between 10 and 2. driver phone: +1 555 0126,0,safe,en,delivery,en-safe-delivery-1,lower,synthetic
+en00551,A new-device login was detected. If it wasn't you enter your login and password: http://203.0.113.112/p/z5gmtUVY,1,fraud,en,account_pwd,en-fraud-account_pwd-1,,synthetic
+en00552,"Attention. Your photos were exposed. Tell no one, to avoid consequences message @pro.kz.",1,fraud,en,fear_secrecy,en-fraud-fear_secrecy-0,,synthetic
+en00553,A  specialist will call you. Give them the 3-digit code on the back of your card to verify your identity.,1,fraud,en,cvv_code,en-fraud-cvv_code-1,dblspace,synthetic
+en00554,Treasury: you are eligibl3 f0r 4 r3l1ef payment 0f $1684. Coll3ct it within 3 days: http://health4642.example/NflxVODzoqI пжл,1,fraud,en,gov_payment,en-fraud-gov_payment-0,leet+mix,synthetic
+en00555,"hsbc: charge of £37 at costco, card ending 3405. available balance: $14436.89.",0,safe,en,bank_notice,en-safe-bank_notice-0,lower,synthetic
+en00556,"Attention. Your data leaked. Don't call the police, to avoid consequences message @job_24.",1,fraud,en,fear_secrecy,en-fraud-fear_secrecy-0,,synthetic
+en00557,Good day. Netflix: up to 30% off in the app this weekend only. Reply STOP to opt out,0,safe,en,ads,en-safe-ads-0,greet,synthetic
+en00558,Chase: access to card ending 6719 is limited. To keep using your card complete a quick check: https://xn--cuayz4cmu30x8.test/verify/e2WdxflwHt5,1,fraud,en,card_block,en-fraud-card_block-1,,synthetic
+en00559,City hall: your application was received. Details at https://egov-status.example/request/39760,0,safe,en,gov_edu,en-safe-gov_edu-1,,synthetic
+en00560,your code: 504537. enter it on the bestbuy site. 🙏,,suspicious,en,otp_nowarn,en-suspicious-otp_nowarn-0,lower+emoji,synthetic
+en00561,Mom: remember about the family party. See you soon.,0,safe,en,family,en-safe-family-0,,synthetic
+en00562,"872380 is your code to log in to BestBuy. If you didn't request it, ignore this message. asap 🙏",0,safe,en,otp,en-safe-otp-1,mix+emoji,synthetic
+en00563,A complaint was filed against you for violation. Call +1 555 0122 immediately. This is strictly confidential,1,fraud,en,fear_secrecy,en-fraud-fear_secrecy-1,nopunct,synthetic
+en00564,Quick cash up to £40 in 5 minutes. Apply: https://xn--r1xc53e39.test/login/qMQ6rC?next=/cabinet ✅,,suspicious,en,loan_ad,en-suspicious-loan_ad-0,emoji,synthetic
+en00565,"HSBC: at your request, card ending 9212 has been frozen. You can unlock it in the app or at a branch.",0,safe,en,bank_notice,en-safe-bank_notice-2,,synthetic
+en00566,Mom: remember about the family party. Call me tonight. 🙏,0,safe,en,family,en-safe-family-0,emoji,synthetic
+en00567,You're a winner! To get your prize pay a small fee of £247. Have a nice day!,1,fraud,en,prize,en-fraud-prize-1,close,synthetic
+en00568,Reminder: meeting on Nov 20 at 10:45. To reschedule call +1 555 0113.,0,safe,en,reminder,en-safe-reminder-0,,synthetic
+en00569,A specialist just called you. Give them the code in this message: 551448 to secure your account.,1,fraud,en,cvv_code,en-fraud-cvv_code-1,,synthetic
+en00570,Your parcel is held at customs. You must pay a customs fee of $46492.14 within 48 hours: https://sho.invalid/wSnBs,1,fraud,en,delivery_customs,en-fraud-delivery_customs-0,,synthetic
+en00571,Hello! A refund of $59.17 is available. Claim it before the weekend: https://blue-sun.test/?cid=Gyg5l&id=cgBsPfKP&ref=n5YCbSMvKB&token=0iiH7,1,fraud,en,bonus_refund,en-fraud-bonus_refund-0,greet,synthetic
+en00572,dmv: your documents are ready. details at https://egov-status.example/cabinet/72258,0,safe,en,gov_edu,en-safe-gov_edu-1,lower,synthetic
+en00573,City hall: your balance of £696 has been settled. Thank you. Regards.,0,safe,en,gov_edu,en-safe-gov_edu-2,close,synthetic
+en00574,Grandma: remember about Saturday's trip. See you soon.,0,safe,en,family,en-safe-family-0,,synthetic
+en00575,"Hey Tom, you still up for coming to dinner tonight? I'll be at the entrance around 11:45.",0,safe,en,chat,en-safe-chat-0,,synthetic
+en00576,"Your verification code is 189466. Never share this code, including Barclays employees.",0,safe,en,otp,en-safe-otp-0,,synthetic
+en00577,"Final warning. Your data leaked. Tell no one, to avoid consequences message @invest_kz.",1,fraud,en,fear_secrecy,en-fraud-fear_secrecy-0,,synthetic
+en00578,a citi representative just called you. read them the code in this message: 931333 to verify your identity,1,fraud,en,cvv_code,en-fraud-cvv_code-1,lower+nopunct,synthetic
+en00579,Tax office: your fine of $2575.21 has been paid. Thank you.,0,safe,en,gov_edu,en-safe-gov_edu-2,,synthetic
+en00580,City hall: your balance of £80 has been settled. Thank you.,0,safe,en,gov_edu,en-safe-gov_edu-2,,synthetic
+en00581,Final summons: you owe £30 in utility bills. Pay today to avoid court: http://altynlotus-confirm.example/5q5gf/ySR40qaIJ/mZ91ziDl/W1dJ7HoSo3/jQxJaJvTFJ94/dEuSpc2aNxx?q=PCx3NamPHwRyS6uUTa0CcrFrHSv83xqhV,1,fraud,en,debt,en-fraud-debt-0,,synthetic
+en00582,"technician: we detected a virus on your phone. call +1 555 0194, we'll help ❗",1,fraud,en,tech_support,en-fraud-tech_support-1,lower+nopunct+emoji,synthetic
+en00583,your order #23892125 is ready for pickup and will arrive monday. пжл,0,safe,en,delivery,en-safe-delivery-0,lower+mix,synthetic
+en00584,"770111 is your code to confirm £228 payment at BestBuy. If you didn't request it, ignore this message.",0,safe,en,otp,en-safe-otp-1,,synthetic
+en00585,City hall: your fine of £380 has been settled. Thank you asap ✅,0,safe,en,gov_edu,en-safe-gov_edu-2,nopunct+mix+emoji,synthetic
+en00586,"hi, this is anna from netflix. we transferred by mistake 97212 usd to you, please send it back to +1 555 0143.",1,fraud,en,money_transfer,en-fraud-money_transfer-0,lower,synthetic
+en00587,"Hi, accounting here. We transferred by mistake £65 to you, please send it back to +1 555 0147.",1,fraud,en,money_transfer,en-fraud-money_transfer-0,,synthetic
+en00588,Your Uber login will be deleted tdoay. Restore access now: https://aapple13.test/secure/update?id=xEva3gHKEGk6,1,fraud,en,account_pwd,en-fraud-account_pwd-0,typo,synthetic
+en00589,Hello! A cashback of $4361.38 from Citi. Claim it before the weekend: https://go-link.test/zPYeroN,1,fraud,en,bonus_refund,en-fraud-bonus_refund-0,greet,synthetic
+en00590,Your relief apyment is ready. To get your money enter your card details: https://forest-river.example:8443/auth/signin?redirect=%2Fhome,1,fraud,en,gov_payment,en-fraud-gov_payment-1,typo,synthetic
+en00591,"Valued  client, your details are out of date. Update your information now: http://ironcity7231.example/Sa8NsAbh",1,fraud,en,bank_phish,en-fraud-bank_phish-1,dblspace,synthetic
+en00592,your parcel is on hold. pay a redelivery fee of £32 within 48 hours: https://kazpost.gift-fresh.example/account/confirm,1,fraud,en,delivery_customs,en-fraud-delivery_customs-0,lower,synthetic
+en00593,You're owed compensation for your purchase. Leave your card details to receive $37570.45: https://whatsapі-bonus.invalid/about,1,fraud,en,bonus_refund,en-fraud-bonus_refund-1,,synthetic
+en00594,"Dear customer, your details are out of date. Confirm your information within 24 hours: https://tau7569.example/x5rjgVFv1hR",1,fraud,en,bank_phish,en-fraud-bank_phish-1,nopunct,synthetic
+en00595,Mom:  don't forg3t 4bout th3 fam1ly party. Call m3 tonight.,0,safe,en,family,en-safe-family-0,leet+dblspace,synthetic
+en00596,Spotify: new arrivals online until Nov 20. Reply STPO to opt out,0,safe,en,ads,en-safe-ads-0,nopunct+typo,synthetic
+en00597,"Tom, congrats on the new job! Hugs.",0,safe,en,family,en-safe-family-1,,synthetic
+en00598,A new-device login was detected. If it wasn't you enter your login and password: http://google-confirm.invalid/bank/login.php?session=SA25EnGxuYDBWZB90jzL&user=40712 ok,1,fraud,en,account_pwd,en-fraud-account_pwd-1,mix,synthetic
+en00599,"University: class moved to Friday, 22:30.",0,safe,en,gov_edu,en-safe-gov_edu-0,,synthetic
+en00600,Tax office: your balance of $616.79 has been paid. Thank you.,0,safe,en,gov_edu,en-safe-gov_edu-2,,synthetic
+en00601,We missed you parcel #82663898. Update delivery details: http://royal-terra.invalid:8081/login,1,fraud,en,delivery_customs,en-fraud-delivery_customs-1,,synthetic
+en00602,"Hi Alex, you still up for coming to the game tonight? I'll be at the entrance around 21:30",0,safe,en,chat,en-safe-chat-0,nopunct,synthetic
+en00603,"Courier will arrive Friday between 10 and 2. No payment needed, already paid.",0,safe,en,delivery,en-safe-delivery-1,,synthetic
+en00604,"Courier will be there Dec 3 between 10 and 2. No payment needed, already paid. plz",0,safe,en,delivery,en-safe-delivery-1,typo+mix,synthetic
+en00605,Your order #30149022 is out for delivery and should arrive Monday. Track it: https://secure.binance.example/payment/receipt?id=46657 plz,0,safe,en,delivery,en-safe-delivery-0,mix,synthetic
+en00606,Urgent: standpu moved to 11:00.,0,safe,en,work,en-safe-work-1,typo,synthetic
+en00607,Receipt 4t Amazon. Total: $35. E-receipt: https://billing.learnnomad.example/verify?continue=/home,0,safe,en,purchase,en-safe-purchase-0,leet,synthetic
+en00608,congratulations! you have been selected for a new phone in the w4lmart promo. cla1m your prize: https://jisan-bonus.example/reset/aubkpgup4o6dtew43bw,1,fraud,en,prize,en-fraud-prize-0,lower+leet,synthetic
+en00609,"Hi, citi fraud team: to block a charge of £91301, read out the cvv.",1,fraud,en,cvv_code,en-fraud-cvv_code-0,lower+greet,synthetic
+en00610,"Dear customer, your details are out of date. Update your information now: https://north.example/s/uX9txKJdGrufp",1,fraud,en,bank_phish,en-fraud-bank_phish-1,,synthetic
+en00611,"Lily text me when you're home. Dinner's at seven, don't be late.",0,safe,en,chat,en-safe-chat-1,,synthetic
+en00612,"Dad, I'm in hospital. I need $80316 to this number +1 555 0163, my phone broke, texting from a friend's. Regards.",1,fraud,en,relative,en-fraud-relative-0,close,synthetic
+en00613,"321802 is your code to confirm $48416 payment at walmart. if you didn't request it, ignore this message. пжл",0,safe,en,otp,en-safe-otp-1,lower+mix,synthetic
+en00614,"347898 is your code to confirm £9 payment at Zara. If you didn't request it, ignore this message. ❗",0,safe,en,otp,en-safe-otp-1,emoji,synthetic
+en00615,Netflix: big sale online this weekend only. Reply STOP to opt out,0,safe,en,ads,en-safe-ads-0,,synthetic
+en00616,your walmart login will be delteed in 24 hours. confirm your password now: https://lnk.example/yfvk279,1,fraud,en,account_pwd,en-fraud-account_pwd-0,lower+typo,synthetic
+en00617,"Hi Mike, are you coming to the game tonight? I'll be at the entrance around 9:45.",0,safe,en,chat,en-safe-chat-0,,synthetic
+en00618,"Hi, friendly reminder: doctor's appointment on 11/15 at 8:30. to reschedule call +1 555 0179",0,safe,en,reminder,en-safe-reminder-0,lower+nopunct+greet,synthetic
+en00619,"tom, thanks for the gift! hugs.",0,safe,en,family,en-safe-family-1,lower,synthetic
+en00620,Someone  tried to log in. To protect it reset your password: https://xn--t8tvwka1ax8.example/claim/76031,1,fraud,en,account_pwd,en-fraud-account_pwd-1,dblspace,synthetic
+en00621,Reminder: doctor's appointment on 11/15 at 7:15. Relpy C to confirm.,0,safe,en,reminder,en-safe-reminder-0,typo,synthetic
+en00622,Rece1pt 4t Uber. Total: 52257 USD. E-receipt: https://secure.sunstone.example/account/update?continue=/home Regards.,0,safe,en,purchase,en-safe-purchase-0,leet+close,synthetic
+en00623,"Barclays: at your request, card ending 1053 has been frozen",0,safe,en,bank_notice,en-safe-bank_notice-2,nopunct,synthetic
+en00624,"Support agent: your computer is infected. Message @pro.online, do not turn off the device.",1,fraud,en,tech_support,en-fraud-tech_support-1,,synthetic
+en00625,We  missed you parcel #68905052. Confirm your address and pay storage $72: https://north7779.invalid/gJF2tDB2,1,fraud,en,delivery_customs,en-fraud-delivery_customs-1,dblspace,synthetic
+en00626,Courier will be there Nov 20 between 10 and 2. Driver phone: +1 555 0194 ok,0,safe,en,delivery,en-safe-delivery-1,mix,synthetic
+en00627,Good day. Your relief payment is ready. To get your money fill in the form: https://kazpost-login.test/,1,fraud,en,gov_payment,en-fraud-gov_payment-1,greet,synthetic
+en00628,"Final warning. Your photos leaked. Tell no one, to avoid consequences send 85020 USD. Regards. ok",1,fraud,en,fear_secrecy,en-fraud-fear_secrecy-0,close+mix,synthetic
+en00629,Final summons: an outstanding balance of 89176 USD in taxes. Pay by Dec 3 or the case goes to bailiffs: http://vistaroyal21.test/orders/9479/track Have a nice day! пжл,1,fraud,en,debt,en-fraud-debt-0,close+mix,synthetic
+en00630,Notice: Tax office: your documents are ready. Details at https://egov-docs.example/cabinet/19107,0,safe,en,gov_edu,en-safe-gov_edu-1,greet,synthetic
+en00631,A broker friend showed me a strategy: made triple in a week. Text me? @job.24,1,fraud,en,investment,en-fraud-investment-1,,synthetic
+en00632,"Attention. Your photos leaked. Tell no one, or else message @proonline. Thanks.",1,fraud,en,fear_secrecy,en-fraud-fear_secrecy-0,close,synthetic
+en00633,651307 is your code to confirm $30658.25 payment at Uber. It expires in 5 minutes.,0,safe,en,otp,en-safe-otp-1,,synthetic
+en00634,"Citi: at your request, card ending 8539 has been temporarily locked. You can unlock it in the app or at a branch.",0,safe,en,bank_notice,en-safe-bank_notice-2,,synthetic
+en00635,HSBC: transfer of $508.88 received to card ending 3360.,0,safe,en,bank_notice,en-safe-bank_notice-1,,synthetic
+en00636,Tax Agency: you are eligible for a tax refund of $47488.97. Claim it by Monday: http://northsun56.example:8081/about,1,fraud,en,gov_payment,en-fraud-gov_payment-0,,synthetic
+en00637,"19504 is your code to log in to zara. if you didn't request it, ignore this message.",0,safe,en,otp,en-safe-otp-1,lower,synthetic
+en00638,Your relief payment is ready. To get your money fill in the form: http://198.51.100.68/claim/90072,1,fraud,en,gov_payment,en-fraud-gov_payment-1,,synthetic
+en00639,"Hi! We saw your resume. Pay $40 per shift, flexible hours. Tasks done on your phone. Message WhatsApp +1 555 0112.",1,fraud,en,fake_job,en-fraud-fake_job-0,,synthetic
+en00640,"Citi: purchase of £15 at Subway, card ending 0769.",0,safe,en,bank_notice,en-safe-bank_notice-0,,synthetic
+en00641,A CITI REPRESENTATIVE WILL CALL YOU. GIVE THEM THE 3-DIGIT CODE ON THE BCAK OF YOUR CARD TO SECURE YOUR ACCOUNT,1,fraud,en,cvv_code,en-fraud-cvv_code-1,nopunct+typo+upper,synthetic
+en00642,Notice: Your number was picked! To claim your reward tap http://203.0.113.205/pay/4375.,1,fraud,en,prize,en-fraud-prize-1,greet,synthetic
+en00643,"Citi:  payment of $27 at Starbucks, card ending 6386.",0,safe,en,bank_notice,en-safe-bank_notice-0,dblspace,synthetic
+en00644,Uber: up to 30% off in store this weekend only. Reply STOP to opt out,0,safe,en,ads,en-safe-ads-0,,synthetic
+en00645,Receipt at Netflix. Amount: $19025.53. E-receipt: https://www.quartzsummit.example/reset/IfLtNVVazPOaZAEHqOm,0,safe,en,purchase,en-safe-purchase-0,,synthetic
+en00646,"Lily, happy birthday! Let's catch up this weekend. No reply needed.",0,safe,en,family,en-safe-family-1,close,synthetic
+en00647,your code: 962705. enter it on the amazon site.,,suspicious,en,otp_nowarn,en-suspicious-otp_nowarn-0,lower,synthetic
+en00648,receipt at zara. total: 53705 usd. e-receipt: https://www.sun-vista.example/news/2026/8/health-summit,0,safe,en,purchase,en-safe-purchase-0,lower,synthetic
+en00649,Your code: 597607. Enter it on the Zara site,,suspicious,en,otp_nowarn,en-suspicious-otp_nowarn-0,nopunct,synthetic
+en00650,"Support agent: we detected a virus on your phone. Message @prokz, do not turn off the device.",1,fraud,en,tech_support,en-fraud-tech_support-1,,synthetic
+en00651,"dear customer, your password has expired. confirm your information no:w https://lumenterra.invalid",1,fraud,en,bank_phish,en-fraud-bank_phish-1,lower+typo,synthetic
+en00652,B3stBuy Support: your 4cc0unt w4s hacked. Inst4ll 0ur remote-help t0ol now: http://203.0.113.199/river-tau Have a nice day!,1,fraud,en,tech_support,en-fraud-tech_support-0,leet+close,synthetic
+en00653,Good day. You're under investigation for fraud. Call +1 555 0194 immediately. This is strictly confidential. asap,1,fraud,en,fear_secrecy,en-fraud-fear_secrecy-1,greet+mix,synthetic
+en00654,"Our analyst showed me a strategy: put in £71, tripled it. Text me? @help_kz",1,fraud,en,investment,en-fraud-investment-1,,synthetic
+en00655,we'll refund you for your purchase. leave your card details to receive £193: https://go-link.test/sm5dte2l,1,fraud,en,bonus_refund,en-fraud-bonus_refund-1,lower,synthetic
+en00656,"Operators needed from home: reviews, paid instantly. Start today @help.online",1,fraud,en,fake_job,en-fraud-fake_job-1,,synthetic
+en00657,Your order #29882570 is out for delivery and should arrive Dec 3. Track it: https://www.taublue69.example/invite/RhAmZegkt3G0jKr Thanks.,0,safe,en,delivery,en-safe-delivery-0,close,synthetic
+en00658,Your code: 302762. Enter it on the Netflix site. 📦,,suspicious,en,otp_nowarn,en-suspicious-otp_nowarn-0,emoji,synthetic
+en00659,"HSBC: charge of £64 at Shell, card ending 0927",0,safe,en,bank_notice,en-safe-bank_notice-0,nopunct,synthetic
+en00660,Chase: access to card ending 5629 is paused. To keep using your card verify here: http://facebook-secure.invalid/auth/signin?redirect=%2Fhome No reply needed. ❗,1,fraud,en,card_block,en-fraud-card_block-1,close+emoji,synthetic
+en00661,"CHASE: CHARGE OF 34198 USD AT SUBWAY, CARD ENDING 4161. AVAILABLE BALANCE: £60.",0,safe,en,bank_notice,en-safe-bank_notice-0,upper,synthetic
+en00662,"Hi, Tax Agency: you are eligible for a relief payment of £794. Claim it within 3 days: https://dhl.confirm-travel.test/secure/update?id=gTwRNb6GX",1,fraud,en,gov_payment,en-fraud-gov_payment-0,greet,synthetic
+en00663,Walmart: big sale online until Nov 12. Reply STOP to opt out,0,safe,en,ads,en-safe-ads-0,,synthetic
+en00664,t4x office: your d0cuments 4r3 ready. d3ta1ls at https://egov-portal.example/status/86667,0,safe,en,gov_edu,en-safe-gov_edu-1,lower+leet,synthetic
+en00665,Fast loan up to $960.21 in 5 minutes. Apply: https://shrt.test/37607,,suspicious,en,loan_ad,en-suspicious-loan_ad-0,,synthetic
+en00666,A Barclays representative just called you. Read them the code in this message: 250428 to secure your account.,1,fraud,en,cvv_code,en-fraud-cvv_code-1,,synthetic
+en00667,Good day. notice: an outstanding balance of $39944 in utility bills. settle today or the case goes to bailiffs: https://payment.royal.telegram.altyn-harbor.test/p/lpsfm9d4,1,fraud,en,debt,en-fraud-debt-0,lower+greet,synthetic
+en00668,Notice:  HSBC: deposit of 27139 USD posted to card ending 8230.,0,safe,en,bank_notice,en-safe-bank_notice-1,greet+dblspace,synthetic
+en00669,"ZOE, THE CONTRACT IS WITH LEGAL. CALL AT 13:30 ON ZOOM.",0,safe,en,work,en-safe-work-0,upper,synthetic
+en00670,Government: you are eligible for a relief payment of $516. Claim it within 3 days: https://silk-health.example/ Regards.,1,fraud,en,gov_payment,en-fraud-gov_payment-0,close,synthetic
+en00671,"It's your son, new number. Can you send $553.91 urgently, long story.",1,fraud,en,relative,en-fraud-relative-1,,synthetic
+en00672,744883 is your code to confirm 84125 USD payment at Netflix. It expires in 5 minutes,0,safe,en,otp,en-safe-otp-1,nopunct,synthetic
+en00673,"Mike, the contract is with legal. Call at 8:45 on Zoom",0,safe,en,work,en-safe-work-0,nopunct,synthetic
+en00674,"A broker friend shared a strategy: put in £73476, tripled it. Text me? @pro_online",1,fraud,en,investment,en-fraud-investment-1,,synthetic
+en00675,"Our analyst shared a strategy: put in $972.28, tripled it. Want in? @promo.kz",1,fraud,en,investment,en-fraud-investment-1,,synthetic
+en00676,netflix: up to 30% off online until dec 3. details: https://support.travelalpha.test/verify?continue=/home,0,safe,en,ads,en-safe-ads-0,lower,synthetic
+en00677,"Hi! We saw your resume. Earn $81 per shift, no experience. Tasks done on your phone. Text WhatsApp +1 555 0125. 📦",1,fraud,en,fake_job,en-fraud-fake_job-0,emoji,synthetic
+en00678,"Dad, I'm in hospital. Please send $59.10 urgently, I'll explain later",1,fraud,en,relative,en-fraud-relative-0,nopunct,synthetic
+en00679,Dad: don't forget about the family party. See you soon.,0,safe,en,family,en-safe-family-0,,synthetic
+en00680,Someone treid to log in. If it wasn't you reset your password: https://swift1798.test/Y4a9UEknyuv4i No reply needed.,1,fraud,en,account_pwd,en-fraud-account_pwd-1,typo+close,synthetic
+en00681,City hall: your balance of 99 USD has bene paid. Thank you.,0,safe,en,gov_edu,en-safe-gov_edu-2,typo,synthetic
+en00682,You're our lucky winner! You won a car in the Netflix draw. Claim your prize: http://198.51.100.199/secure/update?id=US5Q1pEESu Regards.,1,fraud,en,prize,en-fraud-prize-0,close,synthetic
+en00683,"yo zoe, are you coming to the gym tonight? i'll be at the entrance around 13:30.",0,safe,en,chat,en-safe-chat-0,lower,synthetic
+en00684,Walmart Help desk: your device was hacked. Install a protection app now: https://alfabanі-bonus.example/verify/UdTYvTbn975 ok,1,fraud,en,tech_support,en-fraud-tech_support-0,nopunct+mix,synthetic
+en00685,Final summons: you owe 45 USD on your loan. Pay today or the case goes to bailiffs: https://xn--cctwi449.example/about,1,fraud,en,debt,en-fraud-debt-0,nopunct,synthetic
+en00686,"School: parent meeting moved to 11/15, 11:00. Room 97455465.",0,safe,en,gov_edu,en-safe-gov_edu-0,,synthetic
+en00687,Tax office: your fine of $83 has been paid. Thank you,0,safe,en,gov_edu,en-safe-gov_edu-2,nopunct,synthetic
+en00688,"Attention. Your photos wree exposed. Tell no one, to avoid consequences send $23.39. Have a nice day! 🙏",1,fraud,en,fear_secrecy,en-fraud-fear_secrecy-0,typo+close+emoji,synthetic
+en00689,Friendly reminder: meeting on Monday at 19:30. Address: Costc.o,0,safe,en,reminder,en-safe-reminder-0,typo,synthetic
+en00690,A COMPLAINT WAS FILED AGAINST YOU FOR FRAUD. CALL +1 555 0129 IMMEDIATELY. DON'T TELL ANYONE.,1,fraud,en,fear_secrecy,en-fraud-fear_secrecy-1,upper,synthetic
+en00691,"Hi, Hi Tom, are you coming to the game tomorrow? I'll be there around 12:00.",0,safe,en,chat,en-safe-chat-0,greet,synthetic
+en00692,R3ceipt 4t BestBuy. Amount: $5.,0,safe,en,purchase,en-safe-purchase-0,leet,synthetic
+en00693,"Barclays: charge of $232 at Target, card ending 1044. Available balance: $84.",0,safe,en,bank_notice,en-safe-bank_notice-0,,synthetic
+en00694,Your code: 793834. Enter it on the BestBuy site.,,suspicious,en,otp_nowarn,en-suspicious-otp_nowarn-0,,synthetic
+en00695,"Dad, I had an accident. I need 90 USD urgently, I'll explain later. Thanks.",1,fraud,en,relative,en-fraud-relative-0,close,synthetic
+en00696,Walmart Support: your account was hacked. Install a protection app here: http://shrt.test/nyfusMTl Thanks. plz,1,fraud,en,tech_support,en-fraud-tech_support-0,nopunct+close+mix,synthetic
+en00697,"University: parent meeting moved to 11/15, 17:30. Room 45449613.",0,safe,en,gov_edu,en-safe-gov_edu-0,,synthetic
+en00698,Government: you are eligible for a benefit of $735.42. Collect it within 3 days: https://xn--n1w5ghhti.invalid/p/GiTKgqP8xGm,1,fraud,en,gov_payment,en-fraud-gov_payment-0,,synthetic
+en00699,"Alex, th3 contr4ct 1s with legal. Meeting at 19:00 in th3 confer3nce room.",0,safe,en,work,en-safe-work-0,leet,synthetic
+en00700,your relief payment is ready. to get your money enter your card details: https://paypl-bonus.example/,1,fraud,en,gov_payment,en-fraud-gov_payment-1,lower,synthetic
+en00701,"Hi, Santander: access to card ending 3859 is limited. To restore it verify here: https://gift-maple.example/login?continue=/home пжл",1,fraud,en,card_block,en-fraud-card_block-1,greet+mix,synthetic
+en00702,A cashback of £24 is available. Claim it by Dec 3: http://rivergrand.example/account/settings,1,fraud,en,bonus_refund,en-fraud-bonus_refund-0,,synthetic
+en00703,"A broker friend showed me a trick: put in £23, trpiled it. Text me? @support_kz",1,fraud,en,investment,en-fraud-investment-1,typo,synthetic
+en00704,"318307 is your code to log in to Spotify. If you didn't request it, ignore this message.",0,safe,en,otp,en-safe-otp-1,,synthetic
+en00705,"CITI: DEPOSIT OF $93.88 RECEIVED TO CARD ENDING 5412. IF THIS WASN'T YOU, CALL THE NUMBER ON THE BACK OF YOUR CARD.",0,safe,en,bank_notice,en-safe-bank_notice-1,upper,synthetic
+en00706,"A broker friend showed me a strategy: put in 33 USD, tripled it. Text me? @invest.220",1,fraud,en,investment,en-fraud-investment-1,,synthetic
+en00707,trading: profit from 30% a week! zero risk. join @invest_team.,1,fraud,en,investment,en-fraud-investment-0,lower,synthetic
+en00708,Your  parcel is held at customs. Pay a customs fee of $311 within 48 hours: http://royal-grand.invalid:2083/a//b/9Ij071E0B,1,fraud,en,delivery_customs,en-fraud-delivery_customs-0,dblspace,synthetic
+en00709,"Citi:  charge of 56 USD at Shell, card ending 2002. asap",0,safe,en,bank_notice,en-safe-bank_notice-0,mix+dblspace,synthetic
+en00710,Your order #46532789 is out for delivery and will arrive Nov 12.,0,safe,en,delivery,en-safe-delivery-0,,synthetic
+en00711,"Tom, the deck is ready. Meeting at 16:30 on Zoom",0,safe,en,work,en-safe-work-0,nopunct,synthetic
+en00712,Barclays: a new-device login was flagged on your account. To avoid suspension log in: https://film.example/a/b/c/d/travel-health-film/index.html,1,fraud,en,bank_phish,en-fraud-bank_phish-0,nopunct,synthetic
+en00713,"Hi, your card has been restricted! unlock it today: https://tau4360.test/v2blu0f1uea",1,fraud,en,card_block,en-fraud-card_block-0,lower+greet,synthetic
+en00714,"hello, this is nina from zara. we transferred by mistake $63690 to you, please return it to card ending 4309. asap",1,fraud,en,money_transfer,en-fraud-money_transfer-0,lower+mix,synthetic
+en00715,6049 is your code to confirm $147 payment at netflix. it expires in 5 minutes.,0,safe,en,otp,en-safe-otp-1,lower,synthetic
+en00716,Your number was picked! To claim your reward tap https://login.metro.binance.alpha.example/.,1,fraud,en,prize,en-fraud-prize-1,,synthetic
+en00717,"NINA, THE REPORT IS WITH LEGAL. MEETING AT 9:15 IN THE CONFERENCE ROOM. EDITS NEEDED BY TOMORROW.",0,safe,en,work,en-safe-work-0,upper,synthetic
+en00718,BestBuy Support: your device was hacked. Install a protection app here: https://tech-aqua434.example/bLKcxY,1,fraud,en,tech_support,en-fraud-tech_support-0,,synthetic
+en00719,Tax office: your documents are ready. Details at https://egov-status.example/request/52672,0,safe,en,gov_edu,en-safe-gov_edu-1,nopunct,synthetic
+en00720,NOTICE: SPOTIFY: UP TO 30% OFF IN STORE THIS WEEKEND ONLY. REPLY STOP TO OPT OUT REGARDS.,0,safe,en,ads,en-safe-ads-0,greet+close+upper,synthetic
+en00721,Hello! Courier will arrive Nov 20 between 10 and 2. Driver phone: +1 555 0158,0,safe,en,delivery,en-safe-delivery-1,greet,synthetic
+en00722,dad: don't forget about the birthday dinner. love you!,0,safe,en,family,en-safe-family-0,lower,synthetic
+en00723,Receipt at Amazon. Total: 76 USD.,0,safe,en,purchase,en-safe-purchase-0,,synthetic
+en00724,"Santander: deposit of $383.20 posted to card ending 3949. If this wasn't you, call the number on the back of your card.",0,safe,en,bank_notice,en-safe-bank_notice-1,,synthetic
+en00725,a refund of £11 from santander. activate it before the weekend: https://bonus.harbor.whatsapp.swift.test/verify/2bidfmi8xrcn8xd8z1wq,1,fraud,en,bonus_refund,en-fraud-bonus_refund-0,lower,synthetic
+en00726,We couldn't deliver parcel #94271879. Confirm your address: http://copper.example:8443/s/98tHe13f1Nq71H,1,fraud,en,delivery_customs,en-fraud-delivery_customs-1,nopunct,synthetic
+en00727,Government: you've been approved for a benefit of $535.62. Collect it by Nov 12: http://alfabak.invalid/docs/studio-orbit-north-river.html,1,fraud,en,gov_payment,en-fraud-gov_payment-0,,synthetic
+en00728,"Tom text me when you're home. Running ten min late, sorry!",0,safe,en,chat,en-safe-chat-1,,synthetic
+en00729,"Zoe call me when you're home. Dinner's at seven, don't be late.",0,safe,en,chat,en-safe-chat-1,,synthetic
+en00730,A bonus of $925 from Citi. Claim it before the weekend: https://payment-nomad.test/index.php?id=30850,1,fraud,en,bonus_refund,en-fraud-bonus_refund-0,,synthetic
+en00731,Fast loan no refusal in 5 minutes. Apply: https://quartzstone.example/account/login,,suspicious,en,loan_ad,en-suspicious-loan_ad-0,,synthetic
+en00732,"Hello!  We saw your resume. Earn $65 per shift, no experience. Free training. Message WhatsApp +1 555 0160.",1,fraud,en,fake_job,en-fraud-fake_job-0,dblspace,synthetic
+en00733,"assistants needed from home: likes, paid instantly. text @pro_24",1,fraud,en,fake_job,en-fraud-fake_job-1,lower+nopunct,synthetic
+en00734,"GOOD DAY. TECHNICIAN: WE DETECTED A VIRUS ON YOUR PHONE. MESSAGE @HELP_KZ, DO NOT TURN OFF THE DEVICE.",1,fraud,en,tech_support,en-fraud-tech_support-1,greet+upper,synthetic
+en00735,"Registrar: class scheduled for Dec 3, 7:00.",0,safe,en,gov_edu,en-safe-gov_edu-0,,synthetic
+en00736,Hello!  Your order #97632391 has shipped and should arrive Nov 12. Track it: https://studiofresh.test/user/profile/58709,0,safe,en,delivery,en-safe-delivery-0,nopunct+greet+dblspace,synthetic
+en00737,"support agent: your computer is infected. message @invest.team, do not turn off the device.",1,fraud,en,tech_support,en-fraud-tech_support-1,lower,synthetic
+en00738,"Citi: at your request, card ending 7553 has been temporarily locked. You can unlock it in the app or at a branch.",0,safe,en,bank_notice,en-safe-bank_notice-2,,synthetic
+en00739,Th4nks f0r shopp1ng 4t Uber. Total: $26038.46. E-receipt: https://orbitsun.example/r/UKmaLwb894Z6Jkp9cbyb3rqr Have a nice day!,0,safe,en,purchase,en-safe-purchase-0,leet+close,synthetic
+en00740,Your relief payment is ready. To get your money fill in the form: https://health.test/user/profile/51045,1,fraud,en,gov_payment,en-fraud-gov_payment-1,,synthetic
+en00741,Zara: big sale in the app this weekend only. Reply STOP to opt out Have a nice day!,0,safe,en,ads,en-safe-ads-0,close,synthetic
+en00742,A complaint was filed against you for violation. Appearance mandatory. This is strictly confidential.,1,fraud,en,fear_secrecy,en-fraud-fear_secrecy-1,,synthetic
+en00743,Your refund was approved. To receive funds fill in the form: http://billing-books.example/reset/84svsqd79GEyEwTg,1,fraud,en,gov_payment,en-fraud-gov_payment-1,,synthetic
+en00744,Investing: returns from 30% a week! Guaranteed. Join @help.team. 💳,1,fraud,en,investment,en-fraud-investment-0,emoji,synthetic
+en00745,"Registrar: class scheduled for Nov 12, 18:45. Room 64241392.",0,safe,en,gov_edu,en-safe-gov_edu-0,,synthetic
+en00746,chase security: unusual activity was detected on your account. to protect your funds verify: https://barclays.refund-learn.invalid//login Have a nice day! 📦,1,fraud,en,bank_phish,en-fraud-bank_phish-0,lower+close+emoji,synthetic
+en00747,739773 is your code to confirm £78843 payment at Walmart. It expires in 5 minutes.,0,safe,en,otp,en-safe-otp-1,,synthetic
+en00748,"operators needed online: likes, earn 559 usd. start today @job.332 ok",1,fraud,en,fake_job,en-fraud-fake_job-1,lower+mix,synthetic
+en00749,Your Amazon login will be lcoked today. Confirm your password here: https://whatsapp.update-bright.example/index.php?id=45746,1,fraud,en,account_pwd,en-fraud-account_pwd-0,nopunct+typo,synthetic
+en00750,"Hello,  accounting here. We mistakenly sent 424 USD to you, please return it to card ending 5065.",1,fraud,en,money_transfer,en-fraud-money_transfer-0,dblspace,synthetic
+en00751,"Your one-time code is 102108. Never share this code, even bank staff.",0,safe,en,otp,en-safe-otp-0,,synthetic
+en00752,Dad: ermember about the family party. Call me tonight.,0,safe,en,family,en-safe-family-0,typo,synthetic
+en00753,thanks for shopping at netflix. amount: $47831.48. e-receipt: https://pearlforest18.example/a/b/c/d/terra-lotus-harbor/index.html,0,safe,en,purchase,en-safe-purchase-0,lower,synthetic
+en00754,Good day. Crypto: profit from 30% a week! Zero risk. Join @promo.team.,1,fraud,en,investment,en-fraud-investment-0,greet,synthetic
+en00755,"Grandma, I'm in hospital. Please send 20843 USD to this number +1 555 0140, my phone broke, texting from a friend's.",1,fraud,en,relative,en-fraud-relative-0,,synthetic
+en00756,"Hi  Lily, are you coming to dinner tomorrow? I'll be there around 14:00. 🙏",0,safe,en,chat,en-safe-chat-0,typo+emoji+dblspace,synthetic
+en00757,"Anna, the contract is with legal. Meeting at 14:30 on Zoom. Edits needed by tomorrow.",0,safe,en,work,en-safe-work-0,,synthetic
+en00758,netflix: big sale online until nov 20. reply stop to opt out,0,safe,en,ads,en-safe-ads-0,lower,synthetic
+en00759,Courier will arrive 11/15 after 6 pm. Driver phone: +1 555 0148,0,safe,en,delivery,en-safe-delivery-1,,synthetic
+en00760,"security officer: to block a hcarge of 38 usd, reply with the code we sent.",1,fraud,en,cvv_code,en-fraud-cvv_code-0,lower+typo,synthetic
+en00761,Friendly reminder: doctor's appointment on Monday at 11:30. Address: Starbucks.,0,safe,en,reminder,en-safe-reminder-0,,synthetic
+en00762,Your parcel is held at customs. Pay a redelivery fee of $329.51 by Nov 12: https://aquastudio-refund.test/yRi1I/bmMtv7upm/8MrKo8V?a=gfWnJzFe8yGthFEgZGJ56Uyn5RDC,1,fraud,en,delivery_customs,en-fraud-delivery_customs-0,nopunct,synthetic
+en00763,Your code: 425719. Enter it on the Uber site.,,suspicious,en,otp_nowarn,en-suspicious-otp_nowarn-0,,synthetic
+en00764,"Santander: at your request, card ending 9924 has been temporarily locked.",0,safe,en,bank_notice,en-safe-bank_notice-2,,synthetic
+en00765,"santander: transfer of $41.80 posted to card ending 4414. if this wasn't you, call the number on the back of your card. Have a nice day! ok",0,safe,en,bank_notice,en-safe-bank_notice-1,lower+close+mix,synthetic
+en00766,A Citi representative just called you. Read them the code in this message: 924073 to secure your account.,1,fraud,en,cvv_code,en-fraud-cvv_code-1,,synthetic
+en00767,"Security officer: to block a charge of $19.53, read out the code we sent.",1,fraud,en,cvv_code,en-fraud-cvv_code-0,,synthetic
+en00768,Dad: don't forget about Saturday's trip. See you soon,0,safe,en,family,en-safe-family-0,nopunct,synthetic
+en00769,"Nina, thanks for the gift! Can't wait to see you.",0,safe,en,family,en-safe-family-1,,synthetic
+en00770,"Hello! Hey, you don't know me. Check this out: https://login.filmurban.example/login?continue=/home",,suspicious,en,unknown_link,en-suspicious-unknown_link-0,greet,synthetic
+en00771,Quick cash no refusal to your card. Details: https://lnk.example/6307,,suspicious,en,loan_ad,en-suspicious-loan_ad-0,,synthetic
+en00772,Your order #84022933 is ready for pickup and will arrive Dec 3. Track it: https://www.terramaple4.example/craft-maple-media/iron-lotus-garden-sport/altyn-media-aqua/atlas-urban?id=57219&lang=en&utm_campaign=tau-health,0,safe,en,delivery,en-safe-delivery-0,,synthetic
+en00773,Fast loan up to $402.28 in 5 minutes. Apply: https://maple-iron.example/support/verify-email,,suspicious,en,loan_ad,en-suspicious-loan_ad-0,,synthetic
+en00774,a cashback of £92 from hsbc. activate it before the weekend: https://kaspi.bonus-north.test/account/confirm,1,fraud,en,bonus_refund,en-fraud-bonus_refund-0,lower,synthetic
+en00775,A CITI REPRESENTATIVE WILL CALL YOU. GIVE THEM THE CODE IN THIS MESSAGE: 503258 TO ESCURE YOUR ACCOUNT.,1,fraud,en,cvv_code,en-fraud-cvv_code-1,typo+upper,synthetic
+en00776,"HSBC fraud team: to bolck a suspicious transaction, read out the CVV.",1,fraud,en,cvv_code,en-fraud-cvv_code-0,typo,synthetic
+en00777,"University: parent meeting scheduled for Nov 20, 19:15.",0,safe,en,gov_edu,en-safe-gov_edu-0,,synthetic
+en00778,"Hi, accounting here. We transferred by mistake $29348.95 to you, please return it to card ending 7171.",1,fraud,en,money_transfer,en-fraud-money_transfer-0,,synthetic
+en00779,Dad: don't forget about the family party. Love you!,0,safe,en,family,en-safe-family-0,,synthetic
+en00780,Zara: up to 30% off in the app this weekend only. Details: https://docs.taugreen19.example/docs/health-tau-summit-quartz.html,0,safe,en,ads,en-safe-ads-0,,synthetic
+en00781,Final summons: an outstanding balance of 245 USD in utility bills. Settle today or the case goes to bailiffs: https://kapi65.example/update,1,fraud,en,debt,en-fraud-debt-0,,synthetic
+en00782,"Hi, it's Mike, new number. Please transfer $864 urgently, long story.",1,fraud,en,relative,en-fraud-relative-1,,synthetic
+en00783,you're  owed compensation for your purchase. leaev your card details to receive $12.45: https://shrt.test/45xdk,1,fraud,en,bonus_refund,en-fraud-bonus_refund-1,lower+typo+dblspace,synthetic
+en00784,Tax office: your balance of £22 has been paid. Thank you,0,safe,en,gov_edu,en-safe-gov_edu-2,nopunct,synthetic
+en00785,Urgent: client needs an answer by 8:30. Please confirm.,0,safe,en,work,en-safe-work-1,,synthetic
+en00786,"Dave, the contract is ready. Call at 18:15 on Zoom. Edits needed by tomorrwo.",0,safe,en,work,en-safe-work-0,typo,synthetic
+en00787,"Hey, it's Jake. Loko at this: https://www.nomad-stone.test/cafe-green/terra-grand/tech-travel-altyn/nova-studio-orbit-bright/market-sun-north-pearl?id=45441&lang=ru&utm_campaign=garden-iron-green",,suspicious,en,unknown_link,en-suspicious-unknown_link-0,typo,synthetic
+en00788,A refund of 852 USD is available. Activate it before the weekend: http://iron-travel5735.example/neBTtOdBWvn3Wb,1,fraud,en,bonus_refund,en-fraud-bonus_refund-0,,synthetic
+en00789,your code: 888579. enter it on the bestbuy site.,,suspicious,en,otp_nowarn,en-suspicious-otp_nowarn-0,lower,synthetic
+en00790,NETFLIX: BIG SALE IN STORE THIS WEEKEND ONLY. DETAILS: HTTPS://WWW.STUDIO.INVALID/ACCOUNT/LOGIN,0,safe,en,ads,en-safe-ads-0,lower+upper,synthetic
+en00791,Santander: access to card ending 3332 is limited. To keep using your card verify here: https://shrt.test/lpL8TI asap,1,fraud,en,card_block,en-fraud-card_block-1,mix,synthetic
+en00792,Thanks for shopping at Netflix. Amount: 68 USD. plz,0,safe,en,purchase,en-safe-purchase-0,mix,synthetic
+en00793,You're a winner! To get your prize tap https://microsoft-login.test/verify/r59q5mcZxlvgcGdWqpw.,1,fraud,en,prize,en-fraud-prize-1,,synthetic
+en00794,You're our lucky winner! You have been selected for $18871.41 in the Uber promo. Collect it: http://198.51.100.171/docs/iron-steppe.html,1,fraud,en,prize,en-fraud-prize-0,,synthetic
+en00795,your card h4s be3n blocked! v3rify y0ur deta1ls now: http://egov.update-prime.example//login plz,1,fraud,en,card_block,en-fraud-card_block-0,lower+leet+mix,synthetic
+en00796,Courier will be there Nov 20 after 6 pm. Driver phone: +1 555 0168 Regards. ❗,0,safe,en,delivery,en-safe-delivery-1,close+emoji,synthetic
+en00797,"Grandma, I had an accident. I need 60579 USD to this number +1 555 0180, my phone broke, texting from a friend's.",1,fraud,en,relative,en-fraud-relative-0,,synthetic
+en00798,Our analyst showed me a trick: made triple in a week. Want in? @help.team,1,fraud,en,investment,en-fraud-investment-1,,synthetic
+en00799,your order #64848830 is out for delivery and will arrive 11/15. track it: https://www.sunswift.test/login?continue=/home,0,safe,en,delivery,en-safe-delivery-0,lower,synthetic
+en00800,Good day. Congratulations! You won a gift card in the BestBuy promo. Collect it: https://silkhealth90.invalid/news/2026/3/harbor-cedar,1,fraud,en,prize,en-fraud-prize-0,greet,synthetic
+en00801,"Santander: at your request, card ending 5377 has been temporarily locked.",0,safe,en,bank_notice,en-safe-bank_notice-2,,synthetic
+en00802,"Hi, accounting here. We mistakenly sent $40879 to you, please return it to card ending 1073.",1,fraud,en,money_transfer,en-fraud-money_transfer-0,,synthetic
+en00803,"Hi, You're under investigation for violation. Appearance mandatory. This is strictly confidential",1,fraud,en,fear_secrecy,en-fraud-fear_secrecy-1,nopunct+greet,synthetic
+en00804,"Your verification code is 897800. Do not share it with anyone, including Barclays employees.",0,safe,en,otp,en-safe-otp-0,,synthetic
+en00805,Tax office: your balance of $258 has been paid. Thank you,0,safe,en,gov_edu,en-safe-gov_edu-2,nopunct,synthetic
+en00806,Notice: Citi: a new-device login was flagged on your account. To avoid suspension verify: https://dhl-account.test/account/confirm,1,fraud,en,bank_phish,en-fraud-bank_phish-0,greet,synthetic
+en00807,Spotify: up to 30% off in store until Nov 20. Reply STOP to opt out,0,safe,en,ads,en-safe-ads-0,,synthetic
+en00808,"alex text me when you're free. running ten min late, sorry!",0,safe,en,chat,en-safe-chat-1,lower,synthetic
+en00809,your order #93192704 has shipped and should arrive nov 12.,0,safe,en,delivery,en-safe-delivery-0,lower,synthetic
+en00810,"Santander: charge of 64 USD at Target, card ending 8485. Available balance: $47.57.",0,safe,en,bank_notice,en-safe-bank_notice-0,,synthetic
+en00811,"valued client, your details are out of date. update your information now: https://instagram-login.example/reset/qu5kctrtx1ivjr7fss190lfcw Thanks.",1,fraud,en,bank_phish,en-fraud-bank_phish-1,lower+close,synthetic
+en00812,city hall: your fine of $71152 has been paid. thank you.,0,safe,en,gov_edu,en-safe-gov_edu-2,lower,synthetic
+en00813,"Hi, it's Tom, new number. Can you send £82776 uregntly, long story. plz",1,fraud,en,relative,en-fraud-relative-1,typo+mix,synthetic
+en00814,a  refund of $60359 from chase. claim it before the weekend: https://gift-film-fresh.example/index.php?id=23970,1,fraud,en,bonus_refund,en-fraud-bonus_refund-0,lower+dblspace,synthetic
+en00815,Final summons: an outstanding balance of $12802.57 in utility bills. Pay today to avoid court: https://bright1887.invalid/zVSQ9mKutMWl,1,fraud,en,debt,en-fraud-debt-0,,synthetic
+en00816,Your  code: 606214. Enter it on the Uber site. пжл,,suspicious,en,otp_nowarn,en-suspicious-otp_nowarn-0,mix+dblspace,synthetic
+en00817,your parcel is held at customs. you must pay a customs fee of 440 usd by nov 12: http://[2001:db8::27dd]/auth/signin?redirect=%2fhome Thanks.,1,fraud,en,delivery_customs,en-fraud-delivery_customs-0,lower+close,synthetic
+en00818,Santander: access to card ending 6838 is limited. To keep using your card complete a quick check: http://swifttech79.test:8443/login,1,fraud,en,card_block,en-fraud-card_block-1,nopunct,synthetic
+en00819,"School: class moved to Dec 3, 15:45.",0,safe,en,gov_edu,en-safe-gov_edu-0,,synthetic
+en00820,Uregnt: standup moved to 22:00. Please confirm.,0,safe,en,work,en-safe-work-1,typo,synthetic
+en00821,Your order #54611820 1s 0ut f0r d3liv3ry 4nd will arr1ve Dec 3. Tr4ck it: https://www.sunblue86.example/user/profile/86731 ❗,0,safe,en,delivery,en-safe-delivery-0,leet+emoji,synthetic
+en00822,"Hey Alex, you still up for coming to the game tomorrow? I'll be at the entrance around 20:30.",0,safe,en,chat,en-safe-chat-0,,synthetic
+en00823,Mom: remember about the family party. Call me tonight.,0,safe,en,family,en-safe-family-0,,synthetic
+en00824,A broker friend showed me a strategy: made triple in a week. Text me? @promo_online plz,1,fraud,en,investment,en-fraud-investment-1,mix,synthetic
+en00825,"Grandma, I'm in trouble with the police. Please send $95479.29 urgently, my phone broke, texting from a friend's.",1,fraud,en,relative,en-fraud-relative-0,,synthetic
+en00826,Tax office: your fine of $80 has been paid. Thank you.,0,safe,en,gov_edu,en-safe-gov_edu-2,,synthetic
+en00827,Your  refund was approved. To get your money fill in the form: https://pearlgarden.example:8443/,1,fraud,en,gov_payment,en-fraud-gov_payment-1,dblspace,synthetic
+en00828,Receipt at Amazon. Amount: 712 USD.,0,safe,en,purchase,en-safe-purchase-0,,synthetic
+en00829,"Hi,  it's Mike, new number. Can you send £43799 now, I'll pay you back.",1,fraud,en,relative,en-fraud-relative-1,dblspace,synthetic
+en00830,"Dave, the report is with legal. Meeting at 9:15 in the conference room.",0,safe,en,work,en-safe-work-0,,synthetic
+en00831,"Hi, Your parcel is held at customs. Pay a customs fee of $10 within 48 hours: http://amazoon.invalid/account/confirm No reply needed.",1,fraud,en,delivery_customs,en-fraud-delivery_customs-0,greet+close,synthetic
+en00832,"Hello! We saw your resume. Earn £77 per shift, no experience. Free training. Text WhatsApp +1 555 0147.",1,fraud,en,fake_job,en-fraud-fake_job-0,,synthetic
+en00833,iCty hall: your fine of £98962 has been paid. Thank you.,0,safe,en,gov_edu,en-safe-gov_edu-2,typo,synthetic
+en00834,"Hi, Your parcel is held at customs. Pay a customs fee of 14 USD within 48 hours: https://silk-account.invalid/O02CgxGZ9V4/aigfyZFQcu7/Q5rM6h?q=j1RzJdv5p1EPuaxsS9i0xOpFT",1,fraud,en,delivery_customs,en-fraud-delivery_customs-0,greet,synthetic
+en00835,"Hello, this is Alex from BestBuy. We transferred by mistake $38237.19 to you, please return it to card ending 1150.",1,fraud,en,money_transfer,en-fraud-money_transfer-0,,synthetic
+en00836,Fast loan up to $41.91 in 5 minutes. Apply: http://filmterra1296.example/gG3M8EpNzcE,,suspicious,en,loan_ad,en-suspicious-loan_ad-0,,synthetic
+en00837,"Hi! We saw your resume. Pay £58 per shift, flexible hours. Tasks done on your phone. Message WhatsApp +1 555 0161.",1,fraud,en,fake_job,en-fraud-fake_job-0,,synthetic
+en00838,amazon: up to 30% off in the app until monday. reply stop to opt out,0,safe,en,ads,en-safe-ads-0,lower,synthetic
+en00839,Amazon: big 4sl3 1n store th1s weekend only. Reply STOP to 0pt out,0,safe,en,ads,en-safe-ads-0,typo+leet,synthetic
+en00840,"it's your son, new number. can you send $28277 now, i'll pay you back.",1,fraud,en,relative,en-fraud-relative-1,lower,synthetic
+en00841,"Registrar: exam scheduled for Friday, 19:45. No reply needed.",0,safe,en,gov_edu,en-safe-gov_edu-0,close,synthetic
+en00842,"HSBC: deposit of 408 USD received to card ending 6629. If this wasn't you, call the number on the back of your card.",0,safe,en,bank_notice,en-safe-bank_notice-1,,synthetic
+en00843,748872 is your code to log in to Walmart. It expires in 5 minutes.,0,safe,en,otp,en-safe-otp-1,,synthetic
+en00844,BestBuy Support: your account was hacked. Download a protection app here: https://short.invalid/BLQom3N,1,fraud,en,tech_support,en-fraud-tech_support-0,,synthetic
+en00845,"School: parent meeting scheduled for 11/15, 7:15. Room 19657642. asap",0,safe,en,gov_edu,en-safe-gov_edu-0,mix,synthetic
+en00846,We'll refund you for service charges. Leave your card details to receive £20: http://198.51.100.234/account/settings,1,fraud,en,bonus_refund,en-fraud-bonus_refund-1,,synthetic
+en00847,"santander:  payment of $93957 at target, card ending 4007",0,safe,en,bank_notice,en-safe-bank_notice-0,lower+nopunct+dblspace,synthetic
+en00848,You're a winner! To get your prize pay a small fee of $97054.,1,fraud,en,prize,en-fraud-prize-1,,synthetic
+en00849,MOM: DON'T FORGET ABOUT THE FAMILY PARTY. CALL ME TONIGHT. REGARDS.,0,safe,en,family,en-safe-family-0,lower+close+upper,synthetic
+en00850,notice: you owe 912 usd on your loan. settle today or the case goes to bailiffs: http://short.invalid/saoi8z,1,fraud,en,debt,en-fraud-debt-0,lower,synthetic
+en00851,"Hi, Valued client, y0ur p4ssw0rd has expired. Conf1rm your 1nform4tion w1th1n 24 hours: http://healthsun.test/blog/harbor-terra-north-stone",1,fraud,en,bank_phish,en-fraud-bank_phish-1,leet+greet,synthetic
+en00852,"dear customer, your details are out of date. confirm your information now: https://jusann36.test/index.php?id=60501",1,fraud,en,bank_phish,en-fraud-bank_phish-1,lower,synthetic
+en00853,city hall: your fine of $87 has been settled. thank you.,0,safe,en,gov_edu,en-safe-gov_edu-2,lower,synthetic
+en00854,"Your verification code is 598203. Do not share it with anyone, even bank staff.",0,safe,en,otp,en-safe-otp-0,,synthetic
+en00855,Treasury: you've been approved for a relief payment of $89166. Claim it within 3 days: https://bank.studio.netflix.cloud.example/account/settings,1,fraud,en,gov_payment,en-fraud-gov_payment-0,,synthetic
+en00856,Your Spotify login will be deleted in 24 hours. Restore access here: https://travel1663.example/oSYwic,1,fraud,en,account_pwd,en-fraud-account_pwd-0,,synthetic
+en00857,Congratulations! Y0u won a c4r 1n the Ub3r promo. Cla1m it: https://swiftmetro29-bonus.invalid/jwlhZ5SetGG/F3ejU8Vbn9O/qEuRkJupwWr/ngh09c7/vDX6k21HHm7/Buy3LTexR7M?q=TUIt3SyjbJIb552tYXX7kTWT9hQUDlS No reply needed.,1,fraud,en,prize,en-fraud-prize-0,leet+close,synthetic
+en00858,DMV: YOUR DOCUMENTS ARE READY. REF 77380201. THANKS.,0,safe,en,gov_edu,en-safe-gov_edu-1,close+upper,synthetic
+en00859,"Dear customer, your details are out of date. Confirm your information within 24 hours: https://fdex.example/",1,fraud,en,bank_phish,en-fraud-bank_phish-1,,synthetic
+en00860,"Hey, you don't know me. Look at this: https://shrt.test/92424",,suspicious,en,unknown_link,en-suspicious-unknown_link-0,,synthetic
+en00861,walmart help desk: your device was hacked. install our remote-help tool now: https://dfl.test/waftckhce,1,fraud,en,tech_support,en-fraud-tech_support-0,lower,synthetic
+en00862,"lily, the report is ready. call at 18:45 in the conference room. edits needed by tomorrow.",0,safe,en,work,en-safe-work-0,lower,synthetic
+en00863,"Hi, Valued client, your password has expired. Confirm your information within 24 hours: http://xn--pu7agypq7k.example/account/settings",1,fraud,en,bank_phish,en-fraud-bank_phish-1,greet,synthetic
+en00864,"Hi, Chase fraud team: to cancel a suspicious transaction, reply with the code we sent.",1,fraud,en,cvv_code,en-fraud-cvv_code-0,greet,synthetic
+en00865,"Santander: payment of £953 at Subway, card ending 4209. Available balance: £46536. No reply needed.",0,safe,en,bank_notice,en-safe-bank_notice-0,close,synthetic
+en00866,Hello! A Santander representative will call you. Give them the code in this message: 602725 to secure your account.,1,fraud,en,cvv_code,en-fraud-cvv_code-1,greet,synthetic
+en00867,"Sam, congrats on the new job! Hugs.",0,safe,en,family,en-safe-family-1,,synthetic
+en00868,"Hi, Courier will be there Nov 12 after 6 pm. Driver phone: +1 555 0191",0,safe,en,delivery,en-safe-delivery-1,greet,synthetic
+en00869,"Hi,  Government: you've been approved for a relief payment of £78772. Claim it within 3 days: https://egov.bank-health.test/track/54907",1,fraud,en,gov_payment,en-fraud-gov_payment-0,greet+dblspace,synthetic
+en00870,"support agent: your computer is infected. call +1 555 0150, do not turn off the device.",1,fraud,en,tech_support,en-fraud-tech_support-1,lower,synthetic
+en00871,"university: exam scheduled for friday, 20:00.",0,safe,en,gov_edu,en-safe-gov_edu-0,lower,synthetic
+en00872,"Hey Emma, you still up for coming to dinner tomorrow? I'll be there around 14:15.",0,safe,en,chat,en-safe-chat-0,,synthetic
+en00873,Walmart Support: your device was hacked. Download our remote-help tool now: https://paypal.auth-lumen.example/update,1,fraud,en,tech_support,en-fraud-tech_support-0,,synthetic
+en00874,"254774 is your code to log in to Zara. If you didn't request it, ignore this message.",0,safe,en,otp,en-safe-otp-1,,synthetic
+en00875,"Your verification code is 626395. Do not share it with anyone, including Citi employees. 🙏",0,safe,en,otp,en-safe-otp-0,emoji,synthetic
+en00876,Tax office: walk-ins by appointment only. Details at https://egov-status.example/request/45270,0,safe,en,gov_edu,en-safe-gov_edu-1,,synthetic
+en00877,Government: you've been approved for a benefit of £982. Collect it by Friday: https://healthgrand-auth.example/5cNQITd15RV4/yMHhJ7KD3C/Cx5BdMeZrZ/RTaXBeSU6/tX8iOH?id=Oe7p2TYBffOozYYy8Ro87MfeElYI0MzDlqsMmm0,1,fraud,en,gov_payment,en-fraud-gov_payment-0,,synthetic
+en00878,Dad: don't forget about the family party. Call me tonight.,0,safe,en,family,en-safe-family-0,,synthetic
+en00879,Emma text me when you're free. Can you grab milk on the way,0,safe,en,chat,en-safe-chat-1,nopunct,synthetic
+en00880,"dad, i'm in trouble with the police. please send 158 usd urgently, my phone broke, texting from a friend's. Thanks.",1,fraud,en,relative,en-fraud-relative-0,lower+close,synthetic
+en00881,Trading: profit up to $225 a day! Zero risk. Join @supportteam.,1,fraud,en,investment,en-fraud-investment-0,,synthetic
+en00882,"School: parent meeting moved to Dec 3, 20:45.",0,safe,en,gov_edu,en-safe-gov_edu-0,,synthetic
+en00883,Good day. Citi: access to card ending 8435 is limited. To keep using your card verify here: https://atlasswift4962.example/I5muqP,1,fraud,en,card_block,en-fraud-card_block-1,greet,synthetic
+en00884,"S3curity officer: to c4ncel 4 suspici0us transaction, r3ply with your PIN ❗",1,fraud,en,cvv_code,en-fraud-cvv_code-0,nopunct+leet+emoji,synthetic
+en00885,A new-device login was detected. To protect it reset your password: http://forte-update.invalid/about,1,fraud,en,account_pwd,en-fraud-account_pwd-1,,synthetic
+en00886,"Ben, happy birthday! Can't wait to see you.",0,safe,en,family,en-safe-family-1,,synthetic
+en00887,santander: deposit of $95.40 received to card ending 4819.,0,safe,en,bank_notice,en-safe-bank_notice-1,lower,synthetic
+en00888,Urgent: client needs an answer by 15:45,0,safe,en,work,en-safe-work-1,nopunct,synthetic
+en00889,"Hi, Santander: at your request, card ending 2494 has been frozen Have a nice day!",0,safe,en,bank_notice,en-safe-bank_notice-2,nopunct+greet+close,synthetic
+en00890,"Barclays: payment of £46 at Shell, card ending 0043. Available balance: $83.76.",0,safe,en,bank_notice,en-safe-bank_notice-0,,synthetic
+en00891,"Operators wanted online: reviews, earn $183. Text @job107",1,fraud,en,fake_job,en-fraud-fake_job-1,,synthetic
+en00892,"Hello, accounting here. We mistakenly sent $58 to you, please send it back to +1 555 0182.",1,fraud,en,money_transfer,en-fraud-money_transfer-0,,synthetic
+en00893,"Santander: at your request, card ending 4100 has been frozen. You can unlock it in the app or at a branch.",0,safe,en,bank_notice,en-safe-bank_notice-2,,synthetic
+en00894,"Technician: we detected a virus on your phone. Message @cash24, we'll help",1,fraud,en,tech_support,en-fraud-tech_support-1,nopunct,synthetic
+en00895,zara: big sale online until nov 20. details: https://pay.apple.example/orders/12873/track,0,safe,en,ads,en-safe-ads-0,lower,synthetic
+en00896,friendly reminder: meeting on dec 3 at 13:15. reply c to confirm.,0,safe,en,reminder,en-safe-reminder-0,lower,synthetic
+en00897,"Emma, the deck is with legal. Meeting at 12:30 in the conference room. Edits needed by tomorrow.",0,safe,en,work,en-safe-work-0,,synthetic
+en00898,Notice: Friendly reminder: meeting on Nov 12 at 14:15. Address: Walgreens.,0,safe,en,reminder,en-safe-reminder-0,greet,synthetic
+en00899,"805154 is your code to log in to Uber. If you didn't request it, ignore this message.",0,safe,en,otp,en-safe-otp-1,,synthetic
+en00900,J4k3 t3xt m3 when you're home. Can y0u gr4b milk 0n the way?,0,safe,en,chat,en-safe-chat-1,leet,synthetic
+en00901,Trading: returns up to $621 a day! Zero risk. Join @help_online.,1,fraud,en,investment,en-fraud-investment-0,,synthetic
+en00902,"Hello! We saw yuor resume. Pay $65.37 per shift, flexible hours. Free training. Message WhatsApp +1 555 0111",1,fraud,en,fake_job,en-fraud-fake_job-0,nopunct+typo,synthetic
+en00903,Dave call me when you're free. Can you grab milk on the way?,0,safe,en,chat,en-safe-chat-1,,synthetic
+en00904,"Your one-time code is 626201. Do not share it with anyone, even bank staff.",0,safe,en,otp,en-safe-otp-0,,synthetic
+en00905,"Hello,  this is Anna from Uber. We mistakenly sent £81 to you, please return it to card ending 3591.",1,fraud,en,money_transfer,en-fraud-money_transfer-0,dblspace,synthetic
+en00906,Grandma: don't forget about the family party. Call me tonight.,0,safe,en,family,en-safe-family-0,,synthetic
+en00907,"courier will be there nov 12 between 10 and 2. no payment needed, already paid.",0,safe,en,delivery,en-safe-delivery-1,lower,synthetic
+en00908,Congratulations! You have been selected for a gift card in the Spotify draw. Claim your prize: https://learnaqua.test/?cid=d9EPe&redirect=wflq8My&user=835bXn Regards.,1,fraud,en,prize,en-fraud-prize-0,nopunct+close,synthetic
+en00909,"assistants wanted online: reviews, earn $127.49. text @help.24",1,fraud,en,fake_job,en-fraud-fake_job-1,lower,synthetic
+en00910,"Hello, this is Nina from Netflix. We transferred by mistake £60 to you, please return it to card ending 3681.",1,fraud,en,money_transfer,en-fraud-money_transfer-0,,synthetic
+en00911,HSBC: transfer of £91643 posted to card ending 4945. Regards.,0,safe,en,bank_notice,en-safe-bank_notice-1,close,synthetic
+en00912,A c0mpla1nt was fil3d 4ga1nst y0u f0r violation. C4ll +1 555 0118 immediately. Don't tell anyone.,1,fraud,en,fear_secrecy,en-fraud-fear_secrecy-1,leet,synthetic
+en00913,"Grandma, I'm in hospital. I need £681 to this number +1 555 0136, I'll explain later.",1,fraud,en,relative,en-fraud-relative-0,,synthetic
+en00914,"Hi, S0meon3 tried t0 l0g in. If it wasn't y0u r3s3t y0ur password: https://blue.test/?token=6g2GZA1&cid=7vFCPBr&ref=HOS1&id=SGq6W5P0",1,fraud,en,account_pwd,en-fraud-account_pwd-1,leet+greet,synthetic
+en00915,"Hi, Courier will arrive Friday between 10 and 2. Driver phone: +1 555 0181",0,safe,en,delivery,en-safe-delivery-1,greet,synthetic
+en00916,"Assistants wanted from home: orders, paid instantly. Start today @investkz",1,fraud,en,fake_job,en-fraud-fake_job-1,,synthetic
+en00917,"Nina, the contract is with legal. Call at 10:30 in the conference room пжл",0,safe,en,work,en-safe-work-0,nopunct+mix,synthetic
+en00918,"emma,  thanks for the gift! can't wait to see you.",0,safe,en,family,en-safe-family-1,lower+dblspace,synthetic
+en00919,"Chase: at your request, card ending 5968 has been frozen. You can unlock it in the app or at a branch.",0,safe,en,bank_notice,en-safe-bank_notice-2,,synthetic
+en00920,"Notice: assistants wanted from home: reviews, paid instantly. start today @cash35 plz",1,fraud,en,fake_job,en-fraud-fake_job-1,lower+greet+mix,synthetic
+en00921,Congratulations! You have been selected for a gift card in the Netflix draw. Collect it: https://www.cloud.example/shop/market?utm_source=sms&utm_medium=notice&ref=1gyOWLL,1,fraud,en,prize,en-fraud-prize-0,,synthetic
+en00922,City hall: your balance of £26 has been paid. Thank you.,0,safe,en,gov_edu,en-safe-gov_edu-2,,synthetic
+en00923,Your card has been blocked! Unlock it now: https://microsoft.update-north.invalid/reset/0FklrvBTfuAnVqaDIPIQO6D6p1lXaA,1,fraud,en,card_block,en-fraud-card_block-0,,synthetic
+en00924,important: standup moved to 12:45. please confirm.,0,safe,en,work,en-safe-work-1,lower,synthetic
+en00925,REMINDER: CLASS ON FRIDAY AT 8:15. ADDRESS: TARGET.,0,safe,en,reminder,en-safe-reminder-0,upper,synthetic
+en00926,"Kate, happy birthday! Hugs.",0,safe,en,family,en-safe-family-1,,synthetic
+en00927,"Hey, it's Anna. Look at this: http://apple-support.example/a//b/YwQi2aXrB1",,suspicious,en,unknown_link,en-suspicious-unknown_link-0,typo,synthetic
+en00928,"a broker friend showed me a trick: put in 84318 usd, tripled it. want in? @promo_team",1,fraud,en,investment,en-fraud-investment-1,lower+nopunct,synthetic
+en00929,"Our analyst showed me a strategy: put in £9, tripled it. Text me? @help_226 Thanks.",1,fraud,en,investment,en-fraud-investment-1,close,synthetic
+en00930,Someone tried to log in. If it wasn't you reset your password: https://tiny-link.test/JJtRYEl,1,fraud,en,account_pwd,en-fraud-account_pwd-1,,synthetic
+en00931,You're owed compensation for your purchase. Leave your card details so we can pay you: http://applі.test/index.php?id=47692,1,fraud,en,bonus_refund,en-fraud-bonus_refund-1,,synthetic
+en00932,A Barclays representative just called you. Give them the code in this message: 873833 to verify your identity.,1,fraud,en,cvv_code,en-fraud-cvv_code-1,,synthetic
+en00933,Tax office: your application was received. Ref 39447862.,0,safe,en,gov_edu,en-safe-gov_edu-1,,synthetic
+en00934,"Hello! We saw your resume. Earn 95259 USD per day, no experience. Tasks done on your phone. Text WhatsApp +1 555 0183",1,fraud,en,fake_job,en-fraud-fake_job-0,nopunct,synthetic
+en00935,urgent: standup moved to 8:30.,0,safe,en,work,en-safe-work-1,lower,synthetic
+en00936,"Technician: your ocmputer is infected. Call +1 555 0116, we'll help.",1,fraud,en,tech_support,en-fraud-tech_support-1,typo,synthetic
+en00937,Good day. city hall: your application was received. ref 54886109.,0,safe,en,gov_edu,en-safe-gov_edu-1,lower+greet,synthetic
+en00938,Your relief payment is ready. To receive funds enter your card details: https://login.fresh.paypal.northaltyn.example/account/settings,1,fraud,en,gov_payment,en-fraud-gov_payment-1,,synthetic
+en00939,"University: class moved to 11/15, 16:45. Room 52103469.",0,safe,en,gov_edu,en-safe-gov_edu-0,,synthetic
+en00940,Good day. Your refund was approved. To get your money fill in the form: https://billing-city.example/login?continue=/home ok,1,fraud,en,gov_payment,en-fraud-gov_payment-1,greet+mix,synthetic
+en00941,Your code: 350718. Enter it on the Netflix site.,,suspicious,en,otp_nowarn,en-suspicious-otp_nowarn-0,,synthetic
+en00942,"Hi, We missed you parcel #3368573. Update delivery details: http://203.0.113.244/account/confirm",1,fraud,en,delivery_customs,en-fraud-delivery_customs-1,greet,synthetic
+en00943,"Hey Alex, you still up for coming to the gym tonight? I'll be there around 21:15.",0,safe,en,chat,en-safe-chat-0,,synthetic
+en00944,Mike text me when you're home. Can you grab milk on the way?,0,safe,en,chat,en-safe-chat-1,,synthetic
+en00945,"Good day. Hi! We're hiring remote staff. Earn 351 USD per shift, no experience. Tasks done on your phone. Text WhatsApp +1 555 0124.",1,fraud,en,fake_job,en-fraud-fake_job-0,greet,synthetic
+en00946,"Technician: we detected a virus on your phone. Message @pro925, we'll help. No reply needed.",1,fraud,en,tech_support,en-fraud-tech_support-1,close,synthetic
+en00947,UBER:  UP TO 30% OFF ONLINE THIS WEEKEND ONLY. REPLY STOP TO OPT OUT,0,safe,en,ads,en-safe-ads-0,upper+dblspace,synthetic
+en00948,You're owed compensation for your purchase. Enter your card number so we can pay you: https://payment-altyncafe.example/,1,fraud,en,bonus_refund,en-fraud-bonus_refund-1,,synthetic
+en00949,Barclays: deposit of $84039.55 posted to card ending 9600.,0,safe,en,bank_notice,en-safe-bank_notice-1,,synthetic
+en00950,"Notice: Assistants needed from home: reviews, earn 11 USD. Txet @promo910",1,fraud,en,fake_job,en-fraud-fake_job-1,nopunct+typo+greet,synthetic
+en00951,final summons: you owe £7060 on your loan. settle by 11/15 or the case goes to bailiffs: http://198.51.100.109/bank/login.php?session=pqpm1x71rrwkznhvl&user=80871 plz,1,fraud,en,debt,en-fraud-debt-0,lower+mix,synthetic
+en00952,You're our lucky winner! You won a gift card in the Zara draw. Collect your prize: https://aquagrand-secure.example/j4f1GQwgcZ3n/xMMmiaI33/hupBtOVzl?a=sMYdUYrrQ3XE0PgXh5v7gSoDivjHv,1,fraud,en,prize,en-fraud-prize-0,,synthetic
+en00953,Dad: remember about Saturday's trip. Call me tonight,0,safe,en,family,en-safe-family-0,nopunct,synthetic
+en00954,"Notice: Hi, it's Zoe, phone is broken. Please transfer £262 now, I'll pay you back. 📦",1,fraud,en,relative,en-fraud-relative-1,greet+emoji,synthetic
+en00955,Final summons: an outstanding balance of $882.81 in utility bills. Settle by Dec 3 or the case goes to bailiffs: http://cedarmedia.example/payment/receipt?id=86671,1,fraud,en,debt,en-fraud-debt-0,,synthetic
+en00956,"University: class scheduled for Nov 12, 21:30. Room 50278322.",0,safe,en,gov_edu,en-safe-gov_edu-0,,synthetic
+en00957,"Hello! 325047 is your code to log in to Spotify. If you didn't request it, ignore this message. No reply needed.",0,safe,en,otp,en-safe-otp-1,greet+close,synthetic
+en00958,"Barclays: purchase of $11230.99 at Costco, card ending 5396. Available balance: $20.16.",0,safe,en,bank_notice,en-safe-bank_notice-0,,synthetic
+en00959,Courier will arrive Nov 20 after 6 pm. Driver phone: +1 555 0158,0,safe,en,delivery,en-safe-delivery-1,,synthetic
+en00960,"Ben call me when yuo're free. Running ten min late, sorry! No reply needed.",0,safe,en,chat,en-safe-chat-1,typo+close,synthetic
+en00961,Your order #37310590 is ready for pickup and will arrive Friday.,0,safe,en,delivery,en-safe-delivery-0,,synthetic
+en00962,Citi Security: unusual activity was flagged on your profile. To protect your funds log in: https://river.test:8443/XExdNcRUJivG,1,fraud,en,bank_phish,en-fraud-bank_phish-0,,synthetic
+en00963,amazon support: your account is infected. install a protection app here: https://facebook-login.example/claim/40895,1,fraud,en,tech_support,en-fraud-tech_support-0,lower,synthetic
+en00964,quick cash up to $27 to your card. apply: https://wallet-craft.example/,,suspicious,en,loan_ad,en-suspicious-loan_ad-0,lower,synthetic
+en00965,"HSBC:  deposit of £38014 posted to card ending 0518. If this wasn't you, call the number on the back of your card.",0,safe,en,bank_notice,en-safe-bank_notice-1,dblspace,synthetic
+en00966,A bonus of $22519 from HSBC. Claim it before the weekend: http://netflix.refund-prime.test//login Thanks.,1,fraud,en,bonus_refund,en-fraud-bonus_refund-0,close,synthetic
+en00967,Fast loan up to 34804 USD to your card. Details: https://shrt.test/20228,,suspicious,en,loan_ad,en-suspicious-loan_ad-0,,synthetic
+en00968,"barclays  fraud team: to cancel a charge of $748, read out the code we sent.",1,fraud,en,cvv_code,en-fraud-cvv_code-0,lower+dblspace,synthetic
+en00969,"Hi! We saw your resume. Pay $74624 per day, flexible hours. Free training. Text WhatsApp +1 555 0184.",1,fraud,en,fake_job,en-fraud-fake_job-0,,synthetic
+en00970,Santander: access to card ending 7532 is paused. To restore it complete a quick check: http://faceboo-billing.example/login,1,fraud,en,card_block,en-fraud-card_block-1,,synthetic
+en00971,notice:  an outstanding balance of $620.30 on your loan. pay by nov 20 or the case goes to bailiffs: http://nhl59.invalid/ Thanks.,1,fraud,en,debt,en-fraud-debt-0,lower+close+dblspace,synthetic
+en00972,"Citi: purchase of £615 at Target, card ending 9579.",0,safe,en,bank_notice,en-safe-bank_notice-0,,synthetic
+en00973,"Citi: deposit of £7946 received to card ending 7376. If this wasn't you, call the number on the back of your card.",0,safe,en,bank_notice,en-safe-bank_notice-1,,synthetic
+en00974,"Hey, you don't know me. Check this out: https://steppeamber.test/contact",,suspicious,en,unknown_link,en-suspicious-unknown_link-0,,synthetic
+en00975,"Zoe, th4nks f0r th3 gift! Hugs.",0,safe,en,family,en-safe-family-1,leet,synthetic
+en00976,"Hey, it's Mike. Check this out: https://u.example/51668",,suspicious,en,unknown_link,en-suspicious-unknown_link-0,,synthetic
+en00977,"Hi, Your order #94474677 is out for delivery and will arrive Monday.",0,safe,en,delivery,en-safe-delivery-0,greet,synthetic
+en00978,Courier will be there Nov 20 after 6 pm. Driver phone: +1 555 0116,0,safe,en,delivery,en-safe-delivery-1,,synthetic
+en00979,Your card has been restricted. Unlock it immediately: http://whatsapp.refund-river.test/login No reply needed.,1,fraud,en,card_block,en-fraud-card_block-0,nopunct+close,synthetic
+en00980,a specialist will call you. give them the code in this message: 466018 to verify your identity.,1,fraud,en,cvv_code,en-fraud-cvv_code-1,lower,synthetic
+en00981,courier will be there nov 20 after 6 pm. driver phone: +1 555 0112,0,safe,en,delivery,en-safe-delivery-1,lower,synthetic
+en00982,"Hi, Courier will arrive Nov 12 between 10 and 2. No payment needed, already paid.",0,safe,en,delivery,en-safe-delivery-1,greet,synthetic
+en00983,Crypto: profit up to 37 USD a day! Zero risk. Join @help_24. Thanks.,1,fraud,en,investment,en-fraud-investment-0,close,synthetic
+en00984,"Mom, I'm in hospital. I need 276 USD urgently, my phone broke, texting from a friend's.",1,fraud,en,relative,en-fraud-relative-0,,synthetic
+en00985,Someone tried to log in. If it wasn't you enter your login and password: http://faacebook86.example/update,1,fraud,en,account_pwd,en-fraud-account_pwd-1,,synthetic
+en00986,"Sam, congrats on the new jo!b Let's catch up this weekend.",0,safe,en,family,en-safe-family-1,typo,synthetic
+en00987,"University: parent meeting scheduled for 11/15, 17:15.",0,safe,en,gov_edu,en-safe-gov_edu-0,,synthetic
+en00988,"Hi, Your code: 433343. Enter it on the Spotify site.",,suspicious,en,otp_nowarn,en-suspicious-otp_nowarn-0,greet,synthetic
+en00989,Treasury: you've been apprvoed for a benefit of $34. Collect it within 3 days: https://summit-prime1751.example/iohWuiDI2,1,fraud,en,gov_payment,en-fraud-gov_payment-0,nopunct+typo,synthetic
+en00990,"Mike text me when you're free. Running ten min late, sorry!",0,safe,en,chat,en-safe-chat-1,,synthetic
+en00991,"Hey Ben, you still up for coming to the game tonight? I'll be there around 18:45. No reply needed.",0,safe,en,chat,en-safe-chat-0,close,synthetic
+en00992,Fast loan no refusal in 5 minutes. Details: https://xn--wldugm6tmy1gv.test/index.php?id=27238,,suspicious,en,loan_ad,en-suspicious-loan_ad-0,,synthetic
+en00993,"Kate, thanks for the gift! Can't wait to see you.",0,safe,en,family,en-safe-family-1,,synthetic
+en00994,Thanks for shopping at BestBuy. Total: £99235.,0,safe,en,purchase,en-safe-purchase-0,,synthetic
+en00995,"Barclays fraud team: to block a suspciious transaction, read out the code we sent.",1,fraud,en,cvv_code,en-fraud-cvv_code-0,typo,synthetic
+en00996,A new-device l0g1n w4s detected. If it wasn't y0u 3nter your log1n and password: http://go-link.test/MyncNztd,1,fraud,en,account_pwd,en-fraud-account_pwd-1,leet,synthetic
+en00997,"Grandma, I had an accident. I need 15 USD to this number +1 555 0160, I'll explain later. ok",1,fraud,en,relative,en-fraud-relative-0,mix,synthetic
+en00998,Your relief payment is ready. To get your money enter your card details: http://fedeі-gift.example/bank/login.php?session=WsytETnxJjTQN&user=69739,1,fraud,en,gov_payment,en-fraud-gov_payment-1,,synthetic
+en00999,"School:  parent meeting moved to Dec 3, 12:15.",0,safe,en,gov_edu,en-safe-gov_edu-0,dblspace,synthetic
+en01000,"Grandma,  I'm in trouble with the police. I need $98 to this number +1 555 0168, I'll explain later.",1,fraud,en,relative,en-fraud-relative-0,dblspace,synthetic
+en01001,Your order #46517048 is out for delivery and will arrive Nov 20.,0,safe,en,delivery,en-safe-delivery-0,,synthetic
+en01002,you're a winner! to claim your reward tap https://kaspi.example@market-travel.example/a//b/gwela9p0.,1,fraud,en,prize,en-fraud-prize-1,lower,synthetic
+en01003,"Notice: ben, th4nks for th3 gift! can't wa1t to s3e you.",0,safe,en,family,en-safe-family-1,lower+leet+greet,synthetic
+en01004,"University: class moved to Dec 3, 11:45. Room 89019426.",0,safe,en,gov_edu,en-safe-gov_edu-0,,synthetic
+en01005,Your Uber account will be locked today. Confirm your password now: https://vista-sport-support.test/mEMbqEmjRzU/iH8SZW/rAbkM/44Aqp4/5XSSu27yCr/Osj8Sc3?q=USVId9aM1hMsT3EnBOafNJ21p2bjIH78Pe0,1,fraud,en,account_pwd,en-fraud-account_pwd-0,nopunct,synthetic
+en01006,"your verification code is 505566. never share this cdoe, including santander employees. Regards. plz",0,safe,en,otp,en-safe-otp-0,lower+typo+close+mix,synthetic
+en01007,"Lily call me when you're free. Dinner's at seven, don't be late.",0,safe,en,chat,en-safe-chat-1,,synthetic
+en01008,Santander: deposit of £13663 posted to card ending 9761.,0,safe,en,bank_notice,en-safe-bank_notice-1,,synthetic
+en01009,"Tom, the report is ready. Call at 20:15 in the conference room.",0,safe,en,work,en-safe-work-0,,synthetic
+en01010,Someone tried to log in. If it wasn't you reset your password: https://forestaltyn484863.test/sfoZSTsP,1,fraud,en,account_pwd,en-fraud-account_pwd-1,,synthetic
+en01011,Someone tried to log in. If it wasn't you enter your login and password: https://cloud-pixel.test/orders/36911/track,1,fraud,en,account_pwd,en-fraud-account_pwd-1,,synthetic
+en01012,Mom: don't forget about Saturday's trip. Love you!,0,safe,en,family,en-safe-family-0,,synthetic
+en01013,"Alex, happy birthday! Hgus.",0,safe,en,family,en-safe-family-1,typo,synthetic
+en01014,"804059 is your code to log in to Amazon. If you didn't request it, ignore this message.",0,safe,en,otp,en-safe-otp-1,,synthetic
+en01015,"Your verification code is 503916. Never share this code, including Chase employees.",0,safe,en,otp,en-safe-otp-0,,synthetic
+en01016,Your Spotify account will be deleted today. Confirm your password here: https://update-summitaltyn89.test/auth/signin?redirect=%2Fhome,1,fraud,en,account_pwd,en-fraud-account_pwd-0,,synthetic
+en01017,Your Spotify account will be deleted in 24 hours. Restore access here: http://jmp.test/rlvtjkzO Regards.,1,fraud,en,account_pwd,en-fraud-account_pwd-0,close,synthetic
+en01018,"Hey, it's Nina. Look at this: https://secure.microsoft.example No reply needed.",,suspicious,en,unknown_link,en-suspicious-unknown_link-0,close,synthetic
+en01019,Receipt  at Uber. Total: 36 USD. E-receipt: https://copperaltyn.invalid/account/login,0,safe,en,purchase,en-safe-purchase-0,dblspace,synthetic
+en01020,"tom text me when you're free. dinner's at seven, do'nt be late",0,safe,en,chat,en-safe-chat-1,lower+nopunct+typo,synthetic
+en01021,Barclays Security: a new-device login was flagged on your account. To protect your funds log in: https://whatsapp.account-swift.test/bank/login.php?session=HgmeeH3Ppz2O&user=99951 Regards.,1,fraud,en,bank_phish,en-fraud-bank_phish-0,close,synthetic
+en01022,Grandma: remember about Saturday's trip. Love yuo!,0,safe,en,family,en-safe-family-0,typo,synthetic
+en01023,"57853 is your code to confirm £76188 payment at Amazon. If you didn't request it, ignore this message.",0,safe,en,otp,en-safe-otp-1,,synthetic
+en01024,"Assistatns wanted online: likes, paid instantly. Start today @support_team",1,fraud,en,fake_job,en-fraud-fake_job-1,typo,synthetic
+en01025,investing: profit from 30% a week! guaranteed. message @job_24.,1,fraud,en,investment,en-fraud-investment-0,lower,synthetic
+en01026,Urgent: standup moved to 7:15. Please confirm.,0,safe,en,work,en-safe-work-1,,synthetic
+en01027,"Hi, A complaint was filed against you for fraud. Call +1 555 0153 immediately. This is strictly confidential.",1,fraud,en,fear_secrecy,en-fraud-fear_secrecy-1,greet,synthetic
+en01028,Chase: a new-device login was flagged on your account. To avoid suspensoin log in: https://login.health.microsoft.tausummit.example/9CuDlkY,1,fraud,en,bank_phish,en-fraud-bank_phish-0,typo,synthetic
+en01029,Your parcel is held at customs. You must pay a redelivery fee of $72838 by Monday: https://verify-mapleatlas.example/bank/login.php?session=bYQHXP4rSTp9&user=67245 Regards.,1,fraud,en,delivery_customs,en-fraud-delivery_customs-0,close,synthetic
+en01030,"Dear customer, your details are out of date. Confirm your information now: https://verify-harborbright.example/auth/signin?redirect=%2Fhome Regards.",1,fraud,en,bank_phish,en-fraud-bank_phish-1,close,synthetic
+en01031,your relief payment is ready. to receive funds fill in the form: http://203.0.113.183/account/confirm,1,fraud,en,gov_payment,en-fraud-gov_payment-1,lower,synthetic
+en01032,Friendly reminder: class on Nov 12 at 19:45. Address: Costco. ✅,0,safe,en,reminder,en-safe-reminder-0,emoji,synthetic
+en01033,"842371 is your code to log in to uber. if you didn't request it, ignore this message. пжл",0,safe,en,otp,en-safe-otp-1,lower+mix,synthetic
+en01034,"It's your son, n3w number. Ple4s3 tr4nsfer $21 urgently, l0ng story. пжл",1,fraud,en,relative,en-fraud-relative-1,leet+mix,synthetic
+en01035,"D3ar customer, your p4ssword h4s expired. C0nf1rm y0ur information now: https://www.citylotus.example/contact",1,fraud,en,bank_phish,en-fraud-bank_phish-1,leet,synthetic
+en01036,Your relief payment is ready. To get your money enter your card details: http://wallet.craft.jusan.pearl.invalid/claim/4870,1,fraud,en,gov_payment,en-fraud-gov_payment-1,nopunct,synthetic
+en01037,"Final warning. Your data leaked. Tell no one, to avoid consequences message @help_team.",1,fraud,en,fear_secrecy,en-fraud-fear_secrecy-0,,synthetic
+en01038,"Notice: Barclays: at your request, card ending 9456 has been frozen. You can unlock it in the app or at a branch.",0,safe,en,bank_notice,en-safe-bank_notice-2,greet,synthetic
+en01039,A specialist just called you. Give them the code in this message: 253497 to secure your account.,1,fraud,en,cvv_code,en-fraud-cvv_code-1,,synthetic
+en01040,HSBC: unusual activity was detected on your profile. To protect your funds log in: http://bonus-health.example//login,1,fraud,en,bank_phish,en-fraud-bank_phish-0,,synthetic
+en01041,"Kate  call me whne you're free. Dinner's at seven, don't be late.",0,safe,en,chat,en-safe-chat-1,typo+dblspace,synthetic
+en01042,"Your verification code is 287179. Never share this code, even bank staff.",0,safe,en,otp,en-safe-otp-0,,synthetic
+en01043,Notice: Uber: up to 30% off online until Nov 20. Reply STOP to opt out Thanks.,0,safe,en,ads,en-safe-ads-0,greet+close,synthetic
+en01044,you're owed compensation for service charges. enter your card number so we can pay you: https://hsbc-gift.example/,1,fraud,en,bonus_refund,en-fraud-bonus_refund-1,lower,synthetic
+en01045,HELLO! HSBC: UNUSUAL ACTIVITY WAS FLAGGED ON YOUR ACCOUNT. TO PROTECT YOUR FUNDS LOG IN: HTTP://FACEBOOІ-ACCOUNT.EXAMPLE/DOCS/TRAVEL-BOOKS-TECH.HTML,1,fraud,en,bank_phish,en-fraud-bank_phish-0,greet+upper,synthetic
+en01046,Your code: 493892. Enter it on the Amazon site. Have a nice day! ✅,,suspicious,en,otp_nowarn,en-suspicious-otp_nowarn-0,close+emoji,synthetic
+en01047,Congratulations! You won a gift card in the Netflix draw. Collect your prize: http://[2001:db8::1238]/docs/lotus-tau-altyn.html,1,fraud,en,prize,en-fraud-prize-0,nopunct,synthetic
+en01048,"670802 is your code to confirm $549.33 payment at Spotify. If you didn't request it, ignore this message.",0,safe,en,otp,en-safe-otp-1,,synthetic
+en01049,"Barclays: deposit of £37996 posted to card ending 2013. If this wasn't you, call the number on the back of your card plz",0,safe,en,bank_notice,en-safe-bank_notice-1,nopunct+mix,synthetic
+en01050,Courier will be there Friday between 10 and 2. Driver phone: +1 555 0171,0,safe,en,delivery,en-safe-delivery-1,,synthetic
+en01051,Sam call me when you're free. Can you grab milk on the way?,0,safe,en,chat,en-safe-chat-1,,synthetic
+en01052,Trading: returns up to $680 a day! Guaranteed. Message @help_team.,1,fraud,en,investment,en-fraud-investment-0,,synthetic
+en01053,Your relief payment is ready. To receive funds enter your card details: https://chase-login.test/account/confirm ok,1,fraud,en,gov_payment,en-fraud-gov_payment-1,mix,synthetic
+en01054,"Hello! Valued client, your password has expired. Update your information now: https://sho.invalid/0gtWS",1,fraud,en,bank_phish,en-fraud-bank_phish-1,greet,synthetic
+en01055,Notice: You're owed compensation for your purchase. Enter your card number so we can pay you: http://dhl.example@terrasport26.example/reset/nevWpbdbpLQdnQAo6g0w5hjY4xtrBxcM ok,1,fraud,en,bonus_refund,en-fraud-bonus_refund-1,greet+mix,synthetic
+en01056,"Nina,  thanks for the gift! Hugs.",0,safe,en,family,en-safe-family-1,dblspace,synthetic
+en01057,"Hello! Your verification code is 351473. Do not share it with anyone, including Citi emploeyes.",0,safe,en,otp,en-safe-otp-0,typo+greet,synthetic
+en01058,A NEW-DEVICE LOGIN WAS DETECTED. TO PROTECT IT RESET YOUR PASSWORD: HTTPS://ALPHACAFE.TEST/SEARCH?Q=BOOKS+MAPLE,1,fraud,en,account_pwd,en-fraud-account_pwd-1,upper,synthetic
+en01059,Tax office: your fine of £908 has been paid. Thank you. Regards.,0,safe,en,gov_edu,en-safe-gov_edu-2,close,synthetic
+en01060,your card has been suspended. verify your details now: https://jusan-update.example/swift-fresh,1,fraud,en,card_block,en-fraud-card_block-0,lower,synthetic
+en01061,Urgent: client needs an answer by 18:15.,0,safe,en,work,en-safe-work-1,,synthetic
+en01062,We missed you parcel #52506926. Update delivery details and pay storage 66305 USD: https://f0rte.test/bank/login.php?session=hCs8SJn5lOD&user=74912,1,fraud,en,delivery_customs,en-fraud-delivery_customs-1,,synthetic
+en01063,"your verification code is 351440. never share this code, including chase employees.",0,safe,en,otp,en-safe-otp-0,lower,synthetic
+en01064,"Nina, congrats on the new job! Hugs.",0,safe,en,family,en-safe-family-1,,synthetic
+en01065,Our analyst showed me a trick: made triple in a week. Text me? @supportteam,1,fraud,en,investment,en-fraud-investment-1,,synthetic
+en01066,"Kate text me when you're free. Running ten min late, sorry!",0,safe,en,chat,en-safe-chat-1,,synthetic
+en01067,Your Walmart account will be locked today. Confirm your password now: https://bonus.altyn.instagram.alpha.invalid/account/settings,1,fraud,en,account_pwd,en-fraud-account_pwd-0,,synthetic
+en01068,"yo ben, you still up for coming to the game tomorrow? i'll be at the entrance around 17:30. Thanks.",0,safe,en,chat,en-safe-chat-0,lower+close,synthetic
+en01069,fast loan up to £78240 in 5 minutes. apply: http://support.blue.telegram.sun-pearl.example/login?continue=/home,,suspicious,en,loan_ad,en-suspicious-loan_ad-0,lower,synthetic
+en01070,HSBC: deposit of $69 posted to card ending 2017.,0,safe,en,bank_notice,en-safe-bank_notice-1,,synthetic
+en01071,"Hi, Registrar: parent meeting scheduled for Nov 12, 13:00. Room 19357623. ok",0,safe,en,gov_edu,en-safe-gov_edu-0,greet+mix,synthetic
+en01072,"Your verification code is 439248. Never share this code, including Barclays employees. No reply needed.",0,safe,en,otp,en-safe-otp-0,close,synthetic
+en01073,Citi: access to card ending 8432 is paused. To keep using your card verify here: https://www.bluesun.invalid/orders/79170/track,1,fraud,en,card_block,en-fraud-card_block-1,,synthetic
+en01074,You're a winner! To get your prize tap https://forte-support.test/login?continue=/home.,1,fraud,en,prize,en-fraud-prize-1,,synthetic
+en01075,your card has been restricted! unlock it now: https://sportmarket87.test/?token=uat5&id=znwqrx&user=v25kov0g Thanks.,1,fraud,en,card_block,en-fraud-card_block-0,lower+close,synthetic
+en01076,Our analyst showed me a trick: made triple in a week. Want in? @prokz,1,fraud,en,investment,en-fraud-investment-1,,synthetic
+en01077,Important: client needs an answer by 15:00. Please confirm. plz,0,safe,en,work,en-safe-work-1,mix,synthetic
+en01078,Your  number was picked! To claim oyur reward reply YES.,1,fraud,en,prize,en-fraud-prize-1,typo+dblspace,synthetic
+en01079,We missed you parcel #60297898. Confirm your address: https://kazppost.invalid/orbit-sun-vista-harbor,1,fraud,en,delivery_customs,en-fraud-delivery_customs-1,,synthetic
+en01080,You're under investigation for violation. Call +1 555 0170 immediately. Don't tell anyone. Have a nice day!,1,fraud,en,fear_secrecy,en-fraud-fear_secrecy-1,close,synthetic
+en01081,"Sam, the deck is ready. Call at 21:45 on Zoom. No reply needed.",0,safe,en,work,en-safe-work-0,close,synthetic
+en01082,City hall: your balance of $79522 has been paid. Thank you.,0,safe,en,gov_edu,en-safe-gov_edu-2,,synthetic
+en01083,"Hi, Hey Ben, you still up for coming to the gym tonight? I'll be there around 14:15.",0,safe,en,chat,en-safe-chat-0,greet,synthetic
+en01084,Your order #29408356 is ready for pickup and will arrive Nov 12. Track it: https://app.silkpixel.test/a/b/c/d/lumen-harbor-grand/index.html,0,safe,en,delivery,en-safe-delivery-0,,synthetic
+en01085,Courier will be there Monday between 10 and 2. Driver phone: +1 555 0166,0,safe,en,delivery,en-safe-delivery-1,,synthetic
+en01086,Urgent: client needs an answer by 22:45. Please confirm.,0,safe,en,work,en-safe-work-1,,synthetic
+en01087,Your order #97924000 has shipped and will arrive Friday. Thanks.,0,safe,en,delivery,en-safe-delivery-0,close,synthetic
+en01088,You're owed compensation for service charges. Enter your card number to receive £475: https://instagram-secure.example/about,1,fraud,en,bonus_refund,en-fraud-bonus_refund-1,,synthetic
+en01089,DMV: your documents are ready. Details at https://egov-docs.example/status/43531,0,safe,en,gov_edu,en-safe-gov_edu-1,,synthetic
+en01090,Barclays: access to card ending 3554 is limited. To restore it complete a quick check: https://fedex-gift.example/login,1,fraud,en,card_block,en-fraud-card_block-1,,synthetic
+en01091,Citi Security: unusual activity was detected on your account. To aviod suspension log in: https://bonus-learn-royal.invalid/,1,fraud,en,bank_phish,en-fraud-bank_phish-0,nopunct+typo,synthetic
+en01092,"It's your son, new number. Please transfer $27 urgently, long story.",1,fraud,en,relative,en-fraud-relative-1,,synthetic
+en01093,Notice: Receipt at Uber. Total: £798. E-receipt: https://login.film-steppe.test/auth/confirm?continue=/home Have a nice day!,0,safe,en,purchase,en-safe-purchase-0,greet+close,synthetic
+en01094,Receipt at Walmart. Total: $90. E-receipt: https://www.ironsun.example,0,safe,en,purchase,en-safe-purchase-0,,synthetic
+en01095,"Hello! Barclays fraud team: to cancel a suspicious transaction, read out your PIN. 😊",1,fraud,en,cvv_code,en-fraud-cvv_code-0,greet+emoji,synthetic
+en01096,anna call me when you're free. can you grab milk on the way?,0,safe,en,chat,en-safe-chat-1,lower,synthetic
+en01097,"Good day. Technician: your c0mputer 1s infected. C4ll +1 555 0182, we'll help.",1,fraud,en,tech_support,en-fraud-tech_support-1,leet+greet,synthetic
+en01098,Good day. We couldn't deliver parcel #24974285. Update delivery details: http://verify.iron.binance.quartz-media.test/login?continue=/home,1,fraud,en,delivery_customs,en-fraud-delivery_customs-1,nopunct+greet,synthetic
+en01099,we'll refund you for your purchase. leave your card details so we can pay you: http://192.0.2.132/login,1,fraud,en,bonus_refund,en-fraud-bonus_refund-1,lower,synthetic
+en01100,Your code: 522629. Enter it on the aZra site,,suspicious,en,otp_nowarn,en-suspicious-otp_nowarn-0,nopunct+typo,synthetic
+en01101,Good day. Tax Agency: you are eligible for a tax refund of £71. Collect it by Nov 20: https://royalterra.example:8443/,1,fraud,en,gov_payment,en-fraud-gov_payment-0,nopunct+greet,synthetic
+en01102,HSBC Security: a new-device login was flagged on your account. To protect your funds verify: http://insstagram65.example/bank/login.php?session=XHJAIQP3fCjA7jCyf8b&user=36594,1,fraud,en,bank_phish,en-fraud-bank_phish-0,,synthetic
+en01103,"Notice: operators needed from home: orders, earn $674.21. text @invest.team",1,fraud,en,fake_job,en-fraud-fake_job-1,lower+nopunct+greet,synthetic
+en01104,Barclays: deposit of 27 USD posted to card ending 0533.,0,safe,en,bank_notice,en-safe-bank_notice-1,,synthetic
+en01105,"university: class moved to 11/15, 9:15. room 65259055.",0,safe,en,gov_edu,en-safe-gov_edu-0,lower,synthetic
+en01106,"Hi, Technician: your computer is infected. Call +1 555 0197, we'll help. ok",1,fraud,en,tech_support,en-fraud-tech_support-1,greet+mix,synthetic
+en01107,"HSBC: at your request, card ending 5580 has been temporarily locked.",0,safe,en,bank_notice,en-safe-bank_notice-2,,synthetic
+en01108,YOU'RE OUR LUCKY WINNER! YOU HAVE BEEN SELECTED FOR A NEW PHONE IN THE WALMART PROMO. COLLECT YOUR PRIZE: HTTP://GRANDMAPLE8715.EXAMPLE/NOECAP,1,fraud,en,prize,en-fraud-prize-0,upper,synthetic
+en01109,"Barclays: at your request, card ending 0029 has been temporarily locked. You can unlock it in the app or at a branch.",0,safe,en,bank_notice,en-safe-bank_notice-2,,synthetic

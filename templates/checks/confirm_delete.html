@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% load sg %}
+{% block title %}Удаление{% endblock %}
+{% block content %}
+<div class="panel panel-body mx-auto narrow">
+  {% if check %}
+  <h1 class="h3">Удалить запись №{{ check.pk }}?</h1>
+  <p class="muted">{{ check.created_at|date:"d.m.Y H:i" }} · {{ check.get_kind_display }} · {{ check.category|category_label }}, риск {{ check.risk_score }}. Действие нельзя отменить.</p>
+  <form method="post" class="d-flex gap-2">{% csrf_token %}
+    <button class="btn btn-danger" type="submit">Удалить</button>
+    <a class="btn btn-outline-secondary" href="{% url 'checks:detail' check.pk %}">Отмена</a></form>
+  {% else %}
+  <h1 class="h3">Очистить всю историю?</h1>
+  <p class="muted">Будет удалено записей: {{ count }}. Действие нельзя отменить.</p>
+  <form method="post" class="d-flex gap-2">{% csrf_token %}
+    <button class="btn btn-danger" type="submit" {% if not count %}disabled{% endif %}>Удалить всё</button>
+    <a class="btn btn-outline-secondary" href="{% url 'checks:history' %}">Отмена</a></form>
+  {% endif %}
+</div>
+{% endblock %}

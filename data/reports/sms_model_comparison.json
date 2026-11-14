@@ -1,0 +1,206 @@
+{
+ "comparison": [
+  {
+   "accuracy": 0.913135593220339,
+   "precision": 0.8532818532818532,
+   "recall": 0.9866071428571429,
+   "f1": 0.9151138716356108,
+   "f2": 0.9567099567099567,
+   "roc_auc": 0.9848070276497696,
+   "pr_auc": 0.9824693697215796,
+   "tn": 210,
+   "fp": 38,
+   "fn": 3,
+   "tp": 221,
+   "threshold": 0.5,
+   "model": "MultinomialNB",
+   "features": "word+char+manual",
+   "best_params": {
+    "clf__alpha": 0.01
+   },
+   "cv_f2": 0.8743188370150289,
+   "fit_seconds": 8.5,
+   "predict_ms_per_sms": 0.163
+  },
+  {
+   "accuracy": 0.9046610169491526,
+   "precision": 0.8874458874458875,
+   "recall": 0.9151785714285714,
+   "f1": 0.9010989010989011,
+   "f2": 0.9094942324755989,
+   "roc_auc": 0.9747263824884793,
+   "pr_auc": 0.9709799146396749,
+   "tn": 222,
+   "fp": 26,
+   "fn": 19,
+   "tp": 205,
+   "threshold": 0.5,
+   "model": "MultinomialNB",
+   "features": "word_only",
+   "best_params": {
+    "clf__alpha": 0.01
+   },
+   "cv_f2": 0.8226319089365809,
+   "fit_seconds": 2.1,
+   "predict_ms_per_sms": 0.043
+  },
+  {
+   "accuracy": 0.875,
+   "precision": 0.851063829787234,
+   "recall": 0.8928571428571429,
+   "f1": 0.8714596949891068,
+   "f2": 0.8841732979664014,
+   "roc_auc": 0.9666978686635944,
+   "pr_auc": 0.9692216760901287,
+   "tn": 213,
+   "fp": 35,
+   "fn": 24,
+   "tp": 200,
+   "threshold": 0.5,
+   "model": "LogisticRegression",
+   "features": "word+char+manual",
+   "best_params": {
+    "clf__C": 30
+   },
+   "cv_f2": 0.8645050448152982,
+   "fit_seconds": 11.1,
+   "predict_ms_per_sms": 0.167
+  },
+  {
+   "accuracy": 0.7266949152542372,
+   "precision": 0.6666666666666666,
+   "recall": 0.8482142857142857,
+   "f1": 0.7465618860510805,
+   "f2": 0.8044030482641829,
+   "roc_auc": 0.8669894873271891,
+   "pr_auc": 0.8800340442037584,
+   "tn": 153,
+   "fp": 95,
+   "fn": 34,
+   "tp": 190,
+   "threshold": 0.5,
+   "model": "LogisticRegression",
+   "features": "word_only",
+   "best_params": {
+    "clf__C": 0.3
+   },
+   "cv_f2": 0.8393791525568387,
+   "fit_seconds": 2.8,
+   "predict_ms_per_sms": 0.046
+  },
+  {
+   "accuracy": 0.8877118644067796,
+   "precision": 0.8518518518518519,
+   "recall": 0.9241071428571429,
+   "f1": 0.8865096359743041,
+   "f2": 0.9086918349429324,
+   "roc_auc": 0.9697760656682028,
+   "pr_auc": 0.9741133844300199,
+   "tn": 212,
+   "fp": 36,
+   "fn": 17,
+   "tp": 207,
+   "threshold": 0.5,
+   "model": "LinearSVC+Calibrated",
+   "features": "word+char+manual",
+   "best_params": {
+    "clf__estimator__C": 3
+   },
+   "cv_f2": 0.8967531066483433,
+   "fit_seconds": 9.4,
+   "predict_ms_per_sms": 0.166
+  },
+  {
+   "accuracy": 0.8389830508474576,
+   "precision": 0.7846153846153846,
+   "recall": 0.9107142857142857,
+   "f1": 0.8429752066115702,
+   "f2": 0.8823529411764706,
+   "roc_auc": 0.9315956221198156,
+   "pr_auc": 0.9411708768034066,
+   "tn": 192,
+   "fp": 56,
+   "fn": 20,
+   "tp": 204,
+   "threshold": 0.5,
+   "model": "LinearSVC+Calibrated",
+   "features": "word_only",
+   "best_params": {
+    "clf__estimator__C": 3
+   },
+   "cv_f2": 0.8661351026155655,
+   "fit_seconds": 2.5,
+   "predict_ms_per_sms": 0.046
+  }
+ ],
+ "fn_examples": [
+  {
+   "lang": "ru",
+   "category": "account_pwd",
+   "p": 0.32547588213545287,
+   "text": "Здравствуйте! обнаружен вход с нового устройства. если это не вы смените пароль: https://u.example/gertpl3"
+  },
+  {
+   "lang": "en",
+   "category": "prize",
+   "p": 0.0003075118606100924,
+   "text": "Congratulations! You won a gift card in the Amazon draw. Claim it: http://kazpost.bank-steppe.example/track/92058"
+  },
+  {
+   "lang": "en",
+   "category": "prize",
+   "p": 0.005953254129553402,
+   "text": "Congratulations! You have been selected for a gift card in the Netflix draw. Collect it: https://www.cloud.example/shop/market?utm_source=sms&utm_medium=notice&ref=1gyOWLL"
+  }
+ ],
+ "fp_examples": [
+  {
+   "lang": "ru",
+   "category": "delivery",
+   "p": 0.9999999971709599,
+   "text": "Ваш заказ №65294067 передан в доставку и будет доставлен 15.11.2026. Отследить: https://www.jusan.example/login?continue=/home"
+  },
+  {
+   "lang": "ru",
+   "category": "otp",
+   "p": 0.9999999999768079,
+   "text": "Код подтверждения: 361836. Никому не сообщайте его никому, даже сотрудникам банка."
+  },
+  {
+   "lang": "ru",
+   "category": "delivery",
+   "p": 0.9999999982163104,
+   "text": "ваш заказ №42036079 ожидает в пункте выдачи и будет доставлен 12.11. отследить: https://www.delta.example/blog/alpha-steppe-fresh-urban"
+  },
+  {
+   "lang": "ru",
+   "category": "delivery",
+   "p": 0.9999998192722493,
+   "text": "Ваш заказ №48817328 ожидает в пункте выдачи и будет доставлен 15.11.2026. Отследить: http://www.stone.test/ asap"
+  },
+  {
+   "lang": "ru",
+   "category": "delivery",
+   "p": 0.9999999684604721,
+   "text": "Ваш заказ №23316234 передан в доставку и прибудет 15.11.2026."
+  },
+  {
+   "lang": "ru",
+   "category": "otp",
+   "p": 0.9999999711900505,
+   "text": "Здравствуйте! Код подтверждения: 868438. Не передавайте этот код третьим лицам, включая сотрудников Тинькофф."
+  },
+  {
+   "lang": "ru",
+   "category": "delivery",
+   "p": 0.9999999714453058,
+   "text": "Ваш заказ №16965845 ожидает в пункте выдачи и прибудет в среду. Отследить: https://pixel.example/download/report-55360.pdf"
+  },
+  {
+   "lang": "ru",
+   "category": "otp",
+   "p": 0.9999999991752588,
+   "text": "Ваш код: 672697. Не передавайте этот код никому, даже сотрудникам банка. С уважением."
+  }
+ ]
+}
